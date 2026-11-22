@@ -1,0 +1,27 @@
+
+{
+  "name": "Mi Zona Deportiva",
+  "short_name": "Zona Deportiva",
+  "description": "Noticias deportivas del Athletic Club, Recreativo de Huelva y otros deportes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f4f9",
+  "theme_color": "#bd1735",
+  "orientation": "portrait",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
