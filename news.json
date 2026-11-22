@@ -1,1 +1,1514 @@
-{"updated":null,"topics":{},"errors":{}}
+{
+  "updated": "2026-11-22T22:06:57.142320+00:00",
+  "topics": {
+    "Athletic Club": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTU3SXhRbWNUWFRmaDJueU81SmRoV3hHM0hVOGQtMGtJcl9EcGtEekF4N1ZJR2ZoUnk3NnROWFNBQnYwMi1kdk1jaE43OUVSeF83UzhhUVdDNDhYWGxYaVd3TEdSOTBtSWlxcnN4U1kxbGIwQ2haSXlLN1ZhYy02Y2dtamN5ZmpsZUNZc3kxZkxUY1djVldzaXZZZw?oc=5",
+        "title": "Fallece Blas Ziarreta, figura clave en Lezama - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTU3SXhRbWNUWFRmaDJueU81SmRoV3hHM0hVOGQtMGtJcl9EcGtEekF4N1ZJR2ZoUnk3NnROWFNBQnYwMi1kdk1jaE43OUVSeF83UzhhUVdDNDhYWGxYaVd3TEdSOTBtSWlxcnN4U1kxbGIwQ2haSXlLN1ZhYy02Y2dtamN5ZmpsZUNZc3kxZkxUY1djVldzaXZZZw?oc=5",
+        "date": "Tue, 17 Nov 2026 09:21:39 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGFVTW13aFh0c18xZ08zM1pveFZHdk1Hei0zZmZsVVdaREt2amhIRm16eDlqWTdxSHVPdExfTTFNMkw2SFVjQkNwRXVQOW9RN01yb0ZFR1VjY3EyUjIwUmNob2g5MEdOOTRpbTNsS2hWakZ0Q2JfYkRJRTNscjVpYWg1c2xFc3haem0wZFM2QWFGajZvUGZoZlZpaUpfTzNXYnNZ?oc=5",
+        "title": "El Levante UD Femenino mereció mucho más ante el Athletic Club (0-1) - Levante UD | Web Oficial",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGFVTW13aFh0c18xZ08zM1pveFZHdk1Hei0zZmZsVVdaREt2amhIRm16eDlqWTdxSHVPdExfTTFNMkw2SFVjQkNwRXVQOW9RN01yb0ZFR1VjY3EyUjIwUmNob2g5MEdOOTRpbTNsS2hWakZ0Q2JfYkRJRTNscjVpYWg1c2xFc3haem0wZFM2QWFGajZvUGZoZlZpaUpfTzNXYnNZ?oc=5",
+        "date": "Wed, 18 Nov 2026 19:02:25 GMT",
+        "source": "Levante UD | Web Oficial",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZXpkQzg5cXdDR2NLcXlPVWticWFETkZJbE1OVndReE9Pc2cwam9rTnJTTkkxV3dnV3dhcnNnbVdmZnA2cEJOSUpGWHgzT25VS3I5Q0FuYTZzTjFwNkNQcGZqMGZwWjZjZzM3R1JUZFpJRWk4WWNjclhkZ0NSRHE4a1luZWd2Sk0yYndxc2Z6RWRCbFdRejJkM0ZtQnQ5WWQyd0l1V2h3c3MzdUFQUklCWWIxcEE0MmtHNTAtdGlTalk2QkZDUHNocGJzMm9hUVJfM05IX3d3?oc=5",
+        "title": "FC Barcelona vs Athletic Club: horario y dónde ver hoy por TV y online Liga F 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZXpkQzg5cXdDR2NLcXlPVWticWFETkZJbE1OVndReE9Pc2cwam9rTnJTTkkxV3dnV3dhcnNnbVdmZnA2cEJOSUpGWHgzT25VS3I5Q0FuYTZzTjFwNkNQcGZqMGZwWjZjZzM3R1JUZFpJRWk4WWNjclhkZ0NSRHE4a1luZWd2Sk0yYndxc2Z6RWRCbFdRejJkM0ZtQnQ5WWQyd0l1V2h3c3MzdUFQUklCWWIxcEE0MmtHNTAtdGlTalk2QkZDUHNocGJzMm9hUVJfM05IX3d3?oc=5",
+        "date": "Sun, 22 Nov 2026 11:38:47 GMT",
+        "source": "DAZN",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDZtYlB1OXJqRTMyaUg5ZFZMdUZUSmg3TzVYMlZneEVfbWtiQi1Kd3I0WHVRMkM3MTZESHpMWFFZMG9ObVJjMXJhMDhRUERpRkYyQUtjWUJHYWJlUmg3cjlBNkdNXzc2S3d2UFpjWXlEOXpnTlVoY2l3NnF5MWVTMWNHSlJWd244ank4QUpjUkd1QXlHVkYtRzNsVXJQR0hRQWQ4UEtfVnhvVDNyTk5NdkxYRm9DTTl2?oc=5",
+        "title": "Hora y dónde ver la 12ª jornada de la Liga F de fútbol femenino gratis en TV - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDZtYlB1OXJqRTMyaUg5ZFZMdUZUSmg3TzVYMlZneEVfbWtiQi1Kd3I0WHVRMkM3MTZESHpMWFFZMG9ObVJjMXJhMDhRUERpRkYyQUtjWUJHYWJlUmg3cjlBNkdNXzc2S3d2UFpjWXlEOXpnTlVoY2l3NnF5MWVTMWNHSlJWd244ank4QUpjUkd1QXlHVkYtRzNsVXJQR0hRQWQ4UEtfVnhvVDNyTk5NdkxYRm9DTTl2?oc=5",
+        "date": "Fri, 20 Nov 2026 12:39:57 GMT",
+        "source": "RTVE.es",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWx4N3oyVFRKOXNMeWptMjJKSlV6T2RlTjU2UHdTN2tQdkdxWGRmRGVaNEdYcEEzNkEtNEh1ZXl2blpCemF6dGZYMzlTZW9WWE8yMnlDSWV0Um1jSi14dGx3XzdmQVlCNmo1ckhwVzZNdGJyS2VVd3JaenlMblYxTkxfTGVTMGdOMGNXc090UVlVcUlMNFhJbFdFMDZNYXZrTmJnZlhSTlV4ZjgzQ1IyQjczQXVOOHBq?oc=5",
+        "title": "Dónde ver el partido: Athletic Club-RCD Espanyol (J13 - LaLiga 2026/27) - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWx4N3oyVFRKOXNMeWptMjJKSlV6T2RlTjU2UHdTN2tQdkdxWGRmRGVaNEdYcEEzNkEtNEh1ZXl2blpCemF6dGZYMzlTZW9WWE8yMnlDSWV0Um1jSi14dGx3XzdmQVlCNmo1ckhwVzZNdGJyS2VVd3JaenlMblYxTkxfTGVTMGdOMGNXc090UVlVcUlMNFhJbFdFMDZNYXZrTmJnZlhSTlV4ZjgzQ1IyQjczQXVOOHBq?oc=5",
+        "date": "Tue, 17 Nov 2026 10:57:11 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjJZeFRTWXQwMF9aVXBlMHl3YU5KYnlNX0RrenNrem5BTzlfV0lxckdZbzJRdjh6MTdtRTBYY2NhRjctVzZwQ3BHSEFwbkZBS29mUGYwWndIS3hXUFZSa0EtNkd2UU9jMmlka2VQNTgyNTA2V2pOaVN5MFRVWXZodTl5Wk9QUXZqS3NuX3dTdjZnTWVncF82ZWtMT01Rb2UtSmNqUDVmbG9rWktGR1RmTWwxelVfUy1RMWJjQXpSRjRBanJzVGxZbnY5bS1JMGZWYm0teTc3RXI3S2lxUWJIOHFJR3I?oc=5",
+        "title": "Athletic vs Espanyol: horario y dónde ver hoy por TV gratis y online el partido de LaLiga 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjJZeFRTWXQwMF9aVXBlMHl3YU5KYnlNX0RrenNrem5BTzlfV0lxckdZbzJRdjh6MTdtRTBYY2NhRjctVzZwQ3BHSEFwbkZBS29mUGYwWndIS3hXUFZSa0EtNkd2UU9jMmlka2VQNTgyNTA2V2pOaVN5MFRVWXZodTl5Wk9QUXZqS3NuX3dTdjZnTWVncF82ZWtMT01Rb2UtSmNqUDVmbG9rWktGR1RmTWwxelVfUy1RMWJjQXpSRjRBanJzVGxZbnY5bS1JMGZWYm0teTc3RXI3S2lxUWJIOHFJR3I?oc=5",
+        "date": "Fri, 20 Nov 2026 14:02:38 GMT",
+        "source": "DAZN",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHJESWRRLVA1dk1UTmQ0U29XMWljejhYTVdocVRRREpEcVVlT3RJeEN4RllIYWxSX0dtX1NnNE84TDVtc2RQc19SakpMNFZLOTcyMTYwektqalI4alctZ2g0NXhYYzhkV3RnVFNjWkl0cG45bVBRVEpxSlZCSG95X0gwYnp3a0RDb3k4UEhDWE4yZGRjUFRQYQ?oc=5",
+        "title": "Mirai, nuevo patrocinador del Athletic Club - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHJESWRRLVA1dk1UTmQ0U29XMWljejhYTVdocVRRREpEcVVlT3RJeEN4RllIYWxSX0dtX1NnNE84TDVtc2RQc19SakpMNFZLOTcyMTYwektqalI4alctZ2g0NXhYYzhkV3RnVFNjWkl0cG45bVBRVEpxSlZCSG95X0gwYnp3a0RDb3k4UEhDWE4yZGRjUFRQYQ?oc=5",
+        "date": "Thu, 19 Nov 2026 12:10:52 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1FpT3Q1anoxOEFaekpSZTMzNHM3OWM1Sjk3UFBTMDFvOC1jdjJKaWxUcVVMaUhSeXdMNDduSEhBWkhXVG42VWRYWk1GbEtmSU5yYnQwczkxelRfa3BRUTdPOWpzcERCSURpamoxTUZlT0FUOU1MY1I4UzJ2MEw5TVNuS2RmMmhXRTJ6dGtLVjF4dw?oc=5",
+        "title": "No hemos encontrado soluciones al gol - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1FpT3Q1anoxOEFaekpSZTMzNHM3OWM1Sjk3UFBTMDFvOC1jdjJKaWxUcVVMaUhSeXdMNDduSEhBWkhXVG42VWRYWk1GbEtmSU5yYnQwczkxelRfa3BRUTdPOWpzcERCSURpamoxTUZlT0FUOU1MY1I4UzJ2MEw5TVNuS2RmMmhXRTJ6dGtLVjF4dw?oc=5",
+        "date": "Fri, 20 Nov 2026 23:01:24 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTYtb3dsdDBDRGUyekN4aTc2alZjRUozQzUzVUUwdlNUbi1xd3VWYXlPRjFBc05kZ19WdERVTWZEWWVmZ19JQUZ5RmxvUENmUVdnT3dsUWtwSlpFdUlSY1Eyem1OQ0ozM0JBWkhqeGRKTGhwXzI4UHN0Y0F0aGl1RTBCTHlnTHRFajBKNjNFemhzdUY4dWxzT3pGdnJqU05vVGxJVjRrNll0RHNpN1dJa2JkbWVZSzB3WENsWEx0U2VNMUVBSUpoNQ?oc=5",
+        "title": "Aitor Paredes protagoniza el nuevo 'Tú Preguntas' de Club Athletic | Athletic Club Website Oficial - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTYtb3dsdDBDRGUyekN4aTc2alZjRUozQzUzVUUwdlNUbi1xd3VWYXlPRjFBc05kZ19WdERVTWZEWWVmZ19JQUZ5RmxvUENmUVdnT3dsUWtwSlpFdUlSY1Eyem1OQ0ozM0JBWkhqeGRKTGhwXzI4UHN0Y0F0aGl1RTBCTHlnTHRFajBKNjNFemhzdUY4dWxzT3pGdnJqU05vVGxJVjRrNll0RHNpN1dJa2JkbWVZSzB3WENsWEx0U2VNMUVBSUpoNQ?oc=5",
+        "date": "Mon, 16 Nov 2026 13:04:24 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajJCQ25FRnlGaU9lb2Vua1dQQkZwMzNQNjlVbkNWUzlZQkgwaXFiZEt1aFVlZjJaazU3WUJWZkVCTXRvSy12ZDBuTTctYkxjU3JlN1l2MUxkN016YWZhekRqOUJYR3dZMnFGS1BUSklDSFZ2c2VOZ1JHTXd1NmFzcndvOE03OUdPVjI3d2t0bkJIWnpJYzlsLWdxOXR5b00?oc=5",
+        "title": "Homenaje a las campeonas del mundo en San Mamés - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajJCQ25FRnlGaU9lb2Vua1dQQkZwMzNQNjlVbkNWUzlZQkgwaXFiZEt1aFVlZjJaazU3WUJWZkVCTXRvSy12ZDBuTTctYkxjU3JlN1l2MUxkN016YWZhekRqOUJYR3dZMnFGS1BUSklDSFZ2c2VOZ1JHTXd1NmFzcndvOE03OUdPVjI3d2t0bkJIWnpJYzlsLWdxOXR5b00?oc=5",
+        "date": "Thu, 19 Nov 2026 10:20:19 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVBjZWdlaGxZY0FsMUg2bFhKcDU2WVQwSjl1UzUxNnBzVWZHeFQ2cF9KblA0RkF6blhoWVdaSXYwV2ZtcDFsZkR2NFVCM2dNdlAwOTlFZ2hPejBmTWJVUTF3YW9pZGNSLWZHdkpJUHF3MlduSy03bUsxM21uMjZWdHJoZ3Y?oc=5",
+        "title": "Parte médico de Dani Vivian - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVBjZWdlaGxZY0FsMUg2bFhKcDU2WVQwSjl1UzUxNnBzVWZHeFQ2cF9KblA0RkF6blhoWVdaSXYwV2ZtcDFsZkR2NFVCM2dNdlAwOTlFZ2hPejBmTWJVUTF3YW9pZGNSLWZHdkpJUHF3MlduSy03bUsxM21uMjZWdHJoZ3Y?oc=5",
+        "date": "Mon, 16 Nov 2026 18:30:49 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbExreDdiR1huXy1lZmpTQzFrNWN1SFVTUnpyczhrZFQ1SzQ3UkJfbnNGQWVzU1Vuem1OMFhKZ2pmc2V4bzNkU3l2aEY4UEdfSVlTNU5xX2MxMDlUODFpQ1VtcnZRS3o3OTVXRnhsTFBiMEJUQWx3R3FnZ0ZfbXhVamdZY1pCZ3NVWDEzSVU2QWp0SVNpMHNCSkhBa0JCWXZ0Nmw3T3NRa284SGh0UUU2MFNTbTJuNVc1dVJGQTJ2OWtUVVZTMVJ2czgwTTBkY0otTXlnUmFMYVhhQklOQmpV?oc=5",
+        "title": "FC Barcelona - Athletic Club | Partido | Liga F | 22/11/2026 - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbExreDdiR1huXy1lZmpTQzFrNWN1SFVTUnpyczhrZFQ1SzQ3UkJfbnNGQWVzU1Vuem1OMFhKZ2pmc2V4bzNkU3l2aEY4UEdfSVlTNU5xX2MxMDlUODFpQ1VtcnZRS3o3OTVXRnhsTFBiMEJUQWx3R3FnZ0ZfbXhVamdZY1pCZ3NVWDEzSVU2QWp0SVNpMHNCSkhBa0JCWXZ0Nmw3T3NRa284SGh0UUU2MFNTbTJuNVc1dVJGQTJ2OWtUVVZTMVJ2czgwTTBkY0otTXlnUmFMYVhhQklOQmpV?oc=5",
+        "date": "Sun, 22 Nov 2026 10:51:47 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcllMX3Z1TnEwckdZemhma2tIbV9nQUFiVVBrYWo3T3NlMnFoZTUxRkJGREZKT2hUQndQdThzM3I2NzZhVnJ5QW8tSUNjWkFaeUxzaE9pVHFWUzBjZHowM09kN2dvaEpWcWg3dnNkVnhneVI1XzBSRDJsMEpyVjJObkc1Y2RNVF9nblpRdk1TX2VVNm95dllrTzB2NUV5MVNJOUE?oc=5",
+        "title": "Cinco leonas en la lista de la selección española - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcllMX3Z1TnEwckdZemhma2tIbV9nQUFiVVBrYWo3T3NlMnFoZTUxRkJGREZKT2hUQndQdThzM3I2NzZhVnJ5QW8tSUNjWkFaeUxzaE9pVHFWUzBjZHowM09kN2dvaEpWcWg3dnNkVnhneVI1XzBSRDJsMEpyVjJObkc1Y2RNVF9nblpRdk1TX2VVNm95dllrTzB2NUV5MVNJOUE?oc=5",
+        "date": "Fri, 20 Nov 2026 11:10:06 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRWNlpfT3paeTVabFJxd3pHblpQajM5dzk5UWFQcGhtN3YxV1dhQ2IxdlJDWXRrZlVRVjcxVVkySUswLWkyY2QwTGhZc19SMzZmTHVPSzlrRFdESnpZb0txLWM2TVpxZzZsX1BBVXZjalFCRlFwSTA2NkJOSXNEeGxOSk40OVlLWlYxSFBOajVjSnlMaDJjTngySG1ldk1oLWw1S291anNHdlU?oc=5",
+        "title": "El Juvenil A y el Femenino B, en directo en Athletic Play - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRWNlpfT3paeTVabFJxd3pHblpQajM5dzk5UWFQcGhtN3YxV1dhQ2IxdlJDWXRrZlVRVjcxVVkySUswLWkyY2QwTGhZc19SMzZmTHVPSzlrRFdESnpZb0txLWM2TVpxZzZsX1BBVXZjalFCRlFwSTA2NkJOSXNEeGxOSk40OVlLWlYxSFBOajVjSnlMaDJjTngySG1ldk1oLWw1S291anNHdlU?oc=5",
+        "date": "Tue, 17 Nov 2026 12:15:24 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUl3U3FrMGkzWS02elhuNFB0M0ZzWHZiVlJ2WHZfWjN2LTY5QWpDRFNBWG5BZk9VSmdfblp1NmNkY2tIUGh6SjdmNnRsNlRuUkFfcUVfSTlhR3VzelFRVVdJTE9pRmRfU1NXTXZwWUh4cUxfaXQ4ai04WmIwdzNHYVFtYzI?oc=5",
+        "title": "CD Mirandés - Bilbao Athletic | Partido | 1ª Federación | 21/11/2026 - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUl3U3FrMGkzWS02elhuNFB0M0ZzWHZiVlJ2WHZfWjN2LTY5QWpDRFNBWG5BZk9VSmdfblp1NmNkY2tIUGh6SjdmNnRsNlRuUkFfcUVfSTlhR3VzelFRVVdJTE9pRmRfU1NXTXZwWUh4cUxfaXQ4ai04WmIwdzNHYVFtYzI?oc=5",
+        "date": "Sat, 21 Nov 2026 14:10:01 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUlOb3U3aldKczhrNUQ1REE1SnY5ckE3d01LOV9WaVV2LWZPWUZUS2lEOGVtMk83VGhPN3NYLUMweWptbDFKc1VKV1I3amNUMDZkY0trTTFyOU55S21mTTBsT1pZN2QwV2JIaFdYQU9hU2IxMjVBX1lHdmx2NXIxV3o3OEN0YW5ITHZpNTI5cVROX1FzZnB0NzV3WmpWVzRtX1A5aXUyejl2UXUyYmR5OGhTU3oxaDJaZC1N?oc=5",
+        "title": "RCD Espanyol | Partido | Liga | 20/11/2026 - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUlOb3U3aldKczhrNUQ1REE1SnY5ckE3d01LOV9WaVV2LWZPWUZUS2lEOGVtMk83VGhPN3NYLUMweWptbDFKc1VKV1I3amNUMDZkY0trTTFyOU55S21mTTBsT1pZN2QwV2JIaFdYQU9hU2IxMjVBX1lHdmx2NXIxV3o3OEN0YW5ITHZpNTI5cVROX1FzZnB0NzV3WmpWVzRtX1A5aXUyejl2UXUyYmR5OGhTU3oxaDJaZC1N?oc=5",
+        "date": "Fri, 20 Nov 2026 09:04:03 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnBRNlB4R0Zjd1AxUXJsUlFlSzNNQnFQYnNsZzNrX1BCaTlsLXV0ckxHZ0h5aFFIaE56OHlsRTh4TzA1aHpqdTZfWktoN2NFMGRVLWhwRWx6TDh2cXBpYnVsS003VFVUalBNdVdlTHpwbnN4dXNmVTBhUEowWXpRZzQ2TTRqcnlYbW5jM3lZRHpGN2s3V21leU9tYXVaYVg0RVc2NkRQTk5WTk81MzkwRE13?oc=5",
+        "title": "Descarga el boletín del Athletic Club - RCD Espanyol (LaLiga - J13) - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnBRNlB4R0Zjd1AxUXJsUlFlSzNNQnFQYnNsZzNrX1BCaTlsLXV0ckxHZ0h5aFFIaE56OHlsRTh4TzA1aHpqdTZfWktoN2NFMGRVLWhwRWx6TDh2cXBpYnVsS003VFVUalBNdVdlTHpwbnN4dXNmVTBhUEowWXpRZzQ2TTRqcnlYbW5jM3lZRHpGN2s3V21leU9tYXVaYVg0RVc2NkRQTk5WTk81MzkwRE13?oc=5",
+        "date": "Thu, 19 Nov 2026 15:46:55 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdndZUmJnWm95XzcyRG0tbUJfaWI3X0ZLbmlFTlUwbVJobHZ5LUJDeVlOTDlFX3BCQnZYR09BMzJld1NmMTlKLUt0SmMwbXRtVmk4RkJDZzhLeEhjT3FITE1RTEhaWm9uMWFBSmE2cnROdXhZT3pmbHFrdk91aFJVcUxYdU91czhKZWlaNDZicXdZM1RUOVJkVS1zcGhWLW0zN1RFb3ZPOGFGYXBtN1Q3SGxEUGpNbnhlcjF5ODVMd3p0WXdoeTRNZTFiVE9iTFlQTnc?oc=5",
+        "title": "Sigue el Athletic Club–RCD Espanyol del viernes con el Matchday Live de Athletic Play - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdndZUmJnWm95XzcyRG0tbUJfaWI3X0ZLbmlFTlUwbVJobHZ5LUJDeVlOTDlFX3BCQnZYR09BMzJld1NmMTlKLUt0SmMwbXRtVmk4RkJDZzhLeEhjT3FITE1RTEhaWm9uMWFBSmE2cnROdXhZT3pmbHFrdk91aFJVcUxYdU91czhKZWlaNDZicXdZM1RUOVJkVS1zcGhWLW0zN1RFb3ZPOGFGYXBtN1Q3SGxEUGpNbnhlcjF5ODVMd3p0WXdoeTRNZTFiVE9iTFlQTnc?oc=5",
+        "date": "Tue, 17 Nov 2026 12:17:36 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1pqb2E1MExtY3N3MDg5Z09mZDVlbGtOdDNDaC1XSWg0d2l4c3BneHl3WFZWekQxSGJMS3VHLWJSeEJ5cVh5emJ4eTdocEotYWxTWjNGcXU4eE9iRnFGYlg0U2VWXzZ1aHJHTERSdDZpWGY4dnFEUGkza2NPZGlLWEs5ZlJoNjZ2WU1ZbTdrUC1NbTBLTFRSaFdvUXc5V3dqR1llTS1ra2RaY0lvcU5qMTMtdjgwU050cTY5TmQxWGJ5dzZhQ19hV1ZzaWlSZw?oc=5",
+        "title": "Black Friday en Nutrition by Athletic Club: 25 € de descuento en todos los planes - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1pqb2E1MExtY3N3MDg5Z09mZDVlbGtOdDNDaC1XSWg0d2l4c3BneHl3WFZWekQxSGJMS3VHLWJSeEJ5cVh5emJ4eTdocEotYWxTWjNGcXU4eE9iRnFGYlg0U2VWXzZ1aHJHTERSdDZpWGY4dnFEUGkza2NPZGlLWEs5ZlJoNjZ2WU1ZbTdrUC1NbTBLTFRSaFdvUXc5V3dqR1llTS1ra2RaY0lvcU5qMTMtdjgwU050cTY5TmQxWGJ5dzZhQ19hV1ZzaWlSZw?oc=5",
+        "date": "Mon, 16 Nov 2026 14:56:42 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUFU5WFUxb01PVEhlSFN0emQydWZZcGF3U2ZFNzFGbE4zWW5jQVl1OGxzZkEzQ05DVW5EaEFFRzU4MXpuZmVSQ3hRSzZrUGhZWU5iRzJFRXV5T0E5NHdkMU5zRmptd05VWDJ4dTZvd1B3WW13Znh0OUxGZk9rV0otcVBWOFlXNTBXU0stMFg2Z2dJYWlDbWRJOEZ3ZmlLYW8yb25OR0xDcHpPVG1QdmNZUmxtRUZmZnRuR0t5ZEIxU1FUYk5pU081Rw?oc=5",
+        "title": "Dónde ver el Athletic Club – Espanyol: horario, televisión y cómo seguirlo en directo gratis - Radio Nervión",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUFU5WFUxb01PVEhlSFN0emQydWZZcGF3U2ZFNzFGbE4zWW5jQVl1OGxzZkEzQ05DVW5EaEFFRzU4MXpuZmVSQ3hRSzZrUGhZWU5iRzJFRXV5T0E5NHdkMU5zRmptd05VWDJ4dTZvd1B3WW13Znh0OUxGZk9rV0otcVBWOFlXNTBXU0stMFg2Z2dJYWlDbWRJOEZ3ZmlLYW8yb25OR0xDcHpPVG1QdmNZUmxtRUZmZnRuR0t5ZEIxU1FUYk5pU081Rw?oc=5",
+        "date": "Wed, 18 Nov 2026 19:31:52 GMT",
+        "source": "Radio Nervión",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJ5Y1hnYkdXT01hZmN0RGNRVExob2pKaExnY29jeHE2X1ZtaWZOX19SUjRxbW9RWGRtWWo5Rm9YR0hZVnlfU1FhU2paenoxc3dvYVR6dmtJbUx2MEJzcHZ3X3BWR2hvcFZQazZQdG1GUktrYVJhN1drakxGdGlMVEd1SFp4cl9iMUhaOURpUVctSXRjTFA4OHNad2padGpKZzJWQm9CTlNsTzdjYTgwWld0UUxmM3JKX1AySFcyVTNhYUpOLVpqZ0thMG1jQdIBzgFBVV95cUxOc1NTUE9tLVpfeG1OYlFvTHJ0RXlWUG91UGp2bk5HZUJoRUgwVjR4dFI2blVveDREOUUxb29XUldqQWgyQWF4T0RjcUNrRkR1LVNvZ0YteGpzblNBQWIyYk5xXzVaNnJ5dmVVcndxM3FGU3lwYjNBaTA4UVBNTE1RbVZ6V2dBOXNUcVBHSnl2Ul9RWXRDcGhvNFNTSnFhSjBWWkZvSVgzejVkd1ZNLUh6TEt5NGJrQ1FCeE1IX0tRcUZYTGd5VUNKZW9pUGxtQQ?oc=5",
+        "title": "A qué hora es el Athletic Club - Espanyol: horario y dónde ver hoy en TV el partido de LALIGA EA SPORTS - MARCA",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJ5Y1hnYkdXT01hZmN0RGNRVExob2pKaExnY29jeHE2X1ZtaWZOX19SUjRxbW9RWGRtWWo5Rm9YR0hZVnlfU1FhU2paenoxc3dvYVR6dmtJbUx2MEJzcHZ3X3BWR2hvcFZQazZQdG1GUktrYVJhN1drakxGdGlMVEd1SFp4cl9iMUhaOURpUVctSXRjTFA4OHNad2padGpKZzJWQm9CTlNsTzdjYTgwWld0UUxmM3JKX1AySFcyVTNhYUpOLVpqZ0thMG1jQdIBzgFBVV95cUxOc1NTUE9tLVpfeG1OYlFvTHJ0RXlWUG91UGp2bk5HZUJoRUgwVjR4dFI2blVveDREOUUxb29XUldqQWgyQWF4T0RjcUNrRkR1LVNvZ0YteGpzblNBQWIyYk5xXzVaNnJ5dmVVcndxM3FGU3lwYjNBaTA4UVBNTE1RbVZ6V2dBOXNUcVBHSnl2Ul9RWXRDcGhvNFNTSnFhSjBWWkZvSVgzejVkd1ZNLUh6TEt5NGJrQ1FCeE1IX0tRcUZYTGd5VUNKZW9pUGxtQQ?oc=5",
+        "date": "Fri, 20 Nov 2026 18:13:09 GMT",
+        "source": "MARCA",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazZnYU5KZHN1OVFzWnBKQXFfbVpUb191OV9SSzdDRGdTQVRoTlBBN1FaUGo5OEd1bzZDV3R6SmVqWFd0cGFoMTFZS3J0MmZISnBINXRzQkRkUE9GMHBZLUFURE9VRG1yc0hORHdQQ0o2NXI3TlpUWnJ0bmNZMWZOT2U2b0w2Y3ktdFFyaEtBRmlrNUJrU0piTnlB?oc=5",
+        "title": "En directo: Rueda de prensa de Víctor Martín - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazZnYU5KZHN1OVFzWnBKQXFfbVpUb191OV9SSzdDRGdTQVRoTlBBN1FaUGo5OEd1bzZDV3R6SmVqWFd0cGFoMTFZS3J0MmZISnBINXRzQkRkUE9GMHBZLUFURE9VRG1yc0hORHdQQ0o2NXI3TlpUWnJ0bmNZMWZOT2U2b0w2Y3ktdFFyaEtBRmlrNUJrU0piTnlB?oc=5",
+        "date": "Fri, 20 Nov 2026 11:43:52 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWVSdDdFd1NWUnFNZHNyUi14VDVPUmpYWEU2bkt5UUczZWxQRFUyWTV4cm1TNkFPQWlNU3MzZGEwSU9CZjhnV3B5TE5VbFBSWi1PQ0VydHMydDQzaHRhWU5OYUVseThNY0FVZ0R6VlJDVjBUT01sTmxsUHZLMFNaM1BGRm9idzZqZVR6SXpvT3pvektJejJ3SUU5V1R1djVIRUxzQXl1QXRIZFVRVDBpbXlnM2tmb3o5R3lvYTJQenpyRDAxYXNtelZn?oc=5",
+        "title": "Horarios y servicios de San Mamés: Athletic Club - RCD Espanyol (J13 - LaLiga 2026/27) | Athletic Club Website Oficial - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWVSdDdFd1NWUnFNZHNyUi14VDVPUmpYWEU2bkt5UUczZWxQRFUyWTV4cm1TNkFPQWlNU3MzZGEwSU9CZjhnV3B5TE5VbFBSWi1PQ0VydHMydDQzaHRhWU5OYUVseThNY0FVZ0R6VlJDVjBUT01sTmxsUHZLMFNaM1BGRm9idzZqZVR6SXpvT3pvektJejJ3SUU5V1R1djVIRUxzQXl1QXRIZFVRVDBpbXlnM2tmb3o5R3lvYTJQenpyRDAxYXNtelZn?oc=5",
+        "date": "Thu, 19 Nov 2026 09:30:10 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWM2NlR3cXlpTVVMTkJZZmpyZ1l3aHA1eFVVVHJqNHpfRzRPMElOZ0dabmNQWmc2TFAyY2M0dVJhOHB0Ny05Y3paU2x5OF8xeWNHR0x6VENxMm9JcnQ1b3Zod2tRUWpMVGZyVjhuMFYydFhWVkxUUEhxaHl3dzMxalMyU0ZSVEhoSWt2SWZQZ0doRTJuU0E?oc=5",
+        "title": "Queremos ganar, sea cual sea el escenario - Athletic Club",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWM2NlR3cXlpTVVMTkJZZmpyZ1l3aHA1eFVVVHJqNHpfRzRPMElOZ0dabmNQWmc2TFAyY2M0dVJhOHB0Ny05Y3paU2x5OF8xeWNHR0x6VENxMm9JcnQ1b3Zod2tRUWpMVGZyVjhuMFYydFhWVkxUUEhxaHl3dzMxalMyU0ZSVEhoSWt2SWZQZ0doRTJuU0E?oc=5",
+        "date": "Thu, 19 Nov 2026 13:36:19 GMT",
+        "source": "Athletic Club",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS2FaX1dtY2g4VENnSjFkbzhqNi1JWDNiUlZXckpVTjRma0RIQ1FiWWJSNi05dmJOMlJyQngxbUJFZmtYVFlrOUVVRk9JU0dqQXNneUFyLXM5SjIwZHBWQURfUkI2U3pEUnQ0aFVDUTAxeTVfZjFyTE5BY3MwY0pCSTBibG90aHVyZnpSUE1tX241VDBiSm1Uandxa2dIcUNBaW5CQ1BpdndEZ2JmSlJJdFRzQ19jVVRSS1Z3ejhGaFp5M21oTF9ISTBRVy1PRVMzUVFXeXEzemhEVEx2UUF6REF0NERqdw?oc=5",
+        "title": "¿Quién es Mateo Busquets Ferrer? Árbitro del Athletic Club vs RCD Espanyol de la jornada 13 de LALIGA - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS2FaX1dtY2g4VENnSjFkbzhqNi1JWDNiUlZXckpVTjRma0RIQ1FiWWJSNi05dmJOMlJyQngxbUJFZmtYVFlrOUVVRk9JU0dqQXNneUFyLXM5SjIwZHBWQURfUkI2U3pEUnQ0aFVDUTAxeTVfZjFyTE5BY3MwY0pCSTBibG90aHVyZnpSUE1tX241VDBiSm1Uandxa2dIcUNBaW5CQ1BpdndEZ2JmSlJJdFRzQ19jVVRSS1Z3ejhGaFp5M21oTF9ISTBRVy1PRVMzUVFXeXEzemhEVEx2UUF6REF0NERqdw?oc=5",
+        "date": "Fri, 20 Nov 2026 13:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVDNDOGxaak9KWXMySEVuMXVoSDZTMm1iaGZOcmxmbFY3LUhEQk8zaHQxSUdXWEx2NFYxenczRmhQaVN4THBEZWFzT1F0MUFaN2ZWWmF2ZWdHUE1PMi15ZEc2Z2tBZ2cyRGlMMGpmb0FFZWoxZERtRnROaTBUclJqb3pucDd3dGFzbThHV2VVXzZmRVdEc19nUFRpX2xuMm5kRGRzUHhOVlBoUGtjZ3o4bTI4a1FJbExpcmdKLVBjbk5OVUF3eXNpVXVYMTd1ZWs?oc=5",
+        "title": "Alineaciones confirmadas en el Athletic Club - RCD Espanyol de La Liga EA SPORTS - Sport Aragón",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVDNDOGxaak9KWXMySEVuMXVoSDZTMm1iaGZOcmxmbFY3LUhEQk8zaHQxSUdXWEx2NFYxenczRmhQaVN4THBEZWFzT1F0MUFaN2ZWWmF2ZWdHUE1PMi15ZEc2Z2tBZ2cyRGlMMGpmb0FFZWoxZERtRnROaTBUclJqb3pucDd3dGFzbThHV2VVXzZmRVdEc19nUFRpX2xuMm5kRGRzUHhOVlBoUGtjZ3o4bTI4a1FJbExpcmdKLVBjbk5OVUF3eXNpVXVYMTd1ZWs?oc=5",
+        "date": "Fri, 20 Nov 2026 18:47:56 GMT",
+        "source": "Sport Aragón",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UMm5wNjZlOEN5azdRcm9YdkU2Q0ZJbXhuTXpvTk9jZWhYb0cxT0Q5ZXBXM0ZubnkzdHR3SU9iM3M5S3NqbVhoWUlWVmpHLThNU0tJUXBrSld3Qlk?oc=5",
+        "title": "STATS: VALENCIA CF-ATHLETIC CLUB - Valencia CF",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UMm5wNjZlOEN5azdRcm9YdkU2Q0ZJbXhuTXpvTk9jZWhYb0cxT0Q5ZXBXM0ZubnkzdHR3SU9iM3M5S3NqbVhoWUlWVmpHLThNU0tJUXBrSld3Qlk?oc=5",
+        "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+        "source": "Valencia CF",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTloQWR1ZUdQRnBNUndBNTRaR2F3SUcxc0k4cU56dFJKQnEwZFdJS2NfRFp0a3AycW9pblpzV2JuVVdUQU96SFBnWExMeTA5WFV5Z19zaDRKOGx1Z29IOXBUN3FpdGd4c0gtMjhUMzI0enB4N0Y0aHhWX2pSRk1kaW9neVdKdHFqb0VmZmRYbDV2SnZxNFE?oc=5",
+        "title": "Athletic Club – Espanyol, en directo en Radio Nervión - Radio Nervión",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTloQWR1ZUdQRnBNUndBNTRaR2F3SUcxc0k4cU56dFJKQnEwZFdJS2NfRFp0a3AycW9pblpzV2JuVVdUQU96SFBnWExMeTA5WFV5Z19zaDRKOGx1Z29IOXBUN3FpdGd4c0gtMjhUMzI0enB4N0Y0aHhWX2pSRk1kaW9neVdKdHFqb0VmZmRYbDV2SnZxNFE?oc=5",
+        "date": "Fri, 20 Nov 2026 20:23:56 GMT",
+        "source": "Radio Nervión",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhDMHk4MV81eXpobU5xR2RUTEJRZzVuZzZfNl9ZbWJJbkZRUDJ2OVFVTVZ6UXlmVWEzU09jc1lnbk5naGRtZU5QcTNjRVBmdlJsMmlTeTF6Ym43MnFNTm9KTUFudzE1elFSbE1YYWNGVUdPRElRY1kxbTlvX0d4Z2hfRG9lS3hMcG85WGZoS0Fva2NHa29hT2NoT1NKanRwMFFlU0MtalNnc3VvR3lYcEs4cVFFRmIybFE?oc=5",
+        "title": "Barça-Athletic Club: un duelo exigente antes del parón - FC Barcelona",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhDMHk4MV81eXpobU5xR2RUTEJRZzVuZzZfNl9ZbWJJbkZRUDJ2OVFVTVZ6UXlmVWEzU09jc1lnbk5naGRtZU5QcTNjRVBmdlJsMmlTeTF6Ym43MnFNTm9KTUFudzE1elFSbE1YYWNGVUdPRElRY1kxbTlvX0d4Z2hfRG9lS3hMcG85WGZoS0Fva2NHa29hT2NoT1NKanRwMFFlU0MtalNnc3VvR3lYcEs4cVFFRmIybFE?oc=5",
+        "date": "Sun, 22 Nov 2026 02:10:00 GMT",
+        "source": "FC Barcelona",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbklzRUZPN1BQQUNBNEM0Z1oxZ2V3T3UxRXpLM0hONDAyaVhCeC1zOFlRYkV4UlZvUWFpdUFQQkVWbXZSdzNCZ1htYTVMZEhZQjhlUkVEcFJ6M3dzWXRkak1GWDByRGpDT2NJQnp0STVYbGhiVF9TTGVpWWQwaGRMUldBUWtFcHVSazBvYkF5dmJFcFdPLXdwVnlqcXVlMm13Z2NlMmhtU1RTbTJWdnlZaEtsUmtjQ2l1Q1RIdXVxS2NKeF9HN2c40gHUAUFVX3lxTE5hVVE0eW5fQm5mVFlKWnRoVFcyX3RVcDRqdHdRWlU2cWM1TWxBajJnVWx6QklOLVRMbk9pZUVtX3luN0Z0VnVQdVRrWm5JR2k4T1ZwQWNmMTVvdFA2allIckNkZVVaN0R6UWZZYktWczl1d1NWTmNFelBrZTVzb212SlJER200ZF9lTzRIYjBMQ1d5TWFveVRvNjV3V05jenBPYTJXUmdoWk9mRTJaWmNRb2NkRHNBUFJZZXlfX2lENGlwX1dhQVlDRGNBVGEzdWpGYXpZ?oc=5",
+        "title": "Horario, canal y dónde ver por TV hoy el Barça - Athletic Club femenino de la Liga F - Mundo Deportivo",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbklzRUZPN1BQQUNBNEM0Z1oxZ2V3T3UxRXpLM0hONDAyaVhCeC1zOFlRYkV4UlZvUWFpdUFQQkVWbXZSdzNCZ1htYTVMZEhZQjhlUkVEcFJ6M3dzWXRkak1GWDByRGpDT2NJQnp0STVYbGhiVF9TTGVpWWQwaGRMUldBUWtFcHVSazBvYkF5dmJFcFdPLXdwVnlqcXVlMm13Z2NlMmhtU1RTbTJWdnlZaEtsUmtjQ2l1Q1RIdXVxS2NKeF9HN2c40gHUAUFVX3lxTE5hVVE0eW5fQm5mVFlKWnRoVFcyX3RVcDRqdHdRWlU2cWM1TWxBajJnVWx6QklOLVRMbk9pZUVtX3luN0Z0VnVQdVRrWm5JR2k4T1ZwQWNmMTVvdFA2allIckNkZVVaN0R6UWZZYktWczl1d1NWTmNFelBrZTVzb212SlJER200ZF9lTzRIYjBMQ1d5TWFveVRvNjV3V05jenBPYTJXUmdoWk9mRTJaWmNRb2NkRHNBUFJZZXlfX2lENGlwX1dhQVlDRGNBVGEzdWpGYXpZ?oc=5",
+        "date": "Sun, 22 Nov 2026 10:24:05 GMT",
+        "source": "Mundo Deportivo",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3EwTm10ZkJfNDBOSWx0UjRXMnN5OWQ5aF9JeHRYN0JybWhVbF9uNFBtZDZmTkVDRGtPNExUNHh6TW90LVp2QXZ0Tm5ZTGw4NF9ibk9oYUl4M3BqbEw5WlBCakJ5Y0lmTUhVT2xsblNWV1RfRXBPSHJOd2I3d2VPai11UzFFWWQ2dWVvdU05Wk8xTVhyTGY3bTdVcXRpSkRSU2tEQThJYW9qeDDSAasBQVVfeXFMTmVfdWFKY0VIa1ZaYWZuS3hRRHZzS2RQWVIzQzc4XzdlU1RsaTF4S3FONzRpUkJUb054Q2E1cFVrbk9mWnRPNzB3anRlZ1hqMGFiYzhZRElub2tHWDBpdW5FNmhSVkZ3OWxoWUM4Y0g5ajVLejZiM3BhdTlqR2xvNjJhazdPMGk4d1ZpUTNuWnRueDIzdmdXaWctUmZaOV9weGxsZWNWMUtwc3RZ?oc=5",
+        "title": "A qué hora juega el Barcelona contra el Athletic Club y dónde y cómo ver el partido de Liga F por TV y en directo - SPORT",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3EwTm10ZkJfNDBOSWx0UjRXMnN5OWQ5aF9JeHRYN0JybWhVbF9uNFBtZDZmTkVDRGtPNExUNHh6TW90LVp2QXZ0Tm5ZTGw4NF9ibk9oYUl4M3BqbEw5WlBCakJ5Y0lmTUhVT2xsblNWV1RfRXBPSHJOd2I3d2VPai11UzFFWWQ2dWVvdU05Wk8xTVhyTGY3bTdVcXRpSkRSU2tEQThJYW9qeDDSAasBQVVfeXFMTmVfdWFKY0VIa1ZaYWZuS3hRRHZzS2RQWVIzQzc4XzdlU1RsaTF4S3FONzRpUkJUb054Q2E1cFVrbk9mWnRPNzB3anRlZ1hqMGFiYzhZRElub2tHWDBpdW5FNmhSVkZ3OWxoWUM4Y0g5ajVLejZiM3BhdTlqR2xvNjJhazdPMGk4d1ZpUTNuWnRueDIzdmdXaWctUmZaOV9weGxsZWNWMUtwc3RZ?oc=5",
+        "date": "Sun, 22 Nov 2026 12:15:38 GMT",
+        "source": "SPORT",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnROOFFCMnRpR2V4ay01dERzd25UWWxPbkstV3Iyc0hwS1RuaGk3N3ZBb0ZyazBYRGtucFpNVlhtNUlzZXlKQjJPRHlhMkRjVmdNZS1OM2JOLXZ0NUJFQW9BcXhBM3RGT2llc083SWhyZXh0TUE4b1I5eTBMUzZGcG1xam9HaHFoT1JtVWFYNHF0el9kLUlZRnBRNThKT0RYdGt4QTJSMjRFdUlvb05j0gG0AUFVX3lxTE1mTVo3Qng4ZjdzMUZPdGJkZjZQZnNoQVluNEw5T3U1WWx3M3FWRVdtSzZXWDJQcVltWFZJWGlWUmd0WHpJdWtWRktGOHBlVnhFbnBFT0d5Wi03Sl9SLUY0aERUMVdsZUZ6M1dNLTA4M3pqZDZFbUNTV1phRmQtSHBPNUxNbmh4NlNhb252VUZVWnF2ekJJQzVKMUYzZFVvSE5OaURYWGxRZXZNaFpoR1RiZWVBSw?oc=5",
+        "title": "Barcelona W – Athletic W: horario y dónde ver hoy por TV el partido de fútbol de la Liga F - La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnROOFFCMnRpR2V4ay01dERzd25UWWxPbkstV3Iyc0hwS1RuaGk3N3ZBb0ZyazBYRGtucFpNVlhtNUlzZXlKQjJPRHlhMkRjVmdNZS1OM2JOLXZ0NUJFQW9BcXhBM3RGT2llc083SWhyZXh0TUE4b1I5eTBMUzZGcG1xam9HaHFoT1JtVWFYNHF0el9kLUlZRnBRNThKT0RYdGt4QTJSMjRFdUlvb05j0gG0AUFVX3lxTE1mTVo3Qng4ZjdzMUZPdGJkZjZQZnNoQVluNEw5T3U1WWx3M3FWRVdtSzZXWDJQcVltWFZJWGlWUmd0WHpJdWtWRktGOHBlVnhFbnBFT0d5Wi03Sl9SLUY0aERUMVdsZUZ6M1dNLTA4M3pqZDZFbUNTV1phRmQtSHBPNUxNbmh4NlNhb252VUZVWnF2ekJJQzVKMUYzZFVvSE5OaURYWGxRZXZNaFpoR1RiZWVBSw?oc=5",
+        "date": "Sat, 21 Nov 2026 08:00:00 GMT",
+        "source": "La Vanguardia",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDZJeHlVWVlWal93ak5TYjFBRU1YYjg1SnlYQTRZeG5mRVJnMDVNeXJiOWg0dnB1MGh3el82dUlqUjJJX2w2WmR1OVNpM2pVd1VaWjF1eGhFanlyM296bDNPVnBHTC1fN0JDZFhKUC1NS3hiRDhJbXptdGx5MmlwWWNRMklZT0lBMlFWV3ItbldFM2VNUllBV3dYd1BMcDZXZW1FWDNIX3hmT2NKWnJaZlZ2UVVoX1NvSVZoTFVDazV6R1Z2NC05Rm5kLTTSAdoBQVVfeXFMT21fTmRCdXJkdkc2LVpnTmUxd0JuNDVERUE3TThVWFU0U25PRFIzRWJOaF9ESURKVG9RUjZmbElsQV9OajNZQlI0NW4tdHJJRjk5VTJpaldCd0Z5N3Nfeno5dnBGdFlVYnhEaHJ3V1JTTzJWX2VLUjhSRlM3NHVFMXg2UUxZMFF6c1lvZWd6SHdHYUFlU3pDdnAyWl9SNmxDVUlONkpaWkJ3U1lsUG9COXhia3UyU2xQR3Z2MEFVNV82WllPZzZvUkVBbXVHbEV5eGNEYzBZdFdvdkE?oc=5",
+        "title": "Horario, canal y dónde ver por TV el Athletic Club - Espanyol de LaLiga EA Sports - Mundo Deportivo",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDZJeHlVWVlWal93ak5TYjFBRU1YYjg1SnlYQTRZeG5mRVJnMDVNeXJiOWg0dnB1MGh3el82dUlqUjJJX2w2WmR1OVNpM2pVd1VaWjF1eGhFanlyM296bDNPVnBHTC1fN0JDZFhKUC1NS3hiRDhJbXptdGx5MmlwWWNRMklZT0lBMlFWV3ItbldFM2VNUllBV3dYd1BMcDZXZW1FWDNIX3hmT2NKWnJaZlZ2UVVoX1NvSVZoTFVDazV6R1Z2NC05Rm5kLTTSAdoBQVVfeXFMT21fTmRCdXJkdkc2LVpnTmUxd0JuNDVERUE3TThVWFU0U25PRFIzRWJOaF9ESURKVG9RUjZmbElsQV9OajNZQlI0NW4tdHJJRjk5VTJpaldCd0Z5N3Nfeno5dnBGdFlVYnhEaHJ3V1JTTzJWX2VLUjhSRlM3NHVFMXg2UUxZMFF6c1lvZWd6SHdHYUFlU3pDdnAyWl9SNmxDVUlONkpaWkJ3U1lsUG9COXhia3UyU2xQR3Z2MEFVNV82WllPZzZvUkVBbXVHbEV5eGNEYzBZdFdvdkE?oc=5",
+        "date": "Fri, 20 Nov 2026 06:44:47 GMT",
+        "source": "Mundo Deportivo",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVF2c201OXdLaUdhSUlaeVlWdFRlcVB1alZ3ZW11ZGRSb21pQ3Z6d2d2cXNJQWY0QV9fX3JEVnVCcUF4R2hCblRDQ2tiMW5UVWVWV21JdWRaUzZjdXhWVG5FV2kxRGFfTC1nZ2M4SU9sbEpzaWoyeXBJZXdzdjJiNFNaRUVlQmJxcDhBSEhNSHpiX25oV201MHdMZ1VsLURUdWZzajUwZFZrUkptUnB5LVJqQ3Bjb0RQNGVhMFBB?oc=5",
+        "title": "Barça - Athletic Club: Nueva goleada en el Johan Cruyff (6-0) - FC Barcelona",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVF2c201OXdLaUdhSUlaeVlWdFRlcVB1alZ3ZW11ZGRSb21pQ3Z6d2d2cXNJQWY0QV9fX3JEVnVCcUF4R2hCblRDQ2tiMW5UVWVWV21JdWRaUzZjdXhWVG5FV2kxRGFfTC1nZ2M4SU9sbEpzaWoyeXBJZXdzdjJiNFNaRUVlQmJxcDhBSEhNSHpiX25oV201MHdMZ1VsLURUdWZzajUwZFZrUkptUnB5LVJqQ3Bjb0RQNGVhMFBB?oc=5",
+        "date": "Sun, 22 Nov 2026 08:52:00 GMT",
+        "source": "FC Barcelona",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXVIaXRjblBsa3RzWmRmVEktcVhqVlp5Um5ycXpVTUxNQ1hoVVZVb25HOEJpX3l4emJyVkZkQ1MtZURSbEhVUmhyMU92b2hHMHlNWXFJay1zRlFXbDVvcEpFZk8xZk1BREZJRTdiUjRpUFZnSzdzaS1WWDBObmM5akEyUU03V0w3eGc?oc=5",
+        "title": "Resultados de Elche vs Athletic Club, historial de enfrentamientos (H2H) | Fútbol - Flashscore.es",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXVIaXRjblBsa3RzWmRmVEktcVhqVlp5Um5ycXpVTUxNQ1hoVVZVb25HOEJpX3l4emJyVkZkQ1MtZURSbEhVUmhyMU92b2hHMHlNWXFJay1zRlFXbDVvcEpFZk8xZk1BREZJRTdiUjRpUFZnSzdzaS1WWDBObmM5akEyUU03V0w3eGc?oc=5",
+        "date": "Sat, 21 Nov 2026 07:47:58 GMT",
+        "source": "Flashscore.es",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclZlZ1ZUNGp2c1pEVHFwTUpYVXgyRUwyZEFGamlENXFURFpnRmh3dXFkQXpXQU5vaUtQWXdUdGV4MmVtX1J3UFBtNkVlZEU2TThoTzluMS02WGQ1ZVpTNFlnMFJoaWc3YzhpMHdCRVkwUkNsVUhjUTcxenhnSDUtYk9Rdlp2dEJGdmpBcmtEOGFjaU5HTDdaNF9PRE4xUmRYb0xiX09mRQ?oc=5",
+        "title": "Alineaciones confirmadas del FC Barcelona – Athletic Club de Liga F - Las Futbolistas",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclZlZ1ZUNGp2c1pEVHFwTUpYVXgyRUwyZEFGamlENXFURFpnRmh3dXFkQXpXQU5vaUtQWXdUdGV4MmVtX1J3UFBtNkVlZEU2TThoTzluMS02WGQ1ZVpTNFlnMFJoaWc3YzhpMHdCRVkwUkNsVUhjUTcxenhnSDUtYk9Rdlp2dEJGdmpBcmtEOGFjaU5HTDdaNF9PRE4xUmRYb0xiX09mRQ?oc=5",
+        "date": "Sun, 22 Nov 2026 17:10:31 GMT",
+        "source": "Las Futbolistas",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZURtZXo3d0ZOLTEwb0hITmhaeEZrdzAzaF80M09rQVlTaVREcDFFRmZNLW16dE54RVRiOXM1SVJGVmMxYklKbWg4VXo2YU5KeVlUdExUME5pRzVVQ253Z1NkMEwweTZtLW15MU5NSzByVWctWmgyRnE2XzdUeWV1SDZubUV1SnFYa3pqSzBLUmYwYUlkeDJtQkdIR2RtUdIBngFBVV95cUxPZTlvSHI1UFBmODlNUUZzM2tvRXJseWVZS2hYaERkWmt0UVlZcmJPeXdzV1M4ek1xTjlYLWhCaEREeV9xSGptLTdZQlQybEdzNDBDVFI4RlE2dTBodndYR2tnUVNmcFNVU0dWbnhVbUNKSG42T2U1UEJic1BFVzY3b01Iem9Zc2ZUajU5RTEtZVNjZllEaFZxel9WNEpNdw?oc=5",
+        "title": "Dónde ver el Barcelona - Athletic Club de la Liga F hoy por TV, en directo y online - SPORT",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZURtZXo3d0ZOLTEwb0hITmhaeEZrdzAzaF80M09rQVlTaVREcDFFRmZNLW16dE54RVRiOXM1SVJGVmMxYklKbWg4VXo2YU5KeVlUdExUME5pRzVVQ253Z1NkMEwweTZtLW15MU5NSzByVWctWmgyRnE2XzdUeWV1SDZubUV1SnFYa3pqSzBLUmYwYUlkeDJtQkdIR2RtUdIBngFBVV95cUxPZTlvSHI1UFBmODlNUUZzM2tvRXJseWVZS2hYaERkWmt0UVlZcmJPeXdzV1M4ek1xTjlYLWhCaEREeV9xSGptLTdZQlQybEdzNDBDVFI4RlE2dTBodndYR2tnUVNmcFNVU0dWbnhVbUNKSG42T2U1UEJic1BFVzY3b01Iem9Zc2ZUajU5RTEtZVNjZllEaFZxel9WNEpNdw?oc=5",
+        "date": "Sun, 22 Nov 2026 16:50:23 GMT",
+        "source": "SPORT",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObXFvYXloaDg2ME01MGpSbXV1NzZKcGFpRDhRYkpqM1RYUVR1ZERkbjlXLVFEV1poaExCYUNYSzNIR2tjcFZuS00xQXpFWnZMM05PQkZSaXowZTBxSHI1c0tuejlPMGxsZUY3Qmk3eENJbl9Qd2pMQ3V5RFQwcDVWM3B3Nl81VGF6b0VMdUlZSDJsTVpfMEdfbnA4NGRnUlRrX0FDd2R2WnRSZXhBRFcxNEJWdFNKV2s0VjF0eTI5QXl0SHlSRGhkaHBtNTI5LXZkVGFLdWRxZjN2cTJNWmxjMVBEQzREVWg3RWc2YVJ6Mk5hQdIBhgJBVV95cUxOckRZd1ZQNGlrT2NKX25rQkZwWWo5R2QtOGtjSzJFNzNIYThIR05fS25RUmxYTjVuNlJITGY4ZW9HNm1yNG1KaFlMX0lXVkxhZHZkY24wTU5fb2dyWThlaXVDekc0eGtvb2IxUnliS0ZsOUN2eExqa3padVFyZVptcVAzcnMtNWUzMlZfcEFtQmlRcTdUZDJEcXpQX2xONnBrR2MzU1o0UUNfN0VIMmtYV19faVAzQjVPUHlCVEtjYkhjWmVUU0dnRWNNejdvcHlhRUY4WXpCWTJhd2pzQm15dGJzaEh6Z1NqOHRPRTFuVExHaDJDTzZWREdyT0t5dFk1ZTBna2NB?oc=5",
+        "title": "Athletic Club-Espanyol, el partido de LaLiga que se podrá ver gratis este viernes en DAZN - La Razón",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObXFvYXloaDg2ME01MGpSbXV1NzZKcGFpRDhRYkpqM1RYUVR1ZERkbjlXLVFEV1poaExCYUNYSzNIR2tjcFZuS00xQXpFWnZMM05PQkZSaXowZTBxSHI1c0tuejlPMGxsZUY3Qmk3eENJbl9Qd2pMQ3V5RFQwcDVWM3B3Nl81VGF6b0VMdUlZSDJsTVpfMEdfbnA4NGRnUlRrX0FDd2R2WnRSZXhBRFcxNEJWdFNKV2s0VjF0eTI5QXl0SHlSRGhkaHBtNTI5LXZkVGFLdWRxZjN2cTJNWmxjMVBEQzREVWg3RWc2YVJ6Mk5hQdIBhgJBVV95cUxOckRZd1ZQNGlrT2NKX25rQkZwWWo5R2QtOGtjSzJFNzNIYThIR05fS25RUmxYTjVuNlJITGY4ZW9HNm1yNG1KaFlMX0lXVkxhZHZkY24wTU5fb2dyWThlaXVDekc0eGtvb2IxUnliS0ZsOUN2eExqa3padVFyZVptcVAzcnMtNWUzMlZfcEFtQmlRcTdUZDJEcXpQX2xONnBrR2MzU1o0UUNfN0VIMmtYV19faVAzQjVPUHlCVEtjYkhjWmVUU0dnRWNNejdvcHlhRUY4WXpCWTJhd2pzQm15dGJzaEh6Z1NqOHRPRTFuVExHaDJDTzZWREdyT0t5dFk1ZTBna2NB?oc=5",
+        "date": "Fri, 20 Nov 2026 15:10:13 GMT",
+        "source": "La Razón",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVJpc2pZVks3ZjFXLU9SRmlONUtZak95bFVvVklMX2xKTF9HUXRUUWNpMF9FZ0ZST3hDUlp2cmJIWXl4M2FGaUVnVWN3QmY1aUZ1N3NQbFRSWlJkc1JETFhFbGw4WG91TW5qZ21vRWptUm5QMGtYT2tUbjdUQXB0d3VpOHFaV1Z5VHZfMnFR?oc=5",
+        "title": "Barça 6-0 Athletic Club - FC Barcelona",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVJpc2pZVks3ZjFXLU9SRmlONUtZak95bFVvVklMX2xKTF9HUXRUUWNpMF9FZ0ZST3hDUlp2cmJIWXl4M2FGaUVnVWN3QmY1aUZ1N3NQbFRSWlJkc1JETFhFbGw4WG91TW5qZ21vRWptUm5QMGtYT2tUbjdUQXB0d3VpOHFaV1Z5VHZfMnFR?oc=5",
+        "date": "Sun, 22 Nov 2026 21:31:45 GMT",
+        "source": "FC Barcelona",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMWF0RGNmUjJKQ0JlZUFDQW9HNUQyNF9KQlRVM1RFd1NuWmNxVWpRcFFNNzBILUI1Zkl0Tk1HRWNGcVE0enlld2IwUWxEYUdzSUU5VmFPNWZQNnN3ODJGMmNDQnI3N0lma2xoQm0wZHNBc3hiTHBKbg?oc=5",
+        "title": "Athletic Club vs Espanyol | J13 LaLiga EA Sports - Radio Televisión Canaria",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMWF0RGNmUjJKQ0JlZUFDQW9HNUQyNF9KQlRVM1RFd1NuWmNxVWpRcFFNNzBILUI1Zkl0Tk1HRWNGcVE0enlld2IwUWxEYUdzSUU5VmFPNWZQNnN3ODJGMmNDQnI3N0lma2xoQm0wZHNBc3hiTHBKbg?oc=5",
+        "date": "Fri, 20 Nov 2026 19:12:01 GMT",
+        "source": "Radio Televisión Canaria",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUNoQ01tUFh5cVZFMGVUS0hvUkJEaXZGbEptbmkySG96dEZadEM2WTZ5R08wS0RzMXpqQjNJaEI2V21tbHFXem1iNV8wbVItd0hoYVIxM1pHcFdVUmRNRjFfSEhGNUtDWWdFaVpnWkl1aDJ6YUtwRzh0b0kwTERSLUU0ZXV4Wkp3cE1vOVBJRmFvU240bHdJdzRTc1E?oc=5",
+        "title": "🚨 ONCES del Athletic Club-Espanyol: ¡Beñat Prados titular; Dolan suplente! - Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUNoQ01tUFh5cVZFMGVUS0hvUkJEaXZGbEptbmkySG96dEZadEM2WTZ5R08wS0RzMXpqQjNJaEI2V21tbHFXem1iNV8wbVItd0hoYVIxM1pHcFdVUmRNRjFfSEhGNUtDWWdFaVpnWkl1aDJ6YUtwRzh0b0kwTERSLUU0ZXV4Wkp3cE1vOVBJRmFvU240bHdJdzRTc1E?oc=5",
+        "date": "Fri, 20 Nov 2026 18:51:00 GMT",
+        "source": "Yahoo",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFhOUk80M3dTMENLcFAxLUFaS3lFQ0NaS1ZyUzJuanNzN2pzY29KYnNnUkZsUlF3Q1lZRF9aUG8wUlByV2hvZG1PdUVJY3BjcHRxeFFnQk1pNWtNM3JOelp4QWI1X0xrUmh2bDVRRGNoRGhERTlnN3lOQWJRdlNzOHJQZUFydG5ocFFyT2ZSNWZ0TV9tNU8yYUJSRU1vZw?oc=5",
+        "title": "Alineación del Espanyol para medirse al Athletic Club en San Mamés - Pericos.es",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFhOUk80M3dTMENLcFAxLUFaS3lFQ0NaS1ZyUzJuanNzN2pzY29KYnNnUkZsUlF3Q1lZRF9aUG8wUlByV2hvZG1PdUVJY3BjcHRxeFFnQk1pNWtNM3JOelp4QWI1X0xrUmh2bDVRRGNoRGhERTlnN3lOQWJRdlNzOHJQZUFydG5ocFFyT2ZSNWZ0TV9tNU8yYUJSRU1vZw?oc=5",
+        "date": "Fri, 20 Nov 2026 18:48:47 GMT",
+        "source": "Pericos.es",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1B1UnY1N3Rqd29ReXI1MVZ2NjgwWUNRYmxvVjNPMmxLVS1qeV9fRTBJaVZuc0Q2a0xpOWhMZUxvNTVJYkhDRHVLclF3RWE2dWZGcXlvMENyVlNrQVRUcUhEZW5Dd0gzclBSMHZjOFhrM3RpaG9RbW43Q1VLNnlXSVl1blJRTmRLVnZCeDFlZ1JhOFZlVW1JNDJXbE1kS1VJajRtaGxB?oc=5",
+        "title": "Watch Athletic Club vs Espanyol - TOD",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1B1UnY1N3Rqd29ReXI1MVZ2NjgwWUNRYmxvVjNPMmxLVS1qeV9fRTBJaVZuc0Q2a0xpOWhMZUxvNTVJYkhDRHVLclF3RWE2dWZGcXlvMENyVlNrQVRUcUhEZW5Dd0gzclBSMHZjOFhrM3RpaG9RbW43Q1VLNnlXSVl1blJRTmRLVnZCeDFlZ1JhOFZlVW1JNDJXbE1kS1VJajRtaGxB?oc=5",
+        "date": "Sun, 22 Nov 2026 19:08:59 GMT",
+        "source": "TOD",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjlUOXNZOWYwMU5zUDYxVFZUZ1hXV3hhUWgyb1FwbHJnTnIyeEI2ejRKQlIxN3VNYjZDNXpZMWRPVjZ5cVFSdk50b0hTV2NKdG1penpuYTBDT1hqZU9CWC1nWnM0RHN6MFRwQW1ENkZPME5IOF9YLTlFYWpySzlzelk0WVM4ODROQjB6Mg?oc=5",
+        "title": "Ver Athletic Club - RCD Espanyol Online en Directo | DAZN ES - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjlUOXNZOWYwMU5zUDYxVFZUZ1hXV3hhUWgyb1FwbHJnTnIyeEI2ejRKQlIxN3VNYjZDNXpZMWRPVjZ5cVFSdk50b0hTV2NKdG1penpuYTBDT1hqZU9CWC1nWnM0RHN6MFRwQW1ENkZPME5IOF9YLTlFYWpySzlzelk0WVM4ODROQjB6Mg?oc=5",
+        "date": "Fri, 20 Nov 2026 18:18:07 GMT",
+        "source": "DAZN",
+        "topic": "Athletic Club"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGN0M1JrQmNabjlLb2dSZGtBRVcwMHRYTnRwOUVLOGxWZ0NOc2hhM2g3V2xMQlJCdWJ5R0oxdko2OXAzUlRua0NoNFRZalpMcFdQdldDMGNqeW5LS2UwZFIydnl1QkxXVXZzY0IwR24tZWdnWXlVa2lqRnh0LU80TDdDeDBDNDdYM0Vv?oc=5",
+        "title": "Ver FC Barcelona - Athletic Club Online en Directo | DAZN ES - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGN0M1JrQmNabjlLb2dSZGtBRVcwMHRYTnRwOUVLOGxWZ0NOc2hhM2g3V2xMQlJCdWJ5R0oxdko2OXAzUlRua0NoNFRZalpMcFdQdldDMGNqeW5LS2UwZFIydnl1QkxXVXZzY0IwR24tZWdnWXlVa2lqRnh0LU80TDdDeDBDNDdYM0Vv?oc=5",
+        "date": "Sun, 22 Nov 2026 18:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Athletic Club"
+      }
+    ],
+    "Recreativo de Huelva": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95bnlzQmkwR09QNzc1MFV6TFBiWkRBWjVQaDI0d29idVJRYWdsYlFzMkU0dlZZZFl0QjkyZmlKUzFlUWcwbmFhT2otcEtJUUpuRkRjR2NyWEhqYzNPU0N4OGpYMUZ3ZnRyMTNCeEhyaTZKN0NTbVdTRGdBWlo?oc=5",
+        "title": "RC RECREATIVO DE HUELVA 7 – 0 CD BADAJOZ - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95bnlzQmkwR09QNzc1MFV6TFBiWkRBWjVQaDI0d29idVJRYWdsYlFzMkU0dlZZZFl0QjkyZmlKUzFlUWcwbmFhT2otcEtJUUpuRkRjR2NyWEhqYzNPU0N4OGpYMUZ3ZnRyMTNCeEhyaTZKN0NTbVdTRGdBWlo?oc=5",
+        "date": "Sun, 22 Nov 2026 19:33:02 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVRKejBMSGp6d1JxZEdWUzNXd2xFUHhxS192Wjl1REdUQlpDRXN3NGZuRUVRSnhKRElFbDJPbjdTMG9YZXpYaXA5U1o5VnpBeE1GTFJxT1QzYXl2Rkt0YVJXQXVrcHJOZTBVcVhBUWV6RjFWVnQ4U1dFcU1jUnlIT251RVR2bXdvQWVuN1k0bjQ0T3FSa1Juck5rVXRTZXd5RTBhUW9ib2Y?oc=5",
+        "title": "SOLICITUD ENTRADAS SEVILLA ATLETICO - R.C. RECREATIVO DE HUELVA - Compralaentrada",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVRKejBMSGp6d1JxZEdWUzNXd2xFUHhxS192Wjl1REdUQlpDRXN3NGZuRUVRSnhKRElFbDJPbjdTMG9YZXpYaXA5U1o5VnpBeE1GTFJxT1QzYXl2Rkt0YVJXQXVrcHJOZTBVcVhBUWV6RjFWVnQ4U1dFcU1jUnlIT251RVR2bXdvQWVuN1k0bjQ0T3FSa1Juck5rVXRTZXd5RTBhUW9ib2Y?oc=5",
+        "date": "Fri, 20 Nov 2026 18:26:19 GMT",
+        "source": "Compralaentrada",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFN1RjRvZDlEUkM1MUpjLXplQkR0VHBheGVzMy01THczYVExWUdpcDhfM1lvNGgyeEZPUWxzVnFZWmZTSk1tVkdtMmpPVzl6ZkNadDJLZkV0d21YMk91aWhXZG5ZQkxCMk5NUzdXQ2o5d0dMWjFKTVhZWDRBQ2NzZ1VHcU44Wlp0QzQwVWdvTDlBQ3p3enlCVmR2UkVDSHRxOFBxbUZQODVGSS0yT3Ita0gzOUc?oc=5",
+        "title": "Las mejores fotografías de la goleada del Recreativo de Huelva ante el Badajoz - Huelva Información",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFN1RjRvZDlEUkM1MUpjLXplQkR0VHBheGVzMy01THczYVExWUdpcDhfM1lvNGgyeEZPUWxzVnFZWmZTSk1tVkdtMmpPVzl6ZkNadDJLZkV0d21YMk91aWhXZG5ZQkxCMk5NUzdXQ2o5d0dMWjFKTVhZWDRBQ2NzZ1VHcU44Wlp0QzQwVWdvTDlBQ3p3enlCVmR2UkVDSHRxOFBxbUZQODVGSS0yT3Ita0gzOUc?oc=5",
+        "date": "Sun, 22 Nov 2026 19:26:46 GMT",
+        "source": "Huelva Información",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEp0U3ZQOUQwXzRMRy1jLU9hdlZPTEF3dTkyRWJ5SWVyTWVodkdrTzd4MXNJUUtJVC1iTFgwTXdmSEJMS3dadmVXb1VmZmY3TW83dFlLanlITk1fV2ZpbkNjdXBGUmh5U0VMWWpYeHRwUHBnLXN4NzRyS2dCaURIc1dMYm9Rc2w1eWp4ckFncldhRW5nY09IcWRjZHNKUGxKWkMweEJEenhkY3Ju?oc=5",
+        "title": "El Recreativo de Huelva acerca el fútbol y sus valores a los escolares de Trigueros - Canalcosta Televisión",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEp0U3ZQOUQwXzRMRy1jLU9hdlZPTEF3dTkyRWJ5SWVyTWVodkdrTzd4MXNJUUtJVC1iTFgwTXdmSEJMS3dadmVXb1VmZmY3TW83dFlLanlITk1fV2ZpbkNjdXBGUmh5U0VMWWpYeHRwUHBnLXN4NzRyS2dCaURIc1dMYm9Rc2w1eWp4ckFncldhRW5nY09IcWRjZHNKUGxKWkMweEJEenhkY3Ju?oc=5",
+        "date": "Fri, 20 Nov 2026 10:52:52 GMT",
+        "source": "Canalcosta Televisión",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWlMeDBRV1dGOGw1SzBzNUd0NThzcThoeTgwQThUYVpYWXFUbTRTTlVaSWVhR3JBeTVGM21DU0hTekVfMEtzUmFnS283XzE1dmpiTDhHS0VpQk1IY1lxc1RIOFpKT0x3X0xrNmJsMEx6dHl4Z0h5d09KMEQ5VjdtakxpSjVUZ3JILUpWeEJ2V3NxeGF6dUZKbW5FdkVYY04wVnE0SdIBqgFBVV95cUxQUnF4Q3ZpQVpVQk8ycWJHcWI2bzN0d3o5dS13Q3lSS1hCOHl4dGIzNDBiTGJmVHh3dTFVTG1jTVV0d0lxc0J4RWZEZi1KMW55YWg0WHc5VEdrcjZ3TGdlbXBBMFVNMG1mNXNtYV9zNFdFbmpfSDFTTkJxQXFUTjM3RWlMdkdHMmFMUEFCOFB5bUdIV2Q0Sk11cERDNjJKUFRGRmFqZFo4Vm1Idw?oc=5",
+        "title": "Recreativismo con los más pequeños de Punta Umbría - Andalucía Información",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWlMeDBRV1dGOGw1SzBzNUd0NThzcThoeTgwQThUYVpYWXFUbTRTTlVaSWVhR3JBeTVGM21DU0hTekVfMEtzUmFnS283XzE1dmpiTDhHS0VpQk1IY1lxc1RIOFpKT0x3X0xrNmJsMEx6dHl4Z0h5d09KMEQ5VjdtakxpSjVUZ3JILUpWeEJ2V3NxeGF6dUZKbW5FdkVYY04wVnE0SdIBqgFBVV95cUxQUnF4Q3ZpQVpVQk8ycWJHcWI2bzN0d3o5dS13Q3lSS1hCOHl4dGIzNDBiTGJmVHh3dTFVTG1jTVV0d0lxc0J4RWZEZi1KMW55YWg0WHc5VEdrcjZ3TGdlbXBBMFVNMG1mNXNtYV9zNFdFbmpfSDFTTkJxQXFUTjM3RWlMdkdHMmFMUEFCOFB5bUdIV2Q0Sk11cERDNjJKUFRGRmFqZFo4Vm1Idw?oc=5",
+        "date": "Fri, 20 Nov 2026 16:24:46 GMT",
+        "source": "Andalucía Información",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUXJ3NFJhUW40UlVObFJJbXlJS1luUmhmN1RwcnBQRmdPNDNfaFdOY0x4dFZmYTBZdnh0eDh5dWs1WTg2UWRkWVNFRTJweHJJSV9Ma3RKZHlLV2lYYWVxNnhHTGtrZExpOXRqMkQxYTZ0MkdrSDh0NjhFbnc3QXc?oc=5",
+        "title": "TODOS LOS SECRETOS DE LA CASA DEL DECANO - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUXJ3NFJhUW40UlVObFJJbXlJS1luUmhmN1RwcnBQRmdPNDNfaFdOY0x4dFZmYTBZdnh0eDh5dWs1WTg2UWRkWVNFRTJweHJJSV9Ma3RKZHlLV2lYYWVxNnhHTGtrZExpOXRqMkQxYTZ0MkdrSDh0NjhFbnc3QXc?oc=5",
+        "date": "Tue, 17 Nov 2026 11:10:39 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmxINEtPaEwwdGI1TnZHRm14cl9OTmVTX2NGYlQ4Zk1SZkVmWEJ5ZkplZE9BWHdoajR4TzBJb2FDNkltcXlwMlJhNWxId2EzSUtnVzlaclFnY0ttMTJzQVoxM0lNTEFyMXEtT3Q3U2RzYzVPckZXQ041TG42V1Zzd0dKalJicExHbXpWalJCd3hqb3AwVFp4cXhRcS15OUtyUHlSSXctaUNyRW85eDAw?oc=5",
+        "title": "Búscate en las gradas del Nuevo Colombino en el Recreativo de Huelva-Badajoz - Huelva Información",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmxINEtPaEwwdGI1TnZHRm14cl9OTmVTX2NGYlQ4Zk1SZkVmWEJ5ZkplZE9BWHdoajR4TzBJb2FDNkltcXlwMlJhNWxId2EzSUtnVzlaclFnY0ttMTJzQVoxM0lNTEFyMXEtT3Q3U2RzYzVPckZXQ041TG42V1Zzd0dKalJicExHbXpWalJCd3hqb3AwVFp4cXhRcS15OUtyUHlSSXctaUNyRW85eDAw?oc=5",
+        "date": "Sun, 22 Nov 2026 19:15:15 GMT",
+        "source": "Huelva Información",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDd25XQkFabHJVbmlxMzUxWHBvWnRRNTZKcEFFWi0yTE1IQ3k3V0owbEo3dVp3eWRlalBRZHgwNlpuUkwxbXpzYnlsQ1EtUmVfQUhfTVU1VE4zUXdYUGRlYjBGaVdlNzFtdFJjaF83czUwemUzOTN2MWNPNA?oc=5",
+        "title": "CONVOCATORIA JORNADA 12 VS CD BADAJOZ - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDd25XQkFabHJVbmlxMzUxWHBvWnRRNTZKcEFFWi0yTE1IQ3k3V0owbEo3dVp3eWRlalBRZHgwNlpuUkwxbXpzYnlsQ1EtUmVfQUhfTVU1VE4zUXdYUGRlYjBGaVdlNzFtdFJjaF83czUwemUzOTN2MWNPNA?oc=5",
+        "date": "Sat, 21 Nov 2026 20:23:49 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUtQOXQyaHpmQVF5RDNyTGxHa1Fvelg0X0dzY2tVOWxkTWt6NzJOemp6MXE5Q29lb3o2VmJ2X1VEVm0yLTlhbEVFeVotS1JDaGpWRGZKaTl6YzQ0d01KQktxSEJja0wyaDVlNHFOR21McEZkTlY4Um9rZnhpUXNVaA?oc=5",
+        "title": "HORARIO CONFIRMADO JORNADA 14 VS ESTEPONA - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUtQOXQyaHpmQVF5RDNyTGxHa1Fvelg0X0dzY2tVOWxkTWt6NzJOemp6MXE5Q29lb3o2VmJ2X1VEVm0yLTlhbEVFeVotS1JDaGpWRGZKaTl6YzQ0d01KQktxSEJja0wyaDVlNHFOR21McEZkTlY4Um9rZnhpUXNVaA?oc=5",
+        "date": "Fri, 20 Nov 2026 14:59:57 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUHYyQ3FMRGF2NzVsVExmT200SFF2dURKZW9kUkVfamdJd25ycFU3MzZ1X1ZJQnhkcWdSWi1OY1pTekdITEhkZjFDRGxVUlFjUjROSy0tWjZiQlJxN1E3b1ZMX2RwTmdwbzZUaDV3VTRHZw?oc=5",
+        "title": "¡GRACIAS, AFICIÓN! ¡GRACIAS, EQUIPO! - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUHYyQ3FMRGF2NzVsVExmT200SFF2dURKZW9kUkVfamdJd25ycFU3MzZ1X1ZJQnhkcWdSWi1OY1pTekdITEhkZjFDRGxVUlFjUjROSy0tWjZiQlJxN1E3b1ZMX2RwTmdwbzZUaDV3VTRHZw?oc=5",
+        "date": "Mon, 16 Nov 2026 15:03:02 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pdzZ2dElOcmhFdGpWaGlPb0kxUV9MY0Rmd1UxUTFpT0N1c1BSVDRhaVZkeEo0VGl6MTVJa0YtM2ZsalowMXJxRWRfZGVHMGllMFctTjVjX0l5Z29md0ozZGl2Zi1oN3pBZzlhYnZXSQ?oc=5",
+        "title": "YA PENSANDO EN EL CD BADAJOZ - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pdzZ2dElOcmhFdGpWaGlPb0kxUV9MY0Rmd1UxUTFpT0N1c1BSVDRhaVZkeEo0VGl6MTVJa0YtM2ZsalowMXJxRWRfZGVHMGllMFctTjVjX0l5Z29md0ozZGl2Zi1oN3pBZzlhYnZXSQ?oc=5",
+        "date": "Wed, 18 Nov 2026 11:26:41 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MTU1X3NaVnlpb0Y5NnJ6RV9PZG5WdzUtUHNSNmszNy1XbmRXSTJxcVJHVC0yOHZqWW00d05PdmQ1SnFlOERQQ1ZKaUg2N3A3OVU4NjcwR2dFa1U1Smp5Y18xaGZyU2ZTUHdwaFVHbUY?oc=5",
+        "title": "VUELTA AL TRABAJO, EL MIÉRCOLES - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MTU1X3NaVnlpb0Y5NnJ6RV9PZG5WdzUtUHNSNmszNy1XbmRXSTJxcVJHVC0yOHZqWW00d05PdmQ1SnFlOERQQ1ZKaUg2N3A3OVU4NjcwR2dFa1U1Smp5Y18xaGZyU2ZTUHdwaFVHbUY?oc=5",
+        "date": "Mon, 16 Nov 2026 10:01:54 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04WTNvdUpERTRQTlZ6TnpQUzBaVW9TUWlXQ1FGMVB0bTFZcE8tM2haT0JwM0Iwd1JmdFJCZ3drOVJGbEUzU3RPQkU2Y2duUUpTTlNqSk1YNTV6cmFZWXA5M0RYNTQtTnJsVi1nQ3Zn?oc=5",
+        "title": "CUIDANDO TODOS LOS DETALLES - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04WTNvdUpERTRQTlZ6TnpQUzBaVW9TUWlXQ1FGMVB0bTFZcE8tM2haT0JwM0Iwd1JmdFJCZ3drOVJGbEUzU3RPQkU2Y2duUUpTTlNqSk1YNTV6cmFZWXA5M0RYNTQtTnJsVi1nQ3Zn?oc=5",
+        "date": "Sat, 21 Nov 2026 09:56:27 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaSnRzTDNJRkZJb1BqdGxGWnhtVXFpN3JDSE5KcG5KQ1Ntd0lHMm4yYmF2RWtSSnRJOVZZaDVGRXBISHgzMVFlMkpWUHVaMDdZZ3M4Q2FMZmt4UFNvbm8yckhwVFFOY2xGTGpFTFduTUVBYU81R2JIc2Zn?oc=5",
+        "title": "Bonaque: \"No nos podemos relajar nunca\" - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaSnRzTDNJRkZJb1BqdGxGWnhtVXFpN3JDSE5KcG5KQ1Ntd0lHMm4yYmF2RWtSSnRJOVZZaDVGRXBISHgzMVFlMkpWUHVaMDdZZ3M4Q2FMZmt4UFNvbm8yckhwVFFOY2xGTGpFTFduTUVBYU81R2JIc2Zn?oc=5",
+        "date": "Sun, 22 Nov 2026 19:33:02 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDkzVTNjLVNHaGdqRmM2bmllcU91bjRPd3BoMHNxNk9wTWhNYk5iQU1lMTdEUG01ZHRTVUZ4Y3ZFSGxlQU9hQ1ZWRVNZaExfVko0OE9MVlp4OGkzV1YxakNfNUNDWm1QWXlFRTlueUN1TDg1V1Z2MVc5blJZcUdqT3NieDh4WWdZdzRlYzNn?oc=5",
+        "title": "JESÚS GALVÁN: \"TRES PUNTOS VITALES, PARA SEGUIR ARRIBA\" - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDkzVTNjLVNHaGdqRmM2bmllcU91bjRPd3BoMHNxNk9wTWhNYk5iQU1lMTdEUG01ZHRTVUZ4Y3ZFSGxlQU9hQ1ZWRVNZaExfVko0OE9MVlp4OGkzV1YxakNfNUNDWm1QWXlFRTlueUN1TDg1V1Z2MVc5blJZcUdqT3NieDh4WWdZdzRlYzNn?oc=5",
+        "date": "Fri, 20 Nov 2026 14:19:54 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVdRcHNFV3FoZVVqYVhDVEdtSW1vUEtnbElqM0ZWcE84MmRnNmRVZ3pEYVlfOXhRbXNZTEVGQVlVV3RlMU5vVDY1cjdzU2VJS3pPMW1rMGtxa1lkOVY3RUJYUW9GM2FIbEFqa2dDRHZtSFlMTDRCVHBOZU80bjBUd3JYRDFjV2ZtWEV3?oc=5",
+        "title": "Jesús Galván: \"Tenemos que saber manejar la euforia\" - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVdRcHNFV3FoZVVqYVhDVEdtSW1vUEtnbElqM0ZWcE84MmRnNmRVZ3pEYVlfOXhRbXNZTEVGQVlVV3RlMU5vVDY1cjdzU2VJS3pPMW1rMGtxa1lkOVY3RUJYUW9GM2FIbEFqa2dDRHZtSFlMTDRCVHBOZU80bjBUd3JYRDFjV2ZtWEV3?oc=5",
+        "date": "Sun, 22 Nov 2026 19:33:02 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWdqV0wxTTA4X3U3LXhUMTkta01RU2pkNDQwTFk0TjN6bGRxVm9yemRIYnRMZlpFaHprM3JaOVljd012MVpwTFlLOWFoU2tDLUlvVnR0dlNyNG1namsycWNNNnBXcE5RRjJZeU9JZEdzeGJYUEFmaVlDeUlhYUxTb3dOMHlqcEwzV2dfc2lkSUNMQQ?oc=5",
+        "title": "JERO LARIO: \"TODOS SABEMOS QUE EL OBJETIVO ES EL ASCENSO\" - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWdqV0wxTTA4X3U3LXhUMTkta01RU2pkNDQwTFk0TjN6bGRxVm9yemRIYnRMZlpFaHprM3JaOVljd012MVpwTFlLOWFoU2tDLUlvVnR0dlNyNG1namsycWNNNnBXcE5RRjJZeU9JZEdzeGJYUEFmaVlDeUlhYUxTb3dOMHlqcEwzV2dfc2lkSUNMQQ?oc=5",
+        "date": "Wed, 18 Nov 2026 12:51:46 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlFYWTVIenVkakk1OXpKZVdKb0lSWWU4MG5jUFY3SXhQeUhSdGZycVhwNjl5Y3gtRFNSdS16U0FxY09hWGRiN2I4NEgwdWY0NkFOeFdUZlpETmpCSGs3VERfNHp0ZWVpdE9jckxvcE9CckcyRmgyOUxWVFh1Um82dQ?oc=5",
+        "title": "HACERSE FUERTE EN CASA, ANTE NUESTRA GENTE - Recreativo de Huelva",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlFYWTVIenVkakk1OXpKZVdKb0lSWWU4MG5jUFY3SXhQeUhSdGZycVhwNjl5Y3gtRFNSdS16U0FxY09hWGRiN2I4NEgwdWY0NkFOeFdUZlpETmpCSGs3VERfNHp0ZWVpdE9jckxvcE9CckcyRmgyOUxWVFh1Um82dQ?oc=5",
+        "date": "Sat, 21 Nov 2026 09:51:26 GMT",
+        "source": "Recreativo de Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTBEN2ZuVTB5YmJtTW9YcVY1VTJWbklZb2l5S2Zyd0N1QVZJWm9uRTJfVEZxRFViMnk0cnZSeVVDMWcwdGNwMmFGeUg5ZFd5di15eVVhcko3SGhZN09tdmU0YUhQeUUwcGc5UDJ6MnA5Z3ctdVZZTlNiTF9ubUxEY1NxNTRWaGg3UVRrNV94TG1LWWdaUHMyQTAxa20yc1dXcDA5WTN5Ri1ZZWZiVVZRUnRfZ19RTnNCdzJSTzRUY3RibDN1dTZOSTVIU2h3dWdxenfSAdcBQVVfeXFMTVZzdTIxby00TW5WTXI5ek8wWlFsOWFnYm5ydTVtdUdGN0VaQXM1a2J3OVNKSmJMVnk2bjhhTDJPcEdfRFdSNTZnbzV1WVg1QTJyVEViaV8wTWhGM19vMll3OUEzT1lrQ3AwcnZZVDE1SzE1eGRQdjRwV2dlQ2dpdDVNSThwTG9yYWp4NWEzdndQZ2U1Y3hZeUEwT0Zib0NDcWtsVFJLekgxbjdiamdEZkhRUU5FS3pOT2ROUnJXY1ZRc25TNFFnRy1SZjRzLV9MRlVwbm5ObVk?oc=5",
+        "title": "El Recre pone a prueba hoy su fortaleza como líder frente al CD Badajoz en el Nuevo Colombino - HuelvaHoy",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTBEN2ZuVTB5YmJtTW9YcVY1VTJWbklZb2l5S2Zyd0N1QVZJWm9uRTJfVEZxRFViMnk0cnZSeVVDMWcwdGNwMmFGeUg5ZFd5di15eVVhcko3SGhZN09tdmU0YUhQeUUwcGc5UDJ6MnA5Z3ctdVZZTlNiTF9ubUxEY1NxNTRWaGg3UVRrNV94TG1LWWdaUHMyQTAxa20yc1dXcDA5WTN5Ri1ZZWZiVVZRUnRfZ19RTnNCdzJSTzRUY3RibDN1dTZOSTVIU2h3dWdxenfSAdcBQVVfeXFMTVZzdTIxby00TW5WTXI5ek8wWlFsOWFnYm5ydTVtdUdGN0VaQXM1a2J3OVNKSmJMVnk2bjhhTDJPcEdfRFdSNTZnbzV1WVg1QTJyVEViaV8wTWhGM19vMll3OUEzT1lrQ3AwcnZZVDE1SzE1eGRQdjRwV2dlQ2dpdDVNSThwTG9yYWp4NWEzdndQZ2U1Y3hZeUEwT0Zib0NDcWtsVFJLekgxbjdiamdEZkhRUU5FS3pOT2ROUnJXY1ZRc25TNFFnRy1SZjRzLV9MRlVwbm5ObVk?oc=5",
+        "date": "Sun, 22 Nov 2026 10:47:38 GMT",
+        "source": "HuelvaHoy",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2JLQ3V4aURDVDh6dXk1SG9aSkw1Uy0yTmpabkotZzZrZ1F5Wi0zMVRVcnA3eHJfUlR6a19WQ3lkSGhiZE1FcXNKc1ZPSVZOdUxFUHNqeDVGcFNiMjR1WGhNLThaSm9sWUtJMnhPb3dQUVNJSFJKSlRJUUFRalBaaHhqaFBjTmdJMWpVMmhvX3F4OGFsRlJHRWdqbkgtbG5sOGt6QWVXNlNCTnBLMjNZRVNUM0JSNTB6Nm5xaWw0NS1FUdIBxwFBVV95cUxNOHFQSnF4WWpkSTRmOXJ1dEpfVzBSRk0zSkpua0RSNXNtbkZlaWhYQUZyMTNlUkVUc01NWUd6VXVZUzhHLUFYSW5QVDd1amV2aF9wZFBEaHduNFVfckFHaTVKQW1DQXo5OUJuSVp4RGZuemlHYlZkek92bGtuZlRjTnY0LThEd3doY2lJbTlsaDBVODlWYS1rVFl4a1R4ZkhVYzhmM2I0aGU5TVZ5UFV2Yy1Gb3Jkcmd3MUNPaXQwYlRCQnUzVlZz?oc=5",
+        "title": "Galería: Las mejores imágenes del Recre - Badajoz (7-0), en Huelva Hoy - HuelvaHoy",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2JLQ3V4aURDVDh6dXk1SG9aSkw1Uy0yTmpabkotZzZrZ1F5Wi0zMVRVcnA3eHJfUlR6a19WQ3lkSGhiZE1FcXNKc1ZPSVZOdUxFUHNqeDVGcFNiMjR1WGhNLThaSm9sWUtJMnhPb3dQUVNJSFJKSlRJUUFRalBaaHhqaFBjTmdJMWpVMmhvX3F4OGFsRlJHRWdqbkgtbG5sOGt6QWVXNlNCTnBLMjNZRVNUM0JSNTB6Nm5xaWw0NS1FUdIBxwFBVV95cUxNOHFQSnF4WWpkSTRmOXJ1dEpfVzBSRk0zSkpua0RSNXNtbkZlaWhYQUZyMTNlUkVUc01NWUd6VXVZUzhHLUFYSW5QVDd1amV2aF9wZFBEaHduNFVfckFHaTVKQW1DQXo5OUJuSVp4RGZuemlHYlZkek92bGtuZlRjTnY0LThEd3doY2lJbTlsaDBVODlWYS1rVFl4a1R4ZkhVYzhmM2I0aGU5TVZ5UFV2Yy1Gb3Jkcmd3MUNPaXQwYlRCQnUzVlZz?oc=5",
+        "date": "Sun, 22 Nov 2026 19:39:26 GMT",
+        "source": "HuelvaHoy",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWdjTVVxMGdoLTQ2VmVzSnJFT2dyTmdZTERaWlRCaFZ6ZkQyQWtzMDNrX0JnZGd6MGFJb3FNOGthdEd3M18tVURkeWdvLVgxUVZHUDU5c3BLTFVJd1RuUE9kYnFQQUoyMlhjUkJFM3Jkam1FcVl6RFBYVUVUb0FTS1BOQWlLQXhLSGxVT2tnUW1wUnVhOHFTbVRyWVdjTm9KdE1lWEJ1WGwxZWFjcEFZMmJmcjhnVW9nMW90bzJMU3JMVkZtQlI5dl95VnJsYmhWdFHSAdcBQVVfeXFMTWh6RVg5UUJuWFpZcV9wQjNEV0ZRYjV0Z001Y0pFZEFQdm05VE1WODdIN1VyT1NTYXRTcEgtNmxHdVVSMEdoNHdqSVUxQXdWREtHaUFBOGIxOVV6MkZtRlZCOXcxTktxbmM1M1lOaV9VUmdGR1NzQXdtX1NwaG04ck84dUcwWVEtd3M3bTlFbDA5QllpYUY4ajhGQ3VuNXBNbW9ON05seF9RMjlqTVQ5NkczQTJfVHU5WnhoeFY4SS0yUS11dTRlY1hscFJ2NVpwaDVrWG83WWc?oc=5",
+        "title": "De chándal a un auténtico \"Peaky Blinders\": la serie de Nacho Ruiz triunfa en el Recre - HuelvaHoy",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWdjTVVxMGdoLTQ2VmVzSnJFT2dyTmdZTERaWlRCaFZ6ZkQyQWtzMDNrX0JnZGd6MGFJb3FNOGthdEd3M18tVURkeWdvLVgxUVZHUDU5c3BLTFVJd1RuUE9kYnFQQUoyMlhjUkJFM3Jkam1FcVl6RFBYVUVUb0FTS1BOQWlLQXhLSGxVT2tnUW1wUnVhOHFTbVRyWVdjTm9KdE1lWEJ1WGwxZWFjcEFZMmJmcjhnVW9nMW90bzJMU3JMVkZtQlI5dl95VnJsYmhWdFHSAdcBQVVfeXFMTWh6RVg5UUJuWFpZcV9wQjNEV0ZRYjV0Z001Y0pFZEFQdm05VE1WODdIN1VyT1NTYXRTcEgtNmxHdVVSMEdoNHdqSVUxQXdWREtHaUFBOGIxOVV6MkZtRlZCOXcxTktxbmM1M1lOaV9VUmdGR1NzQXdtX1NwaG04ck84dUcwWVEtd3M3bTlFbDA5QllpYUY4ajhGQ3VuNXBNbW9ON05seF9RMjlqTVQ5NkczQTJfVHU5WnhoeFY4SS0yUS11dTRlY1hscFJ2NVpwaDVrWG83WWc?oc=5",
+        "date": "Thu, 19 Nov 2026 10:07:59 GMT",
+        "source": "HuelvaHoy",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWtMM3lsaTdPemFvaDRHTUJJOVRjdzJCTXJTVE9rckRLUGsybFpMaHF6eWVZUktQSUxTTl93Q1JMTlREdV9YYzBkTlZHY1h6b1NXdGN0ZU5RMDRQbnFhYkxLanhsdi00bWtqaGF6b2lXVUpmZDRVZ0JuOGNObEVQaldZOUI?oc=5",
+        "title": "El Recre destroza al CD Badajoz en el Nuevo Colombino con una goleada histórica (7-0) - HuelvaHoy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWtMM3lsaTdPemFvaDRHTUJJOVRjdzJCTXJTVE9rckRLUGsybFpMaHF6eWVZUktQSUxTTl93Q1JMTlREdV9YYzBkTlZHY1h6b1NXdGN0ZU5RMDRQbnFhYkxLanhsdi00bWtqaGF6b2lXVUpmZDRVZ0JuOGNObEVQaldZOUI?oc=5",
+        "date": "Sun, 22 Nov 2026 18:46:47 GMT",
+        "source": "HuelvaHoy",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWUo2RDBVUDNFMFNzeHVLLXpySmhRR3RaX0h2eDdnTW5qWTg4TjVnTjlEOHhKOERXWHBSMS1QcnhOQkpmQUtvZU5YaWNqNXIzYzZXNnk0aDBJX3VxXzVuaVlLZDhVdVlJR2VHWk0wUGROdTdQMjhwNlhSUjlLUVFCWjQtdjZsY0FRVnVfcW9uc2JkQnRBajV1MzdUak5rV2RyZkdSR2RGamdLeHBmS05MWDZEbXM3UG1zTk5nRzNBMmZOOHpwbks4UjZGQzlEaV9WejVCY0dnUHV2NWxpc3kzbHVWMGxmWm_SAewBQVVfeXFMUHJiQ2FxX2t1bEY3cDlFTnRzcGpXNTNJZGxEekk5eHJZMk5DeDlVUVlfV3hsTEJqdEhsZ0FmX0MzM1d0Q0tZcnRaZGlldExQNXViZFFyWURJbWt0SkZwR2otdnV2MHRGS3h5SUZlaXhhbEpBZEtKdUVub2NRUTdjZ1BzLXM4VVNwQUtEcm5CUHZrWUVTS0ktZnhYSVdnTlhsRnRmcVAyXzMxUjFjdFpCLWNRcWhyQUpuR3c5UHZzNENrc1hnV3hVY0ZSUGtlc3dwNFlOOHV3Mko3X2pma3pmeG1OY296V3ZnazhJeGo?oc=5",
+        "title": "Más de 218.000 espectadores vibraron con la final del Recre gracias a las televisiones del Grupo Azahara - HuelvaHoy",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWUo2RDBVUDNFMFNzeHVLLXpySmhRR3RaX0h2eDdnTW5qWTg4TjVnTjlEOHhKOERXWHBSMS1QcnhOQkpmQUtvZU5YaWNqNXIzYzZXNnk0aDBJX3VxXzVuaVlLZDhVdVlJR2VHWk0wUGROdTdQMjhwNlhSUjlLUVFCWjQtdjZsY0FRVnVfcW9uc2JkQnRBajV1MzdUak5rV2RyZkdSR2RGamdLeHBmS05MWDZEbXM3UG1zTk5nRzNBMmZOOHpwbks4UjZGQzlEaV9WejVCY0dnUHV2NWxpc3kzbHVWMGxmWm_SAewBQVVfeXFMUHJiQ2FxX2t1bEY3cDlFTnRzcGpXNTNJZGxEekk5eHJZMk5DeDlVUVlfV3hsTEJqdEhsZ0FmX0MzM1d0Q0tZcnRaZGlldExQNXViZFFyWURJbWt0SkZwR2otdnV2MHRGS3h5SUZlaXhhbEpBZEtKdUVub2NRUTdjZ1BzLXM4VVNwQUtEcm5CUHZrWUVTS0ktZnhYSVdnTlhsRnRmcVAyXzMxUjFjdFpCLWNRcWhyQUpuR3c5UHZzNENrc1hnV3hVY0ZSUGtlc3dwNFlOOHV3Mko3X2pma3pmeG1OY296V3ZnazhJeGo?oc=5",
+        "date": "Tue, 17 Nov 2026 14:35:54 GMT",
+        "source": "HuelvaHoy",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOUhNNHc4RTNNcHNLVFh6cXpwQjlIenV2SnpvMEVDVFZCLWNLenpJWS01MEtkWFhTbnJtRUtqSWowV1dObXduN05zTUZiQVNmc1FXb3hLWXNORG0ybHBvTnlTXzNDNVUxbFFKMVQ4ZGQzYWI4VWZlMVExQlBQWm5Yak00MWo2TWd3amJUS3dOVTdodWlVc1dFZ05xbl9YdnM5QlpBbVFmZ1dtZGhjdXNabGUzcnY2OXlKS1RzNFRvcThmdGlmMmpnQW9vU25SdTV3Xzc4ZWhBOExEUdIB2gFBVV95cUxOOUhNNHc4RTNNcHNLVFh6cXpwQjlIenV2SnpvMEVDVFZCLWNLenpJWS01MEtkWFhTbnJtRUtqSWowV1dObXduN05zTUZiQVNmc1FXb3hLWXNORG0ybHBvTnlTXzNDNVUxbFFKMVQ4ZGQzYWI4VWZlMVExQlBQWm5Yak00MWo2TWd3amJUS3dOVTdodWlVc1dFZ05xbl9YdnM5QlpBbVFmZ1dtZGhjdXNabGUzcnY2OXlKS1RzNFRvcThmdGlmMmpnQW9vU25SdTV3Xzc4ZWhBOExEUQ?oc=5",
+        "title": "Directo: Recre - Badajoz, minuto a minuto en Huelva Hoy, a partir de las 17:30 horas - HuelvaHoy",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOUhNNHc4RTNNcHNLVFh6cXpwQjlIenV2SnpvMEVDVFZCLWNLenpJWS01MEtkWFhTbnJtRUtqSWowV1dObXduN05zTUZiQVNmc1FXb3hLWXNORG0ybHBvTnlTXzNDNVUxbFFKMVQ4ZGQzYWI4VWZlMVExQlBQWm5Yak00MWo2TWd3amJUS3dOVTdodWlVc1dFZ05xbl9YdnM5QlpBbVFmZ1dtZGhjdXNabGUzcnY2OXlKS1RzNFRvcThmdGlmMmpnQW9vU25SdTV3Xzc4ZWhBOExEUdIB2gFBVV95cUxOOUhNNHc4RTNNcHNLVFh6cXpwQjlIenV2SnpvMEVDVFZCLWNLenpJWS01MEtkWFhTbnJtRUtqSWowV1dObXduN05zTUZiQVNmc1FXb3hLWXNORG0ybHBvTnlTXzNDNVUxbFFKMVQ4ZGQzYWI4VWZlMVExQlBQWm5Yak00MWo2TWd3amJUS3dOVTdodWlVc1dFZ05xbl9YdnM5QlpBbVFmZ1dtZGhjdXNabGUzcnY2OXlKS1RzNFRvcThmdGlmMmpnQW9vU25SdTV3Xzc4ZWhBOExEUQ?oc=5",
+        "date": "Sun, 22 Nov 2026 16:02:04 GMT",
+        "source": "HuelvaHoy",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0ZGNzVyVHlOOGxVZmEwQnJmNkd5YzFFMkEtZEkzSVNVWHY2XzJCbVRySFg3U1hqSGdHMDJsX0xrMFVwdHdDN2M5bDZjZVJIY3ZuT1dNWjRPc0JjM0Rvb3dQVlhCd3hVNWxlRlFES1R2d05VSTEyMDQwQUNyUWlUMlRBVTZfWkhkNnpRMEZ2M2Z0dHZ4UW54bDZnbFV4VGdEYlk5VjMxdms?oc=5",
+        "title": "1889, el año que unió los caminos del Sheffield United y el Recreativo de Huelva - Sports Huelva",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0ZGNzVyVHlOOGxVZmEwQnJmNkd5YzFFMkEtZEkzSVNVWHY2XzJCbVRySFg3U1hqSGdHMDJsX0xrMFVwdHdDN2M5bDZjZVJIY3ZuT1dNWjRPc0JjM0Rvb3dQVlhCd3hVNWxlRlFES1R2d05VSTEyMDQwQUNyUWlUMlRBVTZfWkhkNnpRMEZ2M2Z0dHZ4UW54bDZnbFV4VGdEYlk5VjMxdms?oc=5",
+        "date": "Thu, 19 Nov 2026 19:50:05 GMT",
+        "source": "Sports Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1M2T3JwRlUtbWRXM2F6M2lKbm1hQndGOVlXdHlGMEVVd3Vud2M5SW55dE80eTEtS3F0b1RXd0dqRWdROTFJZXRDUVdtUUU1ZXlVckVDVDhBQUYwaE9GQURIX1FDRGJVVjBENnZtX3BlTmtDRDRQU0RZTEZtakljUWh4bnN1V2tramFkeTl6ay1ueUdnaVFHUzZQRQ?oc=5",
+        "title": "El Marbella-Recre confirma su horario - Sports Huelva",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1M2T3JwRlUtbWRXM2F6M2lKbm1hQndGOVlXdHlGMEVVd3Vud2M5SW55dE80eTEtS3F0b1RXd0dqRWdROTFJZXRDUVdtUUU1ZXlVckVDVDhBQUYwaE9GQURIX1FDRGJVVjBENnZtX3BlTmtDRDRQU0RZTEZtakljUWh4bnN1V2tramFkeTl6ay1ueUdnaVFHUzZQRQ?oc=5",
+        "date": "Tue, 17 Nov 2026 13:33:52 GMT",
+        "source": "Sports Huelva",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MUg1aERJdzFuNW93MmlBZU1fNTZPNWhKekhfWHNTN3RsWGdTRG10UEk3TkszZTlTRTlQNnlXV0RJdTg4NEJLX3k0Tm9HWmJnZFItQ1RfT0hoWjAwTC15YWFObld4UUpnWkoxYmFvbElnX0x2MHN3?oc=5",
+        "title": "El Recre le endosa una goleada de escándalo al Badajoz (7-0) - HuelvaYA",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MUg1aERJdzFuNW93MmlBZU1fNTZPNWhKekhfWHNTN3RsWGdTRG10UEk3TkszZTlTRTlQNnlXV0RJdTg4NEJLX3k0Tm9HWmJnZFItQ1RfT0hoWjAwTC15YWFObld4UUpnWkoxYmFvbElnX0x2MHN3?oc=5",
+        "date": "Sun, 22 Nov 2026 15:27:35 GMT",
+        "source": "HuelvaYA",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92Umg5ZkxoOGlkN1lfQnZJSnAxdGJXMm1zSmpQb2FqTm1QbXpjN0w1VkwtS213TXpRMUx4SEtIYTI2VUJjZ3ctTUNsSHA5aFhTVldLemc5ZDhjQlVva1YtQzJjOVp2ZlljbTRZUmRJY3JUVXU3Wmc?oc=5",
+        "title": "El Recre busca recuperar su fortaleza ante el Badajoz - HuelvaYA",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92Umg5ZkxoOGlkN1lfQnZJSnAxdGJXMm1zSmpQb2FqTm1QbXpjN0w1VkwtS213TXpRMUx4SEtIYTI2VUJjZ3ctTUNsSHA5aFhTVldLemc5ZDhjQlVva1YtQzJjOVp2ZlljbTRZUmRJY3JUVXU3Wmc?oc=5",
+        "date": "Sat, 21 Nov 2026 07:32:03 GMT",
+        "source": "HuelvaYA",
+        "topic": "Recreativo de Huelva"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWlZT0ZwWGRqWWJRbG1KN3ZxUUwwd2g1bF95YXUwMFA4Zm1VWkowcDVEU3JWOTRqei0zNHRqd2IxWDdBbGthSkpzOUR1OC1rQkRtRXZYZm1BN1VyTWpSbmdYbGtobkhvdDFFQy02REN0ZTZfT2Rsa0pNdHpYV1JrcFdQeEY3UHhyWEM1cHFLamgtVDg?oc=5",
+        "title": "Apuestas Recreativo Huelva - Badajoz - Gainblers",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWlZT0ZwWGRqWWJRbG1KN3ZxUUwwd2g1bF95YXUwMFA4Zm1VWkowcDVEU3JWOTRqei0zNHRqd2IxWDdBbGthSkpzOUR1OC1rQkRtRXZYZm1BN1VyTWpSbmdYbGtobkhvdDFFQy02REN0ZTZfT2Rsa0pNdHpYV1JrcFdQeEY3UHhyWEM1cHFLamgtVDg?oc=5",
+        "date": "Wed, 18 Nov 2026 09:04:46 GMT",
+        "source": "Gainblers",
+        "topic": "Recreativo de Huelva"
+      }
+    ],
+    "Fútbol": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUktZU1CM2tvSmRSQmJsSDhNNGhDUjN2NTU0ZE5zWHd2QXlpSHNPNjA4Q2pRbjgxNUpfQlhJMGk4YVlLS2k3U1Ezam1lZl90TVVvX0pVeUJIM2RZbERvX2F3U1l5WjVHRnJKUVJUcGNUSlR4bTdOWkxPYTJ3WjZfbkVkcnM2dXdtSGpoeg?oc=5",
+        "title": "Fútbol: España - Marruecos, en directo | Mundial Sub-17 - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUktZU1CM2tvSmRSQmJsSDhNNGhDUjN2NTU0ZE5zWHd2QXlpSHNPNjA4Q2pRbjgxNUpfQlhJMGk4YVlLS2k3U1Ezam1lZl90TVVvX0pVeUJIM2RZbERvX2F3U1l5WjVHRnJKUVJUcGNUSlR4bTdOWkxPYTJ3WjZfbkVkcnM2dXdtSGpoeg?oc=5",
+        "date": "Sun, 22 Nov 2026 19:41:38 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNejNhVDJRcklVZ1BPODhqZUxndVJjZEZoRXN2TkpfMmtPWlFMRFhIUnZYM0ZKZXlRQk9wUzNQNjRUMTZYZ0RybTdDT3RYa3I0akFvV3hNQlpLaU02VlNWdVJ1aWY1eFY5U0hPYV9XcDZwVTZOSTNrYlRtUjVETUl4TVRDUWc1MXRubV9FblJjb2psaGhoaGczaTFGbWdKOV96cHh0cWlBenVaRTA2a1psLTlPaXJqWHFCXzRzZHNOc1B4cF9TeFJVY0xIRGNPdTFEYUhkdElnaVF5WmNUNDBjLS1YMGZmQWZpeFNpbk5kR0lTWkxaUFROTjVNdWoxc00?oc=5",
+        "title": "Dónde ver el San Francisco 49ers vs Minnesota Vikings en España: cuándo se juega, horario y canal de TV de la NFL 2026 - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNejNhVDJRcklVZ1BPODhqZUxndVJjZEZoRXN2TkpfMmtPWlFMRFhIUnZYM0ZKZXlRQk9wUzNQNjRUMTZYZ0RybTdDT3RYa3I0akFvV3hNQlpLaU02VlNWdVJ1aWY1eFY5U0hPYV9XcDZwVTZOSTNrYlRtUjVETUl4TVRDUWc1MXRubV9FblJjb2psaGhoaGczaTFGbWdKOV96cHh0cWlBenVaRTA2a1psLTlPaXJqWHFCXzRzZHNOc1B4cF9TeFJVY0xIRGNPdTFEYUhkdElnaVF5WmNUNDBjLS1YMGZmQWZpeFNpbk5kR0lTWkxaUFROTjVNdWoxc00?oc=5",
+        "date": "Sun, 22 Nov 2026 18:20:00 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVYwZF9aUGdiODlZenVyQTMweGR0U1JFRVdLZ2RoZTQzN21Qbk8xMWtza1RJcmpWeGNlQUpoUTREN0RoclNtTjdVeU1ZdE5aSUwzUHNudHlCVkdMUU5meTFhWjIyRUZsZUh0VDBSRVNjWDJ0Q0VQakQxTkFfNjVtc0w5OTZuaXp3S3VfNjBQaVVvZmVSMmhwcHMxTUJqOHVnX1dIdUdHVllPMTlxZEprWnZkZlp1d2NFdHJ2RWN30gHDAUFVX3lxTE5tMnFSc2k3RTJUb2ZWdEdSWXZOZzBsS2FoVjZOa2NxTTlRM2lneWFZYTJ6LXRuQlVMSVpvWm1iTFpiYTk4OHVSZkg3LTRsQWVnNjBrSkUza05aNzlVaDhMbFN6NEFpU0tnaUVZcUtTdHM4dkxaaEFOUFZoWS1xRlZENWdLVWpSLU1hRHoyUVRLQ3Z1aE1ra1gwYUkxZjQ4MVBaS29qdW1pM0FDUnZXVUlnTzNtTU0teV8ycGg3RHNTTWlVOA?oc=5",
+        "title": "La Copa del Mundo de España podrá visitarse gratis este lunes y martes en Toledo - ABC",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVYwZF9aUGdiODlZenVyQTMweGR0U1JFRVdLZ2RoZTQzN21Qbk8xMWtza1RJcmpWeGNlQUpoUTREN0RoclNtTjdVeU1ZdE5aSUwzUHNudHlCVkdMUU5meTFhWjIyRUZsZUh0VDBSRVNjWDJ0Q0VQakQxTkFfNjVtc0w5OTZuaXp3S3VfNjBQaVVvZmVSMmhwcHMxTUJqOHVnX1dIdUdHVllPMTlxZEprWnZkZlp1d2NFdHJ2RWN30gHDAUFVX3lxTE5tMnFSc2k3RTJUb2ZWdEdSWXZOZzBsS2FoVjZOa2NxTTlRM2lneWFZYTJ6LXRuQlVMSVpvWm1iTFpiYTk4OHVSZkg3LTRsQWVnNjBrSkUza05aNzlVaDhMbFN6NEFpU0tnaUVZcUtTdHM4dkxaaEFOUFZoWS1xRlZENWdLVWpSLU1hRHoyUVRLQ3Z1aE1ra1gwYUkxZjQ4MVBaS29qdW1pM0FDUnZXVUlnTzNtTU0teV8ycGg3RHNTTWlVOA?oc=5",
+        "date": "Sun, 22 Nov 2026 17:34:27 GMT",
+        "source": "ABC",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm9LUjQxS2w4Z0Rsd0l6SHE1ckdieEhaVkZldkpIWXA2YzB3bFU5V0cwbkhtT3VXdE1hNW5abWl5Z3lzZGxSUVJwU2ctRW53OFgtMkpBQXNMdHpubVczc0hCX2J4enFCcVJHLTJmZk5URjBsd25hbU5xMzRPSDBmd016QmFXS293aWZ6YS1mWGpRSlpjc0QzRFV6SkljdC1UT1J4cndoMWFCTnBIRkdiZWpRZDdBNlpCZ2syUGVzR20teDdkRDlMR9IByAFBVV95cUxNZm9LUjQxS2w4Z0Rsd0l6SHE1ckdieEhaVkZldkpIWXA2YzB3bFU5V0cwbkhtT3VXdE1hNW5abWl5Z3lzZGxSUVJwU2ctRW53OFgtMkpBQXNMdHpubVczc0hCX2J4enFCcVJHLTJmZk5URjBsd25hbU5xMzRPSDBmd016QmFXS293aWZ6YS1mWGpRSlpjc0QzRFV6SkljdC1UT1J4cndoMWFCTnBIRkdiZWpRZDdBNlpCZ2syUGVzR20teDdkRDlMRw?oc=5",
+        "title": "Horario, canal y dónde ver por TV el España - Fiyi del Mundial sub-17 - Mundo Deportivo",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm9LUjQxS2w4Z0Rsd0l6SHE1ckdieEhaVkZldkpIWXA2YzB3bFU5V0cwbkhtT3VXdE1hNW5abWl5Z3lzZGxSUVJwU2ctRW53OFgtMkpBQXNMdHpubVczc0hCX2J4enFCcVJHLTJmZk5URjBsd25hbU5xMzRPSDBmd016QmFXS293aWZ6YS1mWGpRSlpjc0QzRFV6SkljdC1UT1J4cndoMWFCTnBIRkdiZWpRZDdBNlpCZ2syUGVzR20teDdkRDlMR9IByAFBVV95cUxNZm9LUjQxS2w4Z0Rsd0l6SHE1ckdieEhaVkZldkpIWXA2YzB3bFU5V0cwbkhtT3VXdE1hNW5abWl5Z3lzZGxSUVJwU2ctRW53OFgtMkpBQXNMdHpubVczc0hCX2J4enFCcVJHLTJmZk5URjBsd25hbU5xMzRPSDBmd016QmFXS293aWZ6YS1mWGpRSlpjc0QzRFV6SkljdC1UT1J4cndoMWFCTnBIRkdiZWpRZDdBNlpCZ2syUGVzR20teDdkRDlMRw?oc=5",
+        "date": "Sun, 22 Nov 2026 17:43:29 GMT",
+        "source": "Mundo Deportivo",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpfNGFsdGQ5THJaTVFoTFJjQ3BWRngtMDFVQjBsak1JM2xkSXE2VTlrVlpsbXdrdzFXUThRUHA3TGZLZUd4aF9fS2owcG41OXpXVHlLRUdFc2hqZWJ5a0YzejVsQjB2MHV6M05CcURHYlpwNUdBZzV3UDk1S1Zrd2VZQ081RENTbFI0bm80ZXRkVEQyanNwRnZJaHEwM0xnamtkRElQcG9pY2tfNWx2UkYtOEM4bHhGOVl0bUlVUzVGRlk3X2w3d3Qwb212RlJzTkVj?oc=5",
+        "title": "Juventus hoy: dónde ver online, cuándo juega, hora y próximo partido en la Serie A - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpfNGFsdGQ5THJaTVFoTFJjQ3BWRngtMDFVQjBsak1JM2xkSXE2VTlrVlpsbXdrdzFXUThRUHA3TGZLZUd4aF9fS2owcG41OXpXVHlLRUdFc2hqZWJ5a0YzejVsQjB2MHV6M05CcURHYlpwNUdBZzV3UDk1S1Zrd2VZQ081RENTbFI0bm80ZXRkVEQyanNwRnZJaHEwM0xnamtkRElQcG9pY2tfNWx2UkYtOEM4bHhGOVl0bUlVUzVGRlk3X2w3d3Qwb212RlJzTkVj?oc=5",
+        "date": "Sun, 22 Nov 2026 20:18:39 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWFVlRnVWeEpTWnhZa0NvcU0zV0ljQmZNcDN4RDBJMmppYjJSRWZpTEtfVEZ0MXBFQnBQc1FsV3lXb0QtM1Q2ekRtX2t5Wm56VnA2aUtxbkJlc3pjU1NWNXJBcHJuRkppTE9KcnJKSVVmSUFhbFZBNU1XODl6V3N3THJGTndzVlU0cHNqYnB1V3FRbXBJOTIzb2FjVXZDUXdmc1EwQnV1cXJ0bjJ6UkpLb0w2X3dpYUlNOUotVjlqM0JyWVB0Z3RXc01jZWo4dkZlNXN0UHpEdWhCOXBKWmx0WEtlR1N4SjJMX1lCUzZPQnFrZTZBVjZtM1V5YS1TWGFlUDdMdFg4MA?oc=5",
+        "title": "Burgos vs Albacete de Segunda División: horario y dónde ver hoy por TV y online el partido de LaLiga Hypermotion a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWFVlRnVWeEpTWnhZa0NvcU0zV0ljQmZNcDN4RDBJMmppYjJSRWZpTEtfVEZ0MXBFQnBQc1FsV3lXb0QtM1Q2ekRtX2t5Wm56VnA2aUtxbkJlc3pjU1NWNXJBcHJuRkppTE9KcnJKSVVmSUFhbFZBNU1XODl6V3N3THJGTndzVlU0cHNqYnB1V3FRbXBJOTIzb2FjVXZDUXdmc1EwQnV1cXJ0bjJ6UkpLb0w2X3dpYUlNOUotVjlqM0JyWVB0Z3RXc01jZWo4dkZlNXN0UHpEdWhCOXBKWmx0WEtlR1N4SjJMX1lCUzZPQnFrZTZBVjZtM1V5YS1TWGFlUDdMdFg4MA?oc=5",
+        "date": "Sun, 22 Nov 2026 11:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1Z0aVgybFZhMlNITjU5dS1VZ3I5WXpWeDFtaEpVTmdXWG1hS2VxdnQ3V3pLVUhsckI5R0dUNHJaQk9kcFo0eS1pTkZWZjQ0bXBVdlBibUQtVjl4QUZtSEtfMm1LX3NXc0V2V3RoOUNRQUhXZlZzeFBLaWRYU0dSakhlY0gwUDR3ZEVuNlZZT3VueUVuSVhrTF9ERUxLbktHaW1NOVdZT0s5TEZBdUNyOF9XOWdMeXJfd3BuTEpLYk5lSlZ0MEM0OU5hcHhEVjZ3QW8tUUV3RmhPc2ctUjBR?oc=5",
+        "title": "Barcelona vs Villarreal: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1Z0aVgybFZhMlNITjU5dS1VZ3I5WXpWeDFtaEpVTmdXWG1hS2VxdnQ3V3pLVUhsckI5R0dUNHJaQk9kcFo0eS1pTkZWZjQ0bXBVdlBibUQtVjl4QUZtSEtfMm1LX3NXc0V2V3RoOUNRQUhXZlZzeFBLaWRYU0dSakhlY0gwUDR3ZEVuNlZZT3VueUVuSVhrTF9ERUxLbktHaW1NOVdZT0s5TEZBdUNyOF9XOWdMeXJfd3BuTEpLYk5lSlZ0MEM0OU5hcHhEVjZ3QW8tUUV3RmhPc2ctUjBR?oc=5",
+        "date": "Sun, 22 Nov 2026 06:50:51 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXozZmVCXzd0d2pQRHY4Q1VLMVJ0d2QyZlVkLWloeS1hSlVrWUhpQVozXzlpUzB5ek5IWWpMN19pblhqLU5vc2psMXdSN2RJWUR0a2JhSk5WS2VydDhBLW5Fb1RQb20teXJuSC1PdU1vZExNN2NGY3hRYWJyVU9SY0p4YUhZWVg0bnBTNlQyc1NTeVNfWXEtTHdJR0dMRjNNdkNQenZEa0tvSHU2UmNxVVZsM2NEZnl3bWZpNGg0STRHbEpnQnB3S2dIb3hPMm45NElYaVB3?oc=5",
+        "title": "Chivas vs Cruz Azul en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXozZmVCXzd0d2pQRHY4Q1VLMVJ0d2QyZlVkLWloeS1hSlVrWUhpQVozXzlpUzB5ek5IWWpMN19pblhqLU5vc2psMXdSN2RJWUR0a2JhSk5WS2VydDhBLW5Fb1RQb20teXJuSC1PdU1vZExNN2NGY3hRYWJyVU9SY0p4YUhZWVg0bnBTNlQyc1NTeVNfWXEtTHdJR0dMRjNNdkNQenZEa0tvSHU2UmNxVVZsM2NEZnl3bWZpNGg0STRHbEpnQnB3S2dIb3hPMm45NElYaVB3?oc=5",
+        "date": "Sun, 22 Nov 2026 16:40:29 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmJWeTJWTjMtaHUzV3JTOHVWekREY043U0lZRi11TVJleVp3bEtWR1FHOWhqS3RaaUdUVjNXeTNqTTNFYjNJVWZCOWQ4alk5YzctOVBEY1lISUdQZzQ2c1lGVVkxSkplb1A2YXp5cG04UkhlNDBFM1ZDY1lpQ0J6TFlWaWlJcmhD?oc=5",
+        "title": "Deportes: Estadio 2, en directo | 23/11/2026 - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmJWeTJWTjMtaHUzV3JTOHVWekREY043U0lZRi11TVJleVp3bEtWR1FHOWhqS3RaaUdUVjNXeTNqTTNFYjNJVWZCOWQ4alk5YzctOVBEY1lISUdQZzQ2c1lGVVkxSkplb1A2YXp5cG04UkhlNDBFM1ZDY1lpQ0J6TFlWaWlJcmhD?oc=5",
+        "date": "Sun, 22 Nov 2026 13:33:51 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEE1WkVuUE1rejdMc1c1QzNYY2ZSdUFZcGRfcks5MnFVS0JUNDlsWkplTUkwN0NWel8yYU1HWFJmQlNab3pwUGdJOFlxXzFMNWsxb0lUVjFTcE82OG82SzJfQVRBMXFyM184bDllc0pIbXNoMFlJeFJNeEoyQWVZblFYaVpxTGQ2WVhGNmZXejE3Q1hHM0lDbmhKMjhGdE4tN1BZZ0R3Z3lERWhUY3c?oc=5",
+        "title": "Información acerca del encuentro que la selección española disputará en Oviedo - Real Oviedo",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEE1WkVuUE1rejdMc1c1QzNYY2ZSdUFZcGRfcks5MnFVS0JUNDlsWkplTUkwN0NWel8yYU1HWFJmQlNab3pwUGdJOFlxXzFMNWsxb0lUVjFTcE82OG82SzJfQVRBMXFyM184bDllc0pIbXNoMFlJeFJNeEoyQWVZblFYaVpxTGQ2WVhGNmZXejE3Q1hHM0lDbmhKMjhGdE4tN1BZZ0R3Z3lERWhUY3c?oc=5",
+        "date": "Sun, 22 Nov 2026 10:14:10 GMT",
+        "source": "Real Oviedo",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTDExQ2JrNGRwWW1MbFBlSk5QdjZON0hGN0p3Q2xiSGlGUlBvbVZONS15M0s4ZlJHandYUzkzZzRPVi1uNjZKcE9nYnh6RmVvaVA0ODV4aUpQN3EzeTNLekp6RWd0NHRNMlNRSS1iVGFJZ0ttTlp3MVA0NXBydFN2QkoxSEpjaTBQdmhuRGZ5TUJyamZzcEtDd3BqS2dQUTB2T3JwdEl5OEQ4Nkt5a3FnZk5GcmhfTk15d1JrS1pra0tXdUVUNmF4QVNwYTg4ZVlYVWU5VkFQUTJ4VC1xdV9lNUFGd1l6b1hCT0x6MXRVaWJZaW8?oc=5",
+        "title": "AC Milan vs Frosinone de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTDExQ2JrNGRwWW1MbFBlSk5QdjZON0hGN0p3Q2xiSGlGUlBvbVZONS15M0s4ZlJHandYUzkzZzRPVi1uNjZKcE9nYnh6RmVvaVA0ODV4aUpQN3EzeTNLekp6RWd0NHRNMlNRSS1iVGFJZ0ttTlp3MVA0NXBydFN2QkoxSEpjaTBQdmhuRGZ5TUJyamZzcEtDd3BqS2dQUTB2T3JwdEl5OEQ4Nkt5a3FnZk5GcmhfTk15d1JrS1pra0tXdUVUNmF4QVNwYTg4ZVlYVWU5VkFQUTJ4VC1xdV9lNUFGd1l6b1hCT0x6MXRVaWJZaW8?oc=5",
+        "date": "Sun, 22 Nov 2026 10:24:18 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVpodVpscjNzM2hKZm9nOWNmVHZMUENNbk9hR19jcTRodmpEMUJQcHZRSTVuT09seHI4ZXk1M0hjZUh3ZGcyWllMN0xhX3UxaG5WYkp5T3lmdWlLS2g2MTB1M3YyZ2x0RUhTRTVReGVQTjZwQmRTWWFQYlgyUWZYRlZ6Z0tscU1WUk5sTU5EWnVDVHFIX2RkR09sTW5lVVHSAaQBQVVfeXFMTmE1eHFZalpoOFhrdkt1OG55RzAtNzRIV190ZWhDRTdYZkhKSUxncEM1ZjhiZXZRVmFQZ3BXTkg3Q1hLamZIX2ZlbDg0dlhiRGJma0JiR2ZhRElsSHFtMk5fcjMwR2ZTYkZwQlRRSU5LeDdOMmF2WmtEQnhxTW44LU9iQzhZcWZ5RUFIZUtuQjhvWWljS21UeHhzX215ejVHVDNQUlQ?oc=5",
+        "title": "Owen juega ante Fiyi su segundo partido en el Mundial sub 17 con España - Ideal",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVpodVpscjNzM2hKZm9nOWNmVHZMUENNbk9hR19jcTRodmpEMUJQcHZRSTVuT09seHI4ZXk1M0hjZUh3ZGcyWllMN0xhX3UxaG5WYkp5T3lmdWlLS2g2MTB1M3YyZ2x0RUhTRTVReGVQTjZwQmRTWWFQYlgyUWZYRlZ6Z0tscU1WUk5sTU5EWnVDVHFIX2RkR09sTW5lVVHSAaQBQVVfeXFMTmE1eHFZalpoOFhrdkt1OG55RzAtNzRIV190ZWhDRTdYZkhKSUxncEM1ZjhiZXZRVmFQZ3BXTkg3Q1hLamZIX2ZlbDg0dlhiRGJma0JiR2ZhRElsSHFtMk5fcjMwR2ZTYkZwQlRRSU5LeDdOMmF2WmtEQnhxTW44LU9iQzhZcWZ5RUFIZUtuQjhvWWljS21UeHhzX215ejVHVDNQUlQ?oc=5",
+        "date": "Sun, 22 Nov 2026 17:33:46 GMT",
+        "source": "Ideal",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1ZVbDkwanFmYjBidWF1cW5pZWpaOW00UFB5eVZ3cGZSYTBxc0t2Yjl5Vkh5T0djeGYtUWNRZTM0NHpsVzZjR3RQZGJMdXZFMGNiU0ZBYm9xd0lqNXZfQTh2WDdQcGVlcmkzZWxtVlZva3I4S2c2YjFHLTZDdEpLNVBYLTd5SkdtUEllaERBZGI0dzBKVzVpXzZxNWdrS3VveXVEbjFDbTZla19VWTR6UmhqSTJZVUI0bVFIamtQdm80b2E4SDlacmJ4MDR5bzNNX3J4elJpd3p4VmE50gHiAUFVX3lxTE9BalVGUDRZdHF2Ung0ZFJWbjZESnc0RjVJYlJmRi1IdjF4VTJiTGhpY25yMU4yUHc4VjA3eVlCdXlDbjJseVNKNmFtaDVEX05WOEd3MzN4N2plT2c3MlZSM0VFcHEwMmM2eVVMMlN5NlFRNktCYWNSQWNoYV9PV05WNTQzbkZsODVKRnNUOGN5MXpUMW1jTFZVM0xNV2pDQ1Z5N1VhaDVaM210ZWRUTU11SVlUX1Bua2pPM2gtM3BYTnRBNEZCUklRYlZOSE1kUE11Q2F2MjlsNGVpNk5jWUxNaXc?oc=5",
+        "title": "La jugadora de Covaleda, Lucía Rodríguez Herrero, ha sido convocada con la Selección Española Absoluta de Fútbol - Tu voz en Pinares",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1ZVbDkwanFmYjBidWF1cW5pZWpaOW00UFB5eVZ3cGZSYTBxc0t2Yjl5Vkh5T0djeGYtUWNRZTM0NHpsVzZjR3RQZGJMdXZFMGNiU0ZBYm9xd0lqNXZfQTh2WDdQcGVlcmkzZWxtVlZva3I4S2c2YjFHLTZDdEpLNVBYLTd5SkdtUEllaERBZGI0dzBKVzVpXzZxNWdrS3VveXVEbjFDbTZla19VWTR6UmhqSTJZVUI0bVFIamtQdm80b2E4SDlacmJ4MDR5bzNNX3J4elJpd3p4VmE50gHiAUFVX3lxTE9BalVGUDRZdHF2Ung0ZFJWbjZESnc0RjVJYlJmRi1IdjF4VTJiTGhpY25yMU4yUHc4VjA3eVlCdXlDbjJseVNKNmFtaDVEX05WOEd3MzN4N2plT2c3MlZSM0VFcHEwMmM2eVVMMlN5NlFRNktCYWNSQWNoYV9PV05WNTQzbkZsODVKRnNUOGN5MXpUMW1jTFZVM0xNV2pDQ1Z5N1VhaDVaM210ZWRUTU11SVlUX1Bua2pPM2gtM3BYTnRBNEZCUklRYlZOSE1kUE11Q2F2MjlsNGVpNk5jWUxNaXc?oc=5",
+        "date": "Sun, 22 Nov 2026 16:45:28 GMT",
+        "source": "Tu voz en Pinares",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkxWQTVGVlIyaUxnSlYtX1VILVRpU18tTEwxRVhKSXIyc29iLVJCa0k0QkJSdkxHbTVSNVZXc19Wdlc0VmpuYm94dm9qbkJqbDg4MVVWbEJFbDhmZy1nNE5qOTFtN3ROY1FlZ3VzRTVibGNhTnRGWEpXNXI2UVByTk1GQlZ3RTBfWW9VTllabGFIZXlpWW0zSmRnYmNkQTlvaXdmS2cxQTJFQnFqQWFlMmptUXhMdVd3Ni04YlpYZURRVGszT2g3OUpCcFZ6ejBRb2NucGxGYlNKbWx6SGRPQldyU0l6OTNDbkdOSGttWkdVVWU4WVNF?oc=5",
+        "title": "Liverpool vs Manchester United: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkxWQTVGVlIyaUxnSlYtX1VILVRpU18tTEwxRVhKSXIyc29iLVJCa0k0QkJSdkxHbTVSNVZXc19Wdlc0VmpuYm94dm9qbkJqbDg4MVVWbEJFbDhmZy1nNE5qOTFtN3ROY1FlZ3VzRTVibGNhTnRGWEpXNXI2UVByTk1GQlZ3RTBfWW9VTllabGFIZXlpWW0zSmRnYmNkQTlvaXdmS2cxQTJFQnFqQWFlMmptUXhMdVd3Ni04YlpYZURRVGszT2g3OUpCcFZ6ejBRb2NucGxGYlNKbWx6SGRPQldyU0l6OTNDbkdOSGttWkdVVWU4WVNF?oc=5",
+        "date": "Sun, 22 Nov 2026 10:06:21 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaGMzSlRNeG41U0tlTEVlcG5PU0dJODJfS2lRRnltekp5bC1jZ0w5Nnp4azdCb25paFQyMUlNdnVsMFdqOTJTMUdlQm9ZZGxDTU1OdjR2ZWF6SHV2Xy1EX1FSSGhkSUZUbEt2TWZHeWRfVHNlN25zdGh3MTZ1T0NWLWtuNjlHcVR1SHRWSnZhV2ZxZE16aTZabWduTW5CNXBWRS1SQlFDaFpOTXR2bGlIWHh2a1pWUFJ2RV9va2ZBNUVHTmZ4aFY5N1NaM2llWHYtc3gzSEU3dmRSd0N5WkhUTTB5M0xZVWtMSS1adWZucGl4OFg1WE1YSmJCOVhGV2RTSEQ0?oc=5",
+        "title": "Alineaciones FC Barcelona vs Villarreal hoy: once inicial y banquillo de suplentes de Hansi Flick e Iñigo Pérez para LaLiga 2026/27 - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaGMzSlRNeG41U0tlTEVlcG5PU0dJODJfS2lRRnltekp5bC1jZ0w5Nnp4azdCb25paFQyMUlNdnVsMFdqOTJTMUdlQm9ZZGxDTU1OdjR2ZWF6SHV2Xy1EX1FSSGhkSUZUbEt2TWZHeWRfVHNlN25zdGh3MTZ1T0NWLWtuNjlHcVR1SHRWSnZhV2ZxZE16aTZabWduTW5CNXBWRS1SQlFDaFpOTXR2bGlIWHh2a1pWUFJ2RV9va2ZBNUVHTmZ4aFY5N1NaM2llWHYtc3gzSEU3dmRSd0N5WkhUTTB5M0xZVWtMSS1adWZucGl4OFg1WE1YSmJCOVhGV2RTSEQ0?oc=5",
+        "date": "Sun, 22 Nov 2026 11:51:00 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHY1SmI5N09YWXhvc3owLWZZSTVpdUpXdTRodGNLRlVyZk9zLTFtb2lDWkl2LVpzTUhYeC02QXc0Wlh2Q3htdHN3UzlGdXdwWlkxMExyeUJBMFFDRnF4M1VkYmc3T1VfVGUtZTdXZ092ajJVa2U4WlFCdnhoT3F0Qy1HTQ?oc=5",
+        "title": "Álex de la Iglesia y Mónica Ojeda - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHY1SmI5N09YWXhvc3owLWZZSTVpdUpXdTRodGNLRlVyZk9zLTFtb2lDWkl2LVpzTUhYeC02QXc0Wlh2Q3htdHN3UzlGdXdwWlkxMExyeUJBMFFDRnF4M1VkYmc3T1VfVGUtZTdXZ092ajJVa2U4WlFCdnhoT3F0Qy1HTQ?oc=5",
+        "date": "Sun, 22 Nov 2026 16:34:37 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NbVJxV3lUUlc3cUJyZDdYZnVoS21SNFU2VnFBamNOQ0ZBRnVpYkJOSG1GYXdvVnVpRUxVN3BQYUtZdW05VndkTVZvWE9Rak9PZThuS2tvbm41YVdtT3pnUWl1UmVWdDdfUTZMZFl4bHNOMzVHY0Rr?oc=5",
+        "title": "El Jimbee se acerca a la Copa de España - Onda Regional de Murcia | ORM",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NbVJxV3lUUlc3cUJyZDdYZnVoS21SNFU2VnFBamNOQ0ZBRnVpYkJOSG1GYXdvVnVpRUxVN3BQYUtZdW05VndkTVZvWE9Rak9PZThuS2tvbm41YVdtT3pnUWl1UmVWdDdfUTZMZFl4bHNOMzVHY0Rr?oc=5",
+        "date": "Sun, 22 Nov 2026 15:01:26 GMT",
+        "source": "Onda Regional de Murcia | ORM",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHVla2VmeG5ER2RNeDVPZGFBNEhub2xKc1RQZnk1eGtKRzZhQi1jMFNPTUxkVFQ0cXNpeWd2Z1dueTVJUUxZVFBEVUZYTHB1QlpUVTh4STl0MEZ4UDh2Qkw5ZVN2ZEEtdDNzNkthSUJjT2EtY3FLbldRa2piSEZURzFsWDVtSGQ4ZWxlZXVIazlvX1RDU1FZTm9nMFFLS254S3dDVmNiNDNka0tLOVBQNUU2MjVJZ0pTeUpHbEp4a1JDME80a2FESjZyUmpoZkpXMmxBM193Sm9TUzh6THBhaHZ2aUIxMWxISmR5M2hjQzI3M0JfRllvYjRLbGVaZw?oc=5",
+        "title": "Sparta Rotterdam vs AZ Alkmaar: horario y dónde ver hoy por TV y online el partido de la Eredivisie 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHVla2VmeG5ER2RNeDVPZGFBNEhub2xKc1RQZnk1eGtKRzZhQi1jMFNPTUxkVFQ0cXNpeWd2Z1dueTVJUUxZVFBEVUZYTHB1QlpUVTh4STl0MEZ4UDh2Qkw5ZVN2ZEEtdDNzNkthSUJjT2EtY3FLbldRa2piSEZURzFsWDVtSGQ4ZWxlZXVIazlvX1RDU1FZTm9nMFFLS254S3dDVmNiNDNka0tLOVBQNUU2MjVJZ0pTeUpHbEp4a1JDME80a2FESjZyUmpoZkpXMmxBM193Sm9TUzh6THBhaHZ2aUIxMWxISmR5M2hjQzI3M0JfRllvYjRLbGVaZw?oc=5",
+        "date": "Sun, 22 Nov 2026 07:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMEtORmpSTDd4WEVRMGNqcWdHYjd1MzlubEFleEh2c2tfbzdpeFJMWmp4TEI4VlpvNGhXUHN5ZnZoY2ItR0NkMFpVRHRmQnRuX1E5V2xzN1ZoanJqamgyOGlOWHNOLXB0TU8tZC1tNGZuOVFZVzN2NEJtc2tNNGNCbzh1dzl6WmxkS2l1WGxxdU42SEhTZXRqRTJYMnpLN0lDWDE4b0ZoSS1BYUxXSXl6U0xJcXB4Z1lXWVcyZ1VHOHJBeGFZNjJPQ0hiandJZDlfU2g0eWtpams1eFNLNlRkNHZOM091R25MRTUtYkZySzlDdw?oc=5",
+        "title": "Ajax vs ADO Den Haag: horario y dónde ver hoy por TV y online el partido de la Eredivisie 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMEtORmpSTDd4WEVRMGNqcWdHYjd1MzlubEFleEh2c2tfbzdpeFJMWmp4TEI4VlpvNGhXUHN5ZnZoY2ItR0NkMFpVRHRmQnRuX1E5V2xzN1ZoanJqamgyOGlOWHNOLXB0TU8tZC1tNGZuOVFZVzN2NEJtc2tNNGNCbzh1dzl6WmxkS2l1WGxxdU42SEhTZXRqRTJYMnpLN0lDWDE4b0ZoSS1BYUxXSXl6U0xJcXB4Z1lXWVcyZ1VHOHJBeGFZNjJPQ0hiandJZDlfU2g0eWtpams1eFNLNlRkNHZOM091R25MRTUtYkZySzlDdw?oc=5",
+        "date": "Sun, 22 Nov 2026 06:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUlhUmJ0R3VkaUZuNzY3V3JNWHROTHJvQzI3c2REVkVkM3djeUdWRk9OTXB1NThpT1FBOVowVEljeWJwWDhabmhPOWF6XzJWTHdkREJPWWNRbnAxQzlfT1RFaXFxS01uS0I1QnhVUGxTSjlmRVZad2xVMEdreThzMF8yNkdWU2g0ZGlqQ0N4UkVLQ0twSlBUVkJUYTd5Vk44NVo1bnR6eEpzS0tjLThVdWhyR1ZBWHJROGVmRQ?oc=5",
+        "title": "Barcelona marca 3 goles en 10 minutos y vence 3-2 al Villarreal - Independent en Español",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUlhUmJ0R3VkaUZuNzY3V3JNWHROTHJvQzI3c2REVkVkM3djeUdWRk9OTXB1NThpT1FBOVowVEljeWJwWDhabmhPOWF6XzJWTHdkREJPWWNRbnAxQzlfT1RFaXFxS01uS0I1QnhVUGxTSjlmRVZad2xVMEdreThzMF8yNkdWU2g0ZGlqQ0N4UkVLQ0twSlBUVkJUYTd5Vk44NVo1bnR6eEpzS0tjLThVdWhyR1ZBWHJROGVmRQ?oc=5",
+        "date": "Sun, 22 Nov 2026 16:09:00 GMT",
+        "source": "Independent en Español",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQblZVaC1GUER5Z2hWQzhTSE1Qd0lQdEdXOGo5eDFybXdCUU05MUh1X2R3SFl0WGdTV18zSGdoZDRJWG5YVEhBNXdDbG0zMWRHb1JvaXZ4OHdiTmtrZ1lobVowZ29VWDMzYjQ3T2lYZlQxaVVKWm1neWhNb09hTkl4ZmJteFc4NTBKeEhkcEJGSGt3ZGtTSHkySEJINU11RGdDMTdzblI2cmI4MzR2LUJCbzRobVdiaHRuMEtnR1dWU1JzVnhCN21BbWgydjhxSVVmMkhJc19mZVBweURfaDVkRk12OWtQX2NsXzBldFgySkdnSnZCRFZVRGJkODdrLWM?oc=5",
+        "title": "Anderlecht vs OH Leuven: horario y dónde ver hoy por TV y online el partido de la Jupiler Pro League 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQblZVaC1GUER5Z2hWQzhTSE1Qd0lQdEdXOGo5eDFybXdCUU05MUh1X2R3SFl0WGdTV18zSGdoZDRJWG5YVEhBNXdDbG0zMWRHb1JvaXZ4OHdiTmtrZ1lobVowZ29VWDMzYjQ3T2lYZlQxaVVKWm1neWhNb09hTkl4ZmJteFc4NTBKeEhkcEJGSGt3ZGtTSHkySEJINU11RGdDMTdzblI2cmI4MzR2LUJCbzRobVdiaHRuMEtnR1dWU1JzVnhCN21BbWgydjhxSVVmMkhJc19mZVBweURfaDVkRk12OWtQX2NsXzBldFgySkdnSnZCRFZVRGJkODdrLWM?oc=5",
+        "date": "Sun, 22 Nov 2026 08:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc3A3N1Z2OVpXdG5lUDI0QWk2YUh2MnBOMUtEUFZ1LURvS18wbXhhVllxeDA5R2hzbEo0MU4yODVNcm92ckpMSHZtSi1XQ3N5MUw5RmJxUmR0Ymg5Zi16Tk1qYmVzd2VuY0RDV3JKMnp1VmhES0plZXIwUG1TeU0yYlVfNW50Q0tScG91QWRBd09IbXQ5QVVuZWhuNU0zbEt4TTEzSDRpUTlURGgyNDRVazQ5RXJBcS1UajZ4ZC1LUndWQTlfdmFNMDQyT0dmQWJ6aUdhUHNIWDhTTURPYkZxM2hRVlBXdjQxNzZz?oc=5",
+        "title": "Qué partidos de fútbol hay hoy: La agenda del domingo 22 de noviembre - Sporting News",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc3A3N1Z2OVpXdG5lUDI0QWk2YUh2MnBOMUtEUFZ1LURvS18wbXhhVllxeDA5R2hzbEo0MU4yODVNcm92ckpMSHZtSi1XQ3N5MUw5RmJxUmR0Ymg5Zi16Tk1qYmVzd2VuY0RDV3JKMnp1VmhES0plZXIwUG1TeU0yYlVfNW50Q0tScG91QWRBd09IbXQ5QVVuZWhuNU0zbEt4TTEzSDRpUTlURGgyNDRVazQ5RXJBcS1UajZ4ZC1LUndWQTlfdmFNMDQyT0dmQWJ6aUdhUHNIWDhTTURPYkZxM2hRVlBXdjQxNzZz?oc=5",
+        "date": "Sun, 22 Nov 2026 11:00:00 GMT",
+        "source": "Sporting News",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUstUkRpTHoyYTJiX0FMS2VqOVBJSVlIZzRXWkVBVF84STRsWEs2NGRaMS1nczZ3bFdFSGdoV29TMzZYR2sxTmJNZ1ZETzV0cHFyc0ctRV9nR2h2RGp1bzMzcHRoZTJHdWl3LUhaMnlmYkI4aHhsam9RVEhDUkVTcWlXc0RTQXVwR1FpRHNQbUNTb2ND?oc=5",
+        "title": "Marcador en directo, H2H y alineaciones del A.D. Villaverde Bajo 'A' – Rivas Fútbol Club - Sofascore",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUstUkRpTHoyYTJiX0FMS2VqOVBJSVlIZzRXWkVBVF84STRsWEs2NGRaMS1nczZ3bFdFSGdoV29TMzZYR2sxTmJNZ1ZETzV0cHFyc0ctRV9nR2h2RGp1bzMzcHRoZTJHdWl3LUhaMnlmYkI4aHhsam9RVEhDUkVTcWlXc0RTQXVwR1FpRHNQbUNTb2ND?oc=5",
+        "date": "Sun, 22 Nov 2026 15:26:12 GMT",
+        "source": "Sofascore",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQam03NFZDaFJQUGJYVHlkR2lUTUR0ZzJtWnVwUWVYQVZGc1JBUFJGWHJ5UFVIUFllOUNBX29RVGN6UkRIeWtLcUJxSnBXTm96ejQzcG5wX1ZnQUhYWU4ya0hUeERiNGtZSWZiRzF5UkkzRWJlbmhMeFdEU1BTNFg5RmUxa0JaajVsWVdRZNIBjAFBVV95cUxQam03NFZDaFJQUGJYVHlkR2lUTUR0ZzJtWnVwUWVYQVZGc1JBUFJGWHJ5UFVIUFllOUNBX29RVGN6UkRIeWtLcUJxSnBXTm96ejQzcG5wX1ZnQUhYWU4ya0hUeERiNGtZSWZiRzF5UkkzRWJlbmhMeFdEU1BTNFg5RmUxa0JaajVsWVdRZA?oc=5",
+        "title": "España - Fiyi: horario y dónde ver el partido del Mundial Sub-17 gratis por TV y en directo - SPORT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQam03NFZDaFJQUGJYVHlkR2lUTUR0ZzJtWnVwUWVYQVZGc1JBUFJGWHJ5UFVIUFllOUNBX29RVGN6UkRIeWtLcUJxSnBXTm96ejQzcG5wX1ZnQUhYWU4ya0hUeERiNGtZSWZiRzF5UkkzRWJlbmhMeFdEU1BTNFg5RmUxa0JaajVsWVdRZNIBjAFBVV95cUxQam03NFZDaFJQUGJYVHlkR2lUTUR0ZzJtWnVwUWVYQVZGc1JBUFJGWHJ5UFVIUFllOUNBX29RVGN6UkRIeWtLcUJxSnBXTm96ejQzcG5wX1ZnQUhYWU4ya0hUeERiNGtZSWZiRzF5UkkzRWJlbmhMeFdEU1BTNFg5RmUxa0JaajVsWVdRZA?oc=5",
+        "date": "Sun, 22 Nov 2026 16:00:42 GMT",
+        "source": "SPORT",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDdZcG5yd1FZbEY0NmtxeWtFSWR4RFBNZGRBbUZnYmpmSW1zaEowT09XV3ZiUFczYnJtWEEzSVhUZVEzdkF5dHhPRHFmbVdjLUhHZXNkeU4wbzNJRkwtMHlObWxBNGlzc1NJYWJJNkxRODlrZ2RzcWdkV3oxUmROMTkyeEl1UzZhRjB5OEp2TUJkR21jbzkxQ2ZaSklpSEc5RHh1b2EyRldsY3lnT0h4dmFSalI3T2ZPbWtUbEdCdTFHMG1tYjE1S3pnUkhLS3l5TlRGbFdFbDI0RjZsZ3Zn?oc=5",
+        "title": "Cómo ver Argentina vs Mozambique del Mundial Sub-17 en directo: horario y dónde ver en vivo en España, Argentina, Mexico, LATAM y USA - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDdZcG5yd1FZbEY0NmtxeWtFSWR4RFBNZGRBbUZnYmpmSW1zaEowT09XV3ZiUFczYnJtWEEzSVhUZVEzdkF5dHhPRHFmbVdjLUhHZXNkeU4wbzNJRkwtMHlObWxBNGlzc1NJYWJJNkxRODlrZ2RzcWdkV3oxUmROMTkyeEl1UzZhRjB5OEp2TUJkR21jbzkxQ2ZaSklpSEc5RHh1b2EyRldsY3lnT0h4dmFSalI3T2ZPbWtUbEdCdTFHMG1tYjE1S3pnUkhLS3l5TlRGbFdFbDI0RjZsZ3Zn?oc=5",
+        "date": "Sun, 22 Nov 2026 07:34:15 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmQ3WU1tMzI0aHQxcW9tMjNOaHU2M3VyVWU1dGtpM2pwN3hpbi15WmpMWTFpbllzYVUwdHMxY2hid01zTENYMmNDZWd1U1o3aUZfVUVmM2VwUXZWazRzQlBMUWsxZjlWU0R5LWpwWV83WWZwaXY4SmkwMFcyRG9BT3hJTmpQNVBuU2p2RENwM0tadWh20gGUAUFVX3lxTE9aZDdZTW0zMjRodDFxb20yM05odTYzdXJVZTV0a2kzanA3eGluLXlaakxZMWluWXNhVTB0czFjaGJ3TXNMQ1gyY0NlZ3VTWjdpRl9VRWYzZXBRdlZrNHNCUExRazFmOVZTRHktanBZXzdZZnBpdjhKaTAwVzJEb0FPeElOalA1UG5TanZEQ3AzS1p1aHY?oc=5",
+        "title": "Luis de la Fuente, sobre la situación política en España: \"Seamos capaces de buscar algo que sea bueno para todos, no para la mayoría, para todo un país. Aquí no hay partido, aquí lo que hay que trabajar es por hacer grande a una sociedad\" - SPORT",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmQ3WU1tMzI0aHQxcW9tMjNOaHU2M3VyVWU1dGtpM2pwN3hpbi15WmpMWTFpbllzYVUwdHMxY2hid01zTENYMmNDZWd1U1o3aUZfVUVmM2VwUXZWazRzQlBMUWsxZjlWU0R5LWpwWV83WWZwaXY4SmkwMFcyRG9BT3hJTmpQNVBuU2p2RENwM0tadWh20gGUAUFVX3lxTE9aZDdZTW0zMjRodDFxb20yM05odTYzdXJVZTV0a2kzanA3eGluLXlaakxZMWluWXNhVTB0czFjaGJ3TXNMQ1gyY0NlZ3VTWjdpRl9VRWYzZXBRdlZrNHNCUExRazFmOVZTRHktanBZXzdZZnBpdjhKaTAwVzJEb0FPeElOalA1UG5TanZEQ3AzS1p1aHY?oc=5",
+        "date": "Sun, 22 Nov 2026 14:00:36 GMT",
+        "source": "SPORT",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVRzclBGQVZTVmJibjh3SjlEek9rSEhneUYwMlpDQnRPM3UxSXdnZDJ6by05bUM4ZEVMeGl4eVBOelBSMFhLUlBRUDRiSGxiLUtiN3pCalR0aVRGYVE5SnJaMTM4VzFDUEt1Wksxc3NnWU9aRW5QbzN3aVFzOHlhckVoXzR2aTBzZ0gxSE52czQyWEYzWF9OUjFwcGxTRHpvSkxJ?oc=5",
+        "title": "¿Qué ha pasado en España desde que el Granada perdió su último partido? - Granada Hoy",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVRzclBGQVZTVmJibjh3SjlEek9rSEhneUYwMlpDQnRPM3UxSXdnZDJ6by05bUM4ZEVMeGl4eVBOelBSMFhLUlBRUDRiSGxiLUtiN3pCalR0aVRGYVE5SnJaMTM4VzFDUEt1Wksxc3NnWU9aRW5QbzN3aVFzOHlhckVoXzR2aTBzZ0gxSE52czQyWEYzWF9OUjFwcGxTRHpvSkxJ?oc=5",
+        "date": "Sun, 22 Nov 2026 13:16:52 GMT",
+        "source": "Granada Hoy",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGpweDhJLVVDZkU4aFZmTmhlVGR0MlBxUkhLZ0pEcUpSbkF4WVIwcUV6dlpEUmNpTVZoVHVtaldEVlJPYUJOSGZPcHFDUlJQZmhXdmNNUHdkQjk0eThZQjBDWE9KV2lIdjVhdUM5N1dkNUVObDlXb2VjQjlqb2sxMl9KYXBtSVl1MnVGSXh0TWg2TVh6SXpadms4YUg0QVJyZ1g2UWhPWDFoT3lHdUw2UGRNWFVYeVFmVjh6dTFqbzMwTUdOcTY4UHpieWJCR0w2MDJkTGxabHJ2QXZMWnE5TDVZeHI?oc=5",
+        "title": "¿Quién es Alejandro Hernández Hernández? Árbitro del FC Barcelona vs Villarreal de la jornada 13 de LALIGA - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGpweDhJLVVDZkU4aFZmTmhlVGR0MlBxUkhLZ0pEcUpSbkF4WVIwcUV6dlpEUmNpTVZoVHVtaldEVlJPYUJOSGZPcHFDUlJQZmhXdmNNUHdkQjk0eThZQjBDWE9KV2lIdjVhdUM5N1dkNUVObDlXb2VjQjlqb2sxMl9KYXBtSVl1MnVGSXh0TWg2TVh6SXpadms4YUg0QVJyZ1g2UWhPWDFoT3lHdUw2UGRNWFVYeVFmVjh6dTFqbzMwTUdOcTY4UHpieWJCR0w2MDJkTGxabHJ2QXZMWnE5TDVZeHI?oc=5",
+        "date": "Sun, 22 Nov 2026 06:10:48 GMT",
+        "source": "DAZN",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWd0U3QyeGNGb1B2ZEdhODVXTnU5X29vbTlaWEJnM0c5Zm5rZFk3RHB5cUo2LThTVjItNWM3V2IxUzBxRXM1bmVYT3h4MXlIQXhBRi0xTUtkLTZWRHhZcGpvaDBZMXhNSWpOWUNsM0NzemU2NF85Q2lQeHEwcC01VWQ3a01fYUFtRWxweXF2Zl85dkNHVmNMT21abFBvb1E?oc=5",
+        "title": "Owen Emeka, el hombre del primer partido de España en el Mundial sub-17 - RFEF",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWd0U3QyeGNGb1B2ZEdhODVXTnU5X29vbTlaWEJnM0c5Zm5rZFk3RHB5cUo2LThTVjItNWM3V2IxUzBxRXM1bmVYT3h4MXlIQXhBRi0xTUtkLTZWRHhZcGpvaDBZMXhNSWpOWUNsM0NzemU2NF85Q2lQeHEwcC01VWQ3a01fYUFtRWxweXF2Zl85dkNHVmNMT21abFBvb1E?oc=5",
+        "date": "Sat, 21 Nov 2026 10:29:40 GMT",
+        "source": "RFEF",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmN6LTZaTWF6M2RwSkN2RFFrZ0huQnZMRzZqWnBhWEVVczRDQ3JMbl8ybVRqcGU5OTRSWm9COGhWSU9CN3ppdjQwRGNxcHE5dmtmaFlXMnJqWnVtSkZSdENNZGlmMzlwcGRoT2Q3YzBRM1Joc3JkUi11dTdLRTJtTlY5XzllOTdQQWNvWmJMUDRaM2MwQnBsd05zb05XU3hMbTZ5TEdlUWFfN1RqQ1NyUQ?oc=5",
+        "title": "AD Ceuta vs Almería: Pronósticos de Apuestas, Cuotas y Alineaciones 23/11/2026 - Oddschecker",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmN6LTZaTWF6M2RwSkN2RFFrZ0huQnZMRzZqWnBhWEVVczRDQ3JMbl8ybVRqcGU5OTRSWm9COGhWSU9CN3ppdjQwRGNxcHE5dmtmaFlXMnJqWnVtSkZSdENNZGlmMzlwcGRoT2Q3YzBRM1Joc3JkUi11dTdLRTJtTlY5XzllOTdQQWNvWmJMUDRaM2MwQnBsd05zb05XU3hMbTZ5TEdlUWFfN1RqQ1NyUQ?oc=5",
+        "date": "Sun, 22 Nov 2026 15:59:00 GMT",
+        "source": "Oddschecker",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkVxWGZ3eFBZajhpaTFjejNrUnNOb0QwbmVIX0Fxc0NRSjhKU0JLMFNqajZFcHdzVHNnWlJMcjNmdmNmcGdaWERuOW0xRk9uUnN1SmIxOFB2Zm9vT3hOc1pIdEp2RnR1UUUydV9uVnlnVHZ2M3JLUEhXS3VuNDNaZUhzakxFVDlGM2xXSjVkbUZJMzVELUFibDdHenk2ZlNQUEZCbFpWTk9XSzVQTzBzRHh1UWRFQjBBUjJsRGtFSFbSAcABQVVfeXFMT25FcVhmd3hQWWo4aWkxY3oza1JzTm9EMG5lSF9BcXNDUUo4SlNCSzBTamo2RXB3c1RzZ1pSTHIzZnZjZnBnWlhEbjltMUZPblJzdUpiMThQdmZvb094TnNaSHRKdkZ0dVFFMnVfblZ5Z1R2djNyS1BIV0t1bjQzWmVIc2pMRVQ5RjNsV0o1ZG1GSTM1RC1BYmw3R3p5NmZTUFBGQmxaVk5PV0s1UE8wc0R4dVFkRUIwQVIybERrRUhW?oc=5",
+        "title": "Alberto Núñez Feijóo, sobre Lamine Yamal: \"Cada vez que cogía el balón, pasaba algo\" - SPORT",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkVxWGZ3eFBZajhpaTFjejNrUnNOb0QwbmVIX0Fxc0NRSjhKU0JLMFNqajZFcHdzVHNnWlJMcjNmdmNmcGdaWERuOW0xRk9uUnN1SmIxOFB2Zm9vT3hOc1pIdEp2RnR1UUUydV9uVnlnVHZ2M3JLUEhXS3VuNDNaZUhzakxFVDlGM2xXSjVkbUZJMzVELUFibDdHenk2ZlNQUEZCbFpWTk9XSzVQTzBzRHh1UWRFQjBBUjJsRGtFSFbSAcABQVVfeXFMT25FcVhmd3hQWWo4aWkxY3oza1JzTm9EMG5lSF9BcXNDUUo4SlNCSzBTamo2RXB3c1RzZ1pSTHIzZnZjZnBnWlhEbjltMUZPblJzdUpiMThQdmZvb094TnNaSHRKdkZ0dVFFMnVfblZ5Z1R2djNyS1BIV0t1bjQzWmVIc2pMRVQ5RjNsV0o1ZG1GSTM1RC1BYmw3R3p5NmZTUFBGQmxaVk5PV0s1UE8wc0R4dVFkRUIwQVIybERrRUhW?oc=5",
+        "date": "Sun, 22 Nov 2026 09:00:14 GMT",
+        "source": "SPORT",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3k0RjRyZ2ZOczBtUTk0RTVvZXRMMzFnMko3MV8wTHg2eUJoVEtkaUNmWEJHRE05cWpPeWY0cUhONlhwX1kxTDM3XzdVaUVIZmtqTmxYaEhNN08yejY0YWtoUlk4MC1ZUHZ0YW1XMmoyU1dLNXNobWNrcmxrS1Z2TThHOXZiUkZNX09tY3hXd1M2cS1JWElv0gGXAUFVX3lxTE1qNEVvN1lWbFVBZDFyRTRyVFYtcXRQNGRLMTNQakxHZG90dkNYakQzQXg5TmE0YWpLQ1VkQkVrZ25rTk9jTUNyQzZuVnVvcHdOQXRPc2JoUDF5QWhxOVd2a3pDY0FKYnhKajRZM3lLTHNzZmhtaDB3RmY1emZzT2Y3RTlPUFdISUVYUVhGb2RlUGlyS2Zrd0k?oc=5",
+        "title": "Cubillo: \"La baja de Imga afecta mucho, pero haremos que no se note\" - MARCA",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3k0RjRyZ2ZOczBtUTk0RTVvZXRMMzFnMko3MV8wTHg2eUJoVEtkaUNmWEJHRE05cWpPeWY0cUhONlhwX1kxTDM3XzdVaUVIZmtqTmxYaEhNN08yejY0YWtoUlk4MC1ZUHZ0YW1XMmoyU1dLNXNobWNrcmxrS1Z2TThHOXZiUkZNX09tY3hXd1M2cS1JWElv0gGXAUFVX3lxTE1qNEVvN1lWbFVBZDFyRTRyVFYtcXRQNGRLMTNQakxHZG90dkNYakQzQXg5TmE0YWpLQ1VkQkVrZ25rTk9jTUNyQzZuVnVvcHdOQXRPc2JoUDF5QWhxOVd2a3pDY0FKYnhKajRZM3lLTHNzZmhtaDB3RmY1emZzT2Y3RTlPUFdISUVYUVhGb2RlUGlyS2Zrd0k?oc=5",
+        "date": "Sun, 22 Nov 2026 15:20:48 GMT",
+        "source": "MARCA",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQck96TW5KWGtGOU1qSFUwWE5rWDlEZE5YRm04eXBXTmU0M3dxVFMtZVlmU0xlWnFsVlhlVVJVTld2MGF0c01wXzBsc0Z3MXhlWWRJdy11Yy1LeDVhdEVnZ0l3QlZ4TkFLQXQ2em9XYlMwWWE1VnBXS0V1eUhVOWtJa1EydG1lQndxY0RtSEE5aGxjTlZiTnRUZ0Zkazg2c1c3QXBJNERR?oc=5",
+        "title": "Gabri Veiga puede volver a España: 2 novias XXL - Fichajes.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQck96TW5KWGtGOU1qSFUwWE5rWDlEZE5YRm04eXBXTmU0M3dxVFMtZVlmU0xlWnFsVlhlVVJVTld2MGF0c01wXzBsc0Z3MXhlWWRJdy11Yy1LeDVhdEVnZ0l3QlZ4TkFLQXQ2em9XYlMwWWE1VnBXS0V1eUhVOWtJa1EydG1lQndxY0RtSEE5aGxjTlZiTnRUZ0Zkazg2c1c3QXBJNERR?oc=5",
+        "date": "Sun, 22 Nov 2026 12:56:08 GMT",
+        "source": "Fichajes.com",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZamtycnYyNV9KNy15SHFnN0lsd2lmdzdIQnYxbjY1OW9QSGlfVXpQRzRBN2w2WWhVbWExcDc2TnllZVpJcHNtbHFOYjZUODUwcXJvT2NWUzZoSHlNanRvcDZxTGJvQXF4aWNKV2k0a1k1eVRDaTRhOXFtZzlGbU0?oc=5",
+        "title": "L'informatiu 2 - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZamtycnYyNV9KNy15SHFnN0lsd2lmdzdIQnYxbjY1OW9QSGlfVXpQRzRBN2w2WWhVbWExcDc2TnllZVpJcHNtbHFOYjZUODUwcXJvT2NWUzZoSHlNanRvcDZxTGJvQXF4aWNKV2k0a1k1eVRDaTRhOXFtZzlGbU0?oc=5",
+        "date": "Sun, 22 Nov 2026 13:38:20 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi1rSUZBVDdqeGluZEs4TFJVazcwRW5ncW1oMHU1d1lTTUlYNlhuT3Y4WThOTEYzNXM1S1U2emdkUk02Nnd0M2QzZF9GN3d1b1MwRUhacWl3R1lFWm0wLXFHYjA4TGxxWXRVdWJMOGdpQlZPM3kxdHlWV3c?oc=5",
+        "title": "Cuándo juega, cómo y dónde ver al Barcelona: Día, hora, canal de TV y streaming online del partido vs. Villarreal por La Liga - Sporting News",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi1rSUZBVDdqeGluZEs4TFJVazcwRW5ncW1oMHU1d1lTTUlYNlhuT3Y4WThOTEYzNXM1S1U2emdkUk02Nnd0M2QzZF9GN3d1b1MwRUhacWl3R1lFWm0wLXFHYjA4TGxxWXRVdWJMOGdpQlZPM3kxdHlWV3c?oc=5",
+        "date": "Sun, 22 Nov 2026 11:05:00 GMT",
+        "source": "Sporting News",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9STEJRWlpSOEE4cGxxMnNoNlZITkItaGoyZ21NS0lnUllrWVItdmZic3RfNWRTbE1CMHp2WW9pbm50UlFWeFBqWlRPeUlJZFZnUEhPZnM1WGZ0SE9nNk5CUzFmTQ?oc=5",
+        "title": "Partidos de la Ligue 1 en TV y dónde verlos · Guía TV MD - Mundo Deportivo",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9STEJRWlpSOEE4cGxxMnNoNlZITkItaGoyZ21NS0lnUllrWVItdmZic3RfNWRTbE1CMHp2WW9pbm50UlFWeFBqWlRPeUlJZFZnUEhPZnM1WGZ0SE9nNk5CUzFmTQ?oc=5",
+        "date": "Sun, 22 Nov 2026 17:42:09 GMT",
+        "source": "Mundo Deportivo",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0VKVjdHS2NyRExpMlA1U3R1ME9yaHk1bVhYYW4wWVJId2Nyd19GYktVMnY5SDZGQTVoWmt0cE5wODU4V2dPUzFFUVZDSVE5YndJdmFhOTUtcnRmcnZIWlhZM3ZXUkJBUXJvZjBGLWhQbk9OdVQwY1dIdU5qUDFIUVRjcC16d1VhN1RqWtIBjAFBVV95cUxOcXVGTWhrNUdobEl4UEpuSkRsQld2UDllVkJCb1dfRnZNazVrX1FrakxWNVBTZWxwVVgtM1A1Y1BBY0pxRlB3cnpsTTJicXJrVmRfa0ctSTRxb2Y1WUQ2SVVKZUVydU5Yc0VLMnRPZTRKa3B4eUl6SGxUUS1OeVpsNFppc0xPS0wzMWJfUA?oc=5",
+        "title": "Dónde ver el Barcelona - Villarreal de LaLiga hoy por TV, en directo y online - SPORT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0VKVjdHS2NyRExpMlA1U3R1ME9yaHk1bVhYYW4wWVJId2Nyd19GYktVMnY5SDZGQTVoWmt0cE5wODU4V2dPUzFFUVZDSVE5YndJdmFhOTUtcnRmcnZIWlhZM3ZXUkJBUXJvZjBGLWhQbk9OdVQwY1dIdU5qUDFIUVRjcC16d1VhN1RqWtIBjAFBVV95cUxOcXVGTWhrNUdobEl4UEpuSkRsQld2UDllVkJCb1dfRnZNazVrX1FrakxWNVBTZWxwVVgtM1A1Y1BBY0pxRlB3cnpsTTJicXJrVmRfa0ctSTRxb2Y1WUQ2SVVKZUVydU5Yc0VLMnRPZTRKa3B4eUl6SGxUUS1OeVpsNFppc0xPS0wzMWJfUA?oc=5",
+        "date": "Sun, 22 Nov 2026 11:50:02 GMT",
+        "source": "SPORT",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUJwdENERGZPQU1acGJ5VFZaUmhtR1N4aW4yUlBzYlNNM1JLNko5UkJRdmZJeVBtVzRfM21qOVVVRllqTHBrcUd4eXp0NTBleFpFaVJUanlqQjBDdkRRTGZZMmR0NHMxazNsMkw3VXlwMWNnejdHV3VPakNzWVVKZW9kb1UyZ1JHamJxcWptb1B3bnNLWUpYbXhWUW1hSzFmQXh3M3dQYTJRazBUVzZlbjdNZEFqOWNuVlpV?oc=5",
+        "title": "Cuándo juega y dónde ver al Atlético de Madrid: Día, hora, canal de TV y streaming online del partido vs. Getafe por La Liga - Sporting News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUJwdENERGZPQU1acGJ5VFZaUmhtR1N4aW4yUlBzYlNNM1JLNko5UkJRdmZJeVBtVzRfM21qOVVVRllqTHBrcUd4eXp0NTBleFpFaVJUanlqQjBDdkRRTGZZMmR0NHMxazNsMkw3VXlwMWNnejdHV3VPakNzWVVKZW9kb1UyZ1JHamJxcWptb1B3bnNLWUpYbXhWUW1hSzFmQXh3M3dQYTJRazBUVzZlbjdNZEFqOWNuVlpV?oc=5",
+        "date": "Sun, 22 Nov 2026 11:59:00 GMT",
+        "source": "Sporting News",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM1ljYU1iWlBpSU9kMklYeFp2MFM4cERTRHExeFhNQ2hDY3VHcE54SUh2QS1Oang0eDBQYVM2ZGZBYWx6X2JkdXpOcEpmWU8taEFLZ0NWSHhkbENSaE5Xc1Y4QU5oV0ZnUDA3dDZUMWItTUhoeGNzMmREMXJVTTRNcmlpbWZob1k?oc=5",
+        "title": "Fútbol en TDP Play - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM1ljYU1iWlBpSU9kMklYeFp2MFM4cERTRHExeFhNQ2hDY3VHcE54SUh2QS1Oang0eDBQYVM2ZGZBYWx6X2JkdXpOcEpmWU8taEFLZ0NWSHhkbENSaE5Xc1Y4QU5oV0ZnUDA3dDZUMWItTUhoeGNzMmREMXJVTTRNcmlpbWZob1k?oc=5",
+        "date": "Sun, 22 Nov 2026 03:17:14 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2EzbEI1UzRkb3IzTlZ5c3dsZUVqckZSVjhVQVZLSDB4TktpTldhcmRYTmpYNVhDRFJ0YW9seC1zR0UzbU9RblVSTjZLeWZKM2ptNUtUbV9udFh6bHFHUEVXMVBNVVVidnVZSzU3NmNoQzFPN21veTlTYjMxdUpWT0ROQWs3blhVQTJMQ19xWV9sdw?oc=5",
+        "title": "Tablero Deportivo, en directo - 22/11/2026 | Ver ahora - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2EzbEI1UzRkb3IzTlZ5c3dsZUVqckZSVjhVQVZLSDB4TktpTldhcmRYTmpYNVhDRFJ0YW9seC1zR0UzbU9RblVSTjZLeWZKM2ptNUtUbV9udFh6bHFHUEVXMVBNVVVidnVZSzU3NmNoQzFPN21veTlTYjMxdUpWT0ROQWs3blhVQTJMQ19xWV9sdw?oc=5",
+        "date": "Sun, 22 Nov 2026 03:00:00 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQU9sZ3FUdjNiZlk5c3dQVWJUQVItNEVQZ3Ixdl9BakVxQnAxSHZuUVpMUXFGYmFYY05adXk1UEI2WG95bHFHNzZJMVIxOVZmZzRYTVdveDgzUHg3dmJ1MjE5MzV3T1Q1M09MVkVwMTQyeDlaaVVadFFhSHZOSVhIdXZ1bnV4SW0zMzNWaE1lMnhFWmV4aUJmQlkxSTlYTnhWOFZBZ18xZWM?oc=5",
+        "title": "Posiciones de La Liga hoy: Así está la clasificación en España - Sporting News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQU9sZ3FUdjNiZlk5c3dQVWJUQVItNEVQZ3Ixdl9BakVxQnAxSHZuUVpMUXFGYmFYY05adXk1UEI2WG95bHFHNzZJMVIxOVZmZzRYTVdveDgzUHg3dmJ1MjE5MzV3T1Q1M09MVkVwMTQyeDlaaVVadFFhSHZOSVhIdXZ1bnV4SW0zMzNWaE1lMnhFWmV4aUJmQlkxSTlYTnhWOFZBZ18xZWM?oc=5",
+        "date": "Sun, 22 Nov 2026 15:10:00 GMT",
+        "source": "Sporting News",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbUdFWGs3OUQ3aGhHdWJ3SXpsMVFRVmdaWmJKcEtQVU5OdEpYSlM4bzdOMEdLMHNEMWNNUkhiWXZtV3pqaFptSDRhMVhPUmtmNXUzS2JPTEtRWkZoY0tEVk9oM1M3b2J2X3F0VnFDZVRWZFVDYndsT2hVcVJHVjYtc3hRcVVFLWRvMFNsQUdhLXlLWllNWC1hNWlGTDV0aWxDbGxkcHAtbnZIeDdYdUVRbzdTWERpcXZFTnNfdnh5UFdHUkJMZUhHRndrZ1ViQlA2a3Vpb19yaml1bm1QYjJETDZoYkxuNDBvdVHSAeoBQVVfeXFMUG1HRVhrNzlEN2hoR3Vid0l6bDFRUVZnWlpiSnBLUFVOTnRKWEpTOG83TjBHSzBzRDFjTVJIYll2bVd6amhabUg0YTFYT1JrZjV1M0tiT0xLUVpGaGNLRFZPaDNTN29idl9xdFZxQ2VUVmRVQ2J3bE9oVXFSR1Y2LXN4UXFVRS1kbzBTbEFHYS15S1pZTVgtYTVpRkw1dGlsQ2xsZHBwLW52SHg3WHVFUW83U1hEaXF2RU5zX3Z4eVBXR1JCTGVIR0Z3a2dVYkJQNmt1aW9fcmppdW5tUGIyREw2aGJMbjQwb3VR?oc=5",
+        "title": "Confirmado, el PP condiciona la participación de España en el Mundial 2030 a organizar la final: ¿puede la Selección retirarse de la competición? - 20 Minutos",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbUdFWGs3OUQ3aGhHdWJ3SXpsMVFRVmdaWmJKcEtQVU5OdEpYSlM4bzdOMEdLMHNEMWNNUkhiWXZtV3pqaFptSDRhMVhPUmtmNXUzS2JPTEtRWkZoY0tEVk9oM1M3b2J2X3F0VnFDZVRWZFVDYndsT2hVcVJHVjYtc3hRcVVFLWRvMFNsQUdhLXlLWllNWC1hNWlGTDV0aWxDbGxkcHAtbnZIeDdYdUVRbzdTWERpcXZFTnNfdnh5UFdHUkJMZUhHRndrZ1ViQlA2a3Vpb19yaml1bm1QYjJETDZoYkxuNDBvdVHSAeoBQVVfeXFMUG1HRVhrNzlEN2hoR3Vid0l6bDFRUVZnWlpiSnBLUFVOTnRKWEpTOG83TjBHSzBzRDFjTVJIYll2bVd6amhabUg0YTFYT1JrZjV1M0tiT0xLUVpGaGNLRFZPaDNTN29idl9xdFZxQ2VUVmRVQ2J3bE9oVXFSR1Y2LXN4UXFVRS1kbzBTbEFHYS15S1pZTVgtYTVpRkw1dGlsQ2xsZHBwLW52SHg3WHVFUW83U1hEaXF2RU5zX3Z4eVBXR1JCTGVIR0Z3a2dVYkJQNmt1aW9fcmppdW5tUGIyREw2aGJMbjQwb3VR?oc=5",
+        "date": "Sun, 22 Nov 2026 09:43:54 GMT",
+        "source": "20 Minutos",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PUnVieXJJaUdsdWZ4cTljWlRXc2x1eTlob1FISmcwV0hiYUlYWWhRY1BHRWdiblZEVVRmeXFkY0pXRHQ4SGFmMTd2U0diSlE?oc=5",
+        "title": "Los campeones del Mundo no pisan el freno (4-1) - RFEF",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PUnVieXJJaUdsdWZ4cTljWlRXc2x1eTlob1FISmcwV0hiYUlYWWhRY1BHRWdiblZEVVRmeXFkY0pXRHQ4SGFmMTd2U0diSlE?oc=5",
+        "date": "Sat, 21 Nov 2026 12:30:00 GMT",
+        "source": "RFEF",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFA5QUlmNHNteUhUNmhYVlBZeHhfbVpNbzZLZEI4cU1GdjYwVE5MWkZid0xzVzlIcjdnYzRsZ3JWMHRHY3huZTdGRV9xZDVxU3lSaDRSbV9WaHBUWEluT01wRG11QjdrNk5zYmlMVDEteDc2S2JUUlNyUHFwOVl3TVp1TDd3X2kycHkzUDJVSWxQdGoyRVlibQ?oc=5",
+        "title": "Golf: Open de España Femenino, en directo | 26/11/2 - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFA5QUlmNHNteUhUNmhYVlBZeHhfbVpNbzZLZEI4cU1GdjYwVE5MWkZid0xzVzlIcjdnYzRsZ3JWMHRHY3huZTdGRV9xZDVxU3lSaDRSbV9WaHBUWEluT01wRG11QjdrNk5zYmlMVDEteDc2S2JUUlNyUHFwOVl3TVp1TDd3X2kycHkzUDJVSWxQdGoyRVlibQ?oc=5",
+        "date": "Sat, 21 Nov 2026 23:22:06 GMT",
+        "source": "RTVE.es",
+        "topic": "Fútbol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zWlI2NHp2a3pZeXNLRUhEeDJEM0NzZGwwNmM4RE9NbUFlRkpqQUlMcmVoSW8tcktRVjRvYzQ3ZFpkWkJTSXR2MUlBSFltWHNXUklKUU9PdkFfREFnZ3o5WEJpaGRFbU94TXfSAX5BVV95cUxPQ1kxel9PSTlMM2hUTndhRklKQ0JWRDhKN3F0S3I0Z2RKaHJucHFaYl9KQjMtdllFbEhEcGRnU3pBdHI1RGtNVzRycHAxM1NHbHF4bERuRE1tQ3pHS1VRQjZ4V1dfR21tOW9pNTd6VUZnUjF3ejlSRXQxUHhsOEE?oc=5",
+        "title": "Roberto es medio Espanyol - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zWlI2NHp2a3pZeXNLRUhEeDJEM0NzZGwwNmM4RE9NbUFlRkpqQUlMcmVoSW8tcktRVjRvYzQ3ZFpkWkJTSXR2MUlBSFltWHNXUklKUU9PdkFfREFnZ3o5WEJpaGRFbU94TXfSAX5BVV95cUxPQ1kxel9PSTlMM2hUTndhRklKQ0JWRDhKN3F0S3I0Z2RKaHJucHFaYl9KQjMtdllFbEhEcGRnU3pBdHI1RGtNVzRycHAxM1NHbHF4bERuRE1tQ3pHS1VRQjZ4V1dfR21tOW9pNTd6VUZnUjF3ejlSRXQxUHhsOEE?oc=5",
+        "date": "Sun, 22 Nov 2026 11:08:49 GMT",
+        "source": "Diario AS",
+        "topic": "Fútbol"
+      }
+    ],
+    "Baloncesto": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmQxeEFwTklKQkdLVWx2WlgyWnlIa2l6bGZ0eWZVTlNRb1hBbHVrY2lNQ21aRXNuUng1S1dyWFNDckFPcGlveThoZ082aWNfTExEQWhsc0hKQVhBTnFGcFY5STZ4T0VMbXF3aW1yMTZNdlF5M2xuUE5UNE1Da0hFS2RzSlc0aEkyVTZfeFhxYWdMVl8xTUR0WGhhNktNLWRPR2d5cXBTM0xkZjN4amdDZVVrZVl0a0JGYlJvZWVzN3llZzBZYjFfOFRhTXVmYTZGQjREeXpPS2dJZXRIUzlsSVdHNWFwZ0s2NzYzODJqc2dLZw?oc=5",
+        "title": "Washington Wizards vs Orlando Magic: horario y dónde ver hoy por TV y online la NBA 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmQxeEFwTklKQkdLVWx2WlgyWnlIa2l6bGZ0eWZVTlNRb1hBbHVrY2lNQ21aRXNuUng1S1dyWFNDckFPcGlveThoZ082aWNfTExEQWhsc0hKQVhBTnFGcFY5STZ4T0VMbXF3aW1yMTZNdlF5M2xuUE5UNE1Da0hFS2RzSlc0aEkyVTZfeFhxYWdMVl8xTUR0WGhhNktNLWRPR2d5cXBTM0xkZjN4amdDZVVrZVl0a0JGYlJvZWVzN3llZzBZYjFfOFRhTXVmYTZGQjREeXpPS2dJZXRIUzlsSVdHNWFwZ0s2NzYzODJqc2dLZw?oc=5",
+        "date": "Sun, 22 Nov 2026 16:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFp0ZDR2cmVLZGhnUTBsemJoTmFuenZiVDZhdHctdGdmM3l6T210NG1WZXBGeGJFcXB2WnlyYVlXZVoyX2JESDBNV0JfRG90UzhOX0NvX0hRV0x6bEc4bmhfOUtnQ3hTVWczWTVsZWRfWGQ0LU54TGpxRWdOcFNoXzFyOUswQmxmZlE0ZVZwNkNRcWlvaTExUWZRd3d3MVlVT1NKa2s1NDU5SGIzNG5pdy1zUGVHUnBHSTZzamUzWHRSMEoyMzU4NDAxUHMyS2d2TFlfVzlSdlQxaE5kZ3l0WDNUN010WkI0VFBUN284OTFLY082?oc=5",
+        "title": "Miami Heat vs Oklahoma City Thunder: horario y dónde ver hoy por TV y online la NBA 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFp0ZDR2cmVLZGhnUTBsemJoTmFuenZiVDZhdHctdGdmM3l6T210NG1WZXBGeGJFcXB2WnlyYVlXZVoyX2JESDBNV0JfRG90UzhOX0NvX0hRV0x6bEc4bmhfOUtnQ3hTVWczWTVsZWRfWGQ0LU54TGpxRWdOcFNoXzFyOUswQmxmZlE0ZVZwNkNRcWlvaTExUWZRd3d3MVlVT1NKa2s1NDU5SGIzNG5pdy1zUGVHUnBHSTZzamUzWHRSMEoyMzU4NDAxUHMyS2d2TFlfVzlSdlQxaE5kZ3l0WDNUN010WkI0VFBUN284OTFLY082?oc=5",
+        "date": "Sun, 22 Nov 2026 15:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOajVfRlRnSVA4akpoQTNDUGlpV0xvVDMzTTNPSVZrUW9fd1F6VVU3bXJQV1VEVDFjek52UlhiVTVFU01nYVJlUU5VUE5UQTcyRXU5MnpNTHhnMFh3NEROZmlrcDd4SmdQOURyVjZxb3ZhbWtMQ3NITExQZTd1SnNWWlNn?oc=5",
+        "title": "Dayton Jenkins - Noticias e Información - Baloncesto - Eurosport",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOajVfRlRnSVA4akpoQTNDUGlpV0xvVDMzTTNPSVZrUW9fd1F6VVU3bXJQV1VEVDFjek52UlhiVTVFU01nYVJlUU5VUE5UQTcyRXU5MnpNTHhnMFh3NEROZmlrcDd4SmdQOURyVjZxb3ZhbWtMQ3NITExQZTd1SnNWWlNn?oc=5",
+        "date": "Sun, 22 Nov 2026 04:01:29 GMT",
+        "source": "Eurosport",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3A0RU52cm5xWDNHN3pPd3NvLW00SDdDYzVWdU1teFhqMWZNMURwUFVIaURtX3VONWZtc2xIRk5pNjJ5ZFhMMmNlMVdYZ3RHQmo4QnV0d3F0bVlDY05LbmRBdUZPek9VQmhRODBpV19OeXIxeDBGdEVsbTJ6Ylc0RWtrZ3Q5aTFGcFE?oc=5",
+        "title": "Las palabras de Aleksander Sekulic tras la derrota del Barça en la visita a Tenerife - Gigantes del Basket",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3A0RU52cm5xWDNHN3pPd3NvLW00SDdDYzVWdU1teFhqMWZNMURwUFVIaURtX3VONWZtc2xIRk5pNjJ5ZFhMMmNlMVdYZ3RHQmo4QnV0d3F0bVlDY05LbmRBdUZPek9VQmhRODBpV19OeXIxeDBGdEVsbTJ6Ylc0RWtrZ3Q5aTFGcFE?oc=5",
+        "date": "Sun, 22 Nov 2026 19:18:45 GMT",
+        "source": "Gigantes del Basket",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcE1fWFQtc0NmY2ZxclpkU1hjRUZfVFhuZGZSMjA3YzhsSkVWM0dibFZISTY5cTRLWXc5VEdhNFFkbFVuRVZ1WDI3czRXeEJocnc1cWpFREtVd2Z4bDlEMU9fVmdjVmVFR0tZQTZZSmdPVHRpRHhxc3RVR3ZJWUtERTdzUG0xUzlUcDdxemxJb1V0N2UxZGdJeGdOUDNjb2oxU2pTVEZLbDB6Q25YWlRCM2dwa1pzcGRzbnZHQ9IBvAFBVV95cUxQWllXZm5VNXNoWjJ3b1ByVW54Tndnc2pOTVhBMkFPX2UzZ05Xb2p4R21WUHFnM05Hbk14OUJ1bTNVNzQzTFdBUEcwOEhVYV9fMENudGtwaXVlUWhocllRVFBHakdHV0JWcHY3ZzBNbHJ5ZF83QzVTLU1aeDNVbUtYLThRX3NTUWJsYmFQSVRhcTRkdXl6WXJnb3NndF81c3dTSmJKRzhfM2tPRmpOblZJdG4zR0xpQmNLeGFmQQ?oc=5",
+        "title": "Pedro Martínez: un récord de 1.112 partidos en ACB y un frondoso árbol genealógico - MARCA",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcE1fWFQtc0NmY2ZxclpkU1hjRUZfVFhuZGZSMjA3YzhsSkVWM0dibFZISTY5cTRLWXc5VEdhNFFkbFVuRVZ1WDI3czRXeEJocnc1cWpFREtVd2Z4bDlEMU9fVmdjVmVFR0tZQTZZSmdPVHRpRHhxc3RVR3ZJWUtERTdzUG0xUzlUcDdxemxJb1V0N2UxZGdJeGdOUDNjb2oxU2pTVEZLbDB6Q25YWlRCM2dwa1pzcGRzbnZHQ9IBvAFBVV95cUxQWllXZm5VNXNoWjJ3b1ByVW54Tndnc2pOTVhBMkFPX2UzZ05Xb2p4R21WUHFnM05Hbk14OUJ1bTNVNzQzTFdBUEcwOEhVYV9fMENudGtwaXVlUWhocllRVFBHakdHV0JWcHY3ZzBNbHJ5ZF83QzVTLU1aeDNVbUtYLThRX3NTUWJsYmFQSVRhcTRkdXl6WXJnb3NndF81c3dTSmJKRzhfM2tPRmpOblZJdG4zR0xpQmNLeGFmQQ?oc=5",
+        "date": "Sat, 21 Nov 2026 23:17:00 GMT",
+        "source": "MARCA",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53SWlWUDg3ZTF1R3NmNTR6LVZodjZUcHJVVGd5VGpWeUxwX2tKTTBQMlpLNWtfTGwxZW4yZGhjNmRKOE9LcHpJYXM2cjdIczNRSDRwMkVZQkt6dnNQX3BXTDlYNU9BbjNoMVBMZ2NKZm9paUnSAYcBQVVfeXFMTVBncDZXRGJRbGhRRXJ0d1ZGdWxoNHNOclBKUzV0N1FBczl4Nnc5X25kd0RnRV9PMjh0bVVTb2hHSGxnY3YtbUdvMlV1REpXeXJKSWRBeUpKLXpFZEhsdUFyNXAzUWVqS0YzcC02dUhPekhhb0VPZUQ3eHpsZ3hubS1ONk9LOXpN?oc=5",
+        "title": "El peor de los tropiezos - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53SWlWUDg3ZTF1R3NmNTR6LVZodjZUcHJVVGd5VGpWeUxwX2tKTTBQMlpLNWtfTGwxZW4yZGhjNmRKOE9LcHpJYXM2cjdIczNRSDRwMkVZQkt6dnNQX3BXTDlYNU9BbjNoMVBMZ2NKZm9paUnSAYcBQVVfeXFMTVBncDZXRGJRbGhRRXJ0d1ZGdWxoNHNOclBKUzV0N1FBczl4Nnc5X25kd0RnRV9PMjh0bVVTb2hHSGxnY3YtbUdvMlV1REpXeXJKSWRBeUpKLXpFZEhsdUFyNXAzUWVqS0YzcC02dUhPekhhb0VPZUQ3eHpsZ3hubS1ONk9LOXpN?oc=5",
+        "date": "Sun, 22 Nov 2026 06:52:39 GMT",
+        "source": "Diario AS",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQXFZODl5UlE1RUN0aFdvYUotMzg1ai02Nkc3b014T1lOc0lrZlduNllsV3pOSE9rdWpLZXd1cl92MGlBaEdLVnlvNVJDYmZfaUo5TGN2bks3Vy1aT1MxR241ZHZ6ODk1bGtKTDhiVFIydXV4UFltMXNBc2VnNm9FMUZVVUJPY2NpZHR5VmRSMW5UX0NjeXRFNldsMGQtTzAtYlJDY0Jfc0RhVTNJTV9ndVl0amFMdnNEZ0tyaThqZjZmSzFiWEtkaTh6SWd5MlhnbVo4SjEyTHRsVnBST2l6VkJjVTVKLUk2RE01WGx0alc1N2hxM2xjcjM5YWw?oc=5",
+        "title": "Kids&Us Manresa vs MoraBanc Andorra: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQXFZODl5UlE1RUN0aFdvYUotMzg1ai02Nkc3b014T1lOc0lrZlduNllsV3pOSE9rdWpLZXd1cl92MGlBaEdLVnlvNVJDYmZfaUo5TGN2bks3Vy1aT1MxR241ZHZ6ODk1bGtKTDhiVFIydXV4UFltMXNBc2VnNm9FMUZVVUJPY2NpZHR5VmRSMW5UX0NjeXRFNldsMGQtTzAtYlJDY0Jfc0RhVTNJTV9ndVl0amFMdnNEZ0tyaThqZjZmSzFiWEtkaTh6SWd5MlhnbVo4SjEyTHRsVnBST2l6VkJjVTVKLUk2RE01WGx0alc1N2hxM2xjcjM5YWw?oc=5",
+        "date": "Sat, 21 Nov 2026 10:30:00 GMT",
+        "source": "DAZN",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rWTZGeWp1V0xqbkVyOHM5MFpCQ0ItTFVzU2xjS3R0REpBQ1dPQnF0QWI2eHgzNmFTYlpBN3lfdFJsaWZMMWtRcjRHd1J4ZzdHZS1LdlkzeHl1SkdwR19BYW45ZVU2d1hmbVUtQ2pTQXdlRFVzZW5HN0xB0gGOAUFVX3lxTE95bDVvVmw5eEVhRjFWWC15UkF0VTJucWhUSTh3Z2x1NlN4ZXBuMEJDZnpwTGpvbnk2Ym9mb3JrSm9EQzBkWjU2S1ItemNTSlBmS0V1ZmVUdTNyT1EzaFZVUnZMTVBWdTQwUGxjSF83cF9PX3BuN0haX3hUQW5ZdWJHTHB5dm5SZTY0MGJTUFE?oc=5",
+        "title": "Wembanyama es de otro planeta - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rWTZGeWp1V0xqbkVyOHM5MFpCQ0ItTFVzU2xjS3R0REpBQ1dPQnF0QWI2eHgzNmFTYlpBN3lfdFJsaWZMMWtRcjRHd1J4ZzdHZS1LdlkzeHl1SkdwR19BYW45ZVU2d1hmbVUtQ2pTQXdlRFVzZW5HN0xB0gGOAUFVX3lxTE95bDVvVmw5eEVhRjFWWC15UkF0VTJucWhUSTh3Z2x1NlN4ZXBuMEJDZnpwTGpvbnk2Ym9mb3JrSm9EQzBkWjU2S1ItemNTSlBmS0V1ZmVUdTNyT1EzaFZVUnZMTVBWdTQwUGxjSF83cF9PX3BuN0haX3hUQW5ZdWJHTHB5dm5SZTY0MGJTUFE?oc=5",
+        "date": "Sun, 22 Nov 2026 05:49:02 GMT",
+        "source": "Diario AS",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ1BxUmRVUWxkU0ZkeVVGQ2J1NmhUZmwxR0I5N1VHM3dVMnJzRW5HZzBfdFlEOVBmQmlUWmRlRGp3NHQwM1hlUVp3MUpXWjZzMWlxREgwZXZEWFJmdVM0bXI3NjAtOTlFaklwMXFTZTR1NmRLdXh1MTlFSHpfd21jWTVoOVVRYUNMRHBhVThabGR6YnFhSXNWMmJvZXRORlZiRndnU1NGQVMweHlSQXVZUE1VM0tmM0dSMy1FOWhKRFU1anNHTjQzYWRCNXQ3Vm8zZk1PRGRLZ3JVT29UdTg3U0VhRnpCQVRFMEdHSFFCVU1pNGUyV003WXJWSFM2dw?oc=5",
+        "title": "UCAM Murcia vs Casademont Zaragoza: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ1BxUmRVUWxkU0ZkeVVGQ2J1NmhUZmwxR0I5N1VHM3dVMnJzRW5HZzBfdFlEOVBmQmlUWmRlRGp3NHQwM1hlUVp3MUpXWjZzMWlxREgwZXZEWFJmdVM0bXI3NjAtOTlFaklwMXFTZTR1NmRLdXh1MTlFSHpfd21jWTVoOVVRYUNMRHBhVThabGR6YnFhSXNWMmJvZXRORlZiRndnU1NGQVMweHlSQXVZUE1VM0tmM0dSMy1FOWhKRFU1anNHTjQzYWRCNXQ3Vm8zZk1PRGRLZ3JVT29UdTg3U0VhRnpCQVRFMEdHSFFCVU1pNGUyV003WXJWSFM2dw?oc=5",
+        "date": "Sat, 21 Nov 2026 12:00:00 GMT",
+        "source": "DAZN",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdDN2N3RQLWxkeE5ta0JzQjNacEdUOXNTTFZjT3FXY1hzek1Xai1adld5VktOZlBHX2NXUFNrZms5MFVsUlNuZzhSOW44LXZJdHNrQTVqOXM5b3pSRS0zVngyNXB6QkEySmplazM2YmxmbUdGaVdpSEgwckRGaG9zbVpvcTh1VzBRTjE1QjFJNWs0WVZ2YU1wN2ptcXllLUJSYzF0bGduc1Y0OW950gGsAUFVX3lxTFB0M3Y3dFAtbGR4Tm1rQnNCM1pwR1Q5c1NMVmNPcVdjWHN6TVdqLVp2V3lWS05mUEdfY1dQU2tmazkwVWxSU25nOFI5bjgtdkl0c2tBNWo5czlvelJFLTNWeDI1cHpCQTJKamVrMzZibGZtR0ZpV2lISDByREZob3NtWm9xOHVXMFFOMTVCMUk1azRZVnZhTXA3am1xeWUtQlJjMXRsZ25zVjQ5b3k?oc=5",
+        "title": "Tenerife - Barcelona: horario, TV y dónde ver la ACB 2026-27 - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdDN2N3RQLWxkeE5ta0JzQjNacEdUOXNTTFZjT3FXY1hzek1Xai1adld5VktOZlBHX2NXUFNrZms5MFVsUlNuZzhSOW44LXZJdHNrQTVqOXM5b3pSRS0zVngyNXB6QkEySmplazM2YmxmbUdGaVdpSEgwckRGaG9zbVpvcTh1VzBRTjE1QjFJNWs0WVZ2YU1wN2ptcXllLUJSYzF0bGduc1Y0OW950gGsAUFVX3lxTFB0M3Y3dFAtbGR4Tm1rQnNCM1pwR1Q5c1NMVmNPcVdjWHN6TVdqLVp2V3lWS05mUEdfY1dQU2tmazkwVWxSU25nOFI5bjgtdkl0c2tBNWo5czlvelJFLTNWeDI1cHpCQTJKamVrMzZibGZtR0ZpV2lISDByREZob3NtWm9xOHVXMFFOMTVCMUk1azRZVnZhTXA3am1xeWUtQlJjMXRsZ25zVjQ5b3k?oc=5",
+        "date": "Sun, 22 Nov 2026 05:23:55 GMT",
+        "source": "Diario AS",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1hZN0FfbWNRUDZONjExZ0lsT0l4WWs1dzNBWFdod2FvZWhjVkNaTnN1MWc5Qkgxa0M0czFBc1BqTUxoQ1RUOU52WnFtWWVtR2VpTU9scHp0R3BldUd5dDVtR2pqaWlUUGlnMEV0MUl0Ri1HNU1kTVkybDJuVlVOdDI5ZE1IVDVIb0lBYjF3bmxoa3NiN3pVQ1hHNGhLSXFHb1R0OGcwLWE?oc=5",
+        "title": "El Barça pierde a Nebo por lesión para cuatro meses y sale al mercado con urgencia - Encestando",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1hZN0FfbWNRUDZONjExZ0lsT0l4WWs1dzNBWFdod2FvZWhjVkNaTnN1MWc5Qkgxa0M0czFBc1BqTUxoQ1RUOU52WnFtWWVtR2VpTU9scHp0R3BldUd5dDVtR2pqaWlUUGlnMEV0MUl0Ri1HNU1kTVkybDJuVlVOdDI5ZE1IVDVIb0lBYjF3bmxoa3NiN3pVQ1hHNGhLSXFHb1R0OGcwLWE?oc=5",
+        "date": "Sun, 22 Nov 2026 17:08:00 GMT",
+        "source": "Encestando",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekduUmFHcVpVVkRpUnJjdFhUY3FnT2g2c0hKQmJhTU5BelI4dmJtS1RXRm1qUFc0TjRTTXpSYl80WnZiamhPZkJqeVo4b3AwajRNOWd5VHBEVU94WFFGZ1pkcWxRNWlDUzBiLW5KQnJDekltNlRuVTliQy1TcG5FWDV4MEJEUkxmZjNwd2JraG1jcExmR0habzA0VExfbkFWQndTbkg2WTVKRUdJeDlwQ0FqMVN1ampmaHo3YlRjMEdTUQ?oc=5",
+        "title": "Aday Mara se hace fuerte en su primer mes dentro de un aspirante al anillo como Oklahoma City Thunder - Encestando",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekduUmFHcVpVVkRpUnJjdFhUY3FnT2g2c0hKQmJhTU5BelI4dmJtS1RXRm1qUFc0TjRTTXpSYl80WnZiamhPZkJqeVo4b3AwajRNOWd5VHBEVU94WFFGZ1pkcWxRNWlDUzBiLW5KQnJDekltNlRuVTliQy1TcG5FWDV4MEJEUkxmZjNwd2JraG1jcExmR0habzA0VExfbkFWQndTbkg2WTVKRUdJeDlwQ0FqMVN1ampmaHo3YlRjMEdTUQ?oc=5",
+        "date": "Sun, 22 Nov 2026 08:11:00 GMT",
+        "source": "Encestando",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekQ3SW5zX1d6WHlxUVpiZjNZUEprU3daaDRXaG1OVHg2Q0gxbDBRMUlRMW9xMUdod0R0TW9YNWEzU2dESGZUaHVyQkRWZkRNeWFvMkRtU1BkS3NfSm53aUJrcFZxTGxZMjNJNTdwZXFLV2hkMmFxQjhvaEZZWE01bEcxWk1PaHoyQnVhcA?oc=5",
+        "title": "Pronóstico Golden State Warriors - Boston Celtics - NBA - SportyTrader",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekQ3SW5zX1d6WHlxUVpiZjNZUEprU3daaDRXaG1OVHg2Q0gxbDBRMUlRMW9xMUdod0R0TW9YNWEzU2dESGZUaHVyQkRWZkRNeWFvMkRtU1BkS3NfSm53aUJrcFZxTGxZMjNJNTdwZXFLV2hkMmFxQjhvaEZZWE01bEcxWk1PaHoyQnVhcA?oc=5",
+        "date": "Sat, 21 Nov 2026 19:38:00 GMT",
+        "source": "SportyTrader",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmNGY195ODRSV0hhcl80NUR0dWRRSHZ3eG5ydndaUnZObHFNSXJHajRCQzhUeEZSbUlqS0JaVkhRN2tGSEVrQTB3bkhnOWRJRFFNSjlIMDBmOUV2WHpzcHdrcFZ5UHZmQko0enNhdUxpMmxtcXB5VVNQTllGbEFlVTBkT0N4UnN3Z0tEWVhldWpmUQ?oc=5",
+        "title": "Pronóstico Minnesota Timberwolves - Memphis Grizzlies - NBA - SportyTrader",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmNGY195ODRSV0hhcl80NUR0dWRRSHZ3eG5ydndaUnZObHFNSXJHajRCQzhUeEZSbUlqS0JaVkhRN2tGSEVrQTB3bkhnOWRJRFFNSjlIMDBmOUV2WHpzcHdrcFZ5UHZmQko0enNhdUxpMmxtcXB5VVNQTllGbEFlVTBkT0N4UnN3Z0tEWVhldWpmUQ?oc=5",
+        "date": "Sat, 21 Nov 2026 03:39:00 GMT",
+        "source": "SportyTrader",
+        "topic": "Baloncesto"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0MwM2c3cGxiQlVEaVRNdEZyV0wwNzhjM1JQRlkyX1VnbjNpU1h2eWFXaGF6TVlDVHVRWlROUnB2NHB1a0wyREFQaGlPeXVaN2xLbFlhZUxSUzJyQUJ0YV9CV21wU08wSWJLYWdEYVFnbFhXUGRFQThaSWZ1Rk9iNFdzSk9JQzF1OUc3ZzNJSQ?oc=5",
+        "title": "Bilbao Basket - Baskonia: pronóstico y cuotas | Liga Endesa - BetBrothers.es",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0MwM2c3cGxiQlVEaVRNdEZyV0wwNzhjM1JQRlkyX1VnbjNpU1h2eWFXaGF6TVlDVHVRWlROUnB2NHB1a0wyREFQaGlPeXVaN2xLbFlhZUxSUzJyQUJ0YV9CV21wU08wSWJLYWdEYVFnbFhXUGRFQThaSWZ1Rk9iNFdzSk9JQzF1OUc3ZzNJSQ?oc=5",
+        "date": "Sat, 21 Nov 2026 07:30:09 GMT",
+        "source": "BetBrothers.es",
+        "topic": "Baloncesto"
+      }
+    ],
+    "Voleibol": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0prbjdfRTByM1lLYVlOTmN1eFRzZU96VUpxajdEUTVNR25kT0p5WTA2ckx5TWVCVXNkX2ZmQ3YtOVVEYWtxWGtwcEpQWnY3YmRQYWxIM0dvTncxVjVYNGxHbjBPRlU0T1cyYk5CM2pNSHUzVU5qeFcyeWRxSllOZ0JHb0VVOTlLNnhicnZsOHBmWWVuOTFaV041NWdtc0t0bHNPWDVvVmlaTGpaVHpBUmJ1cVFqTlVaUXF4dE1NaXNKXzZqbGRiZkJIbEtaczYybHMtOGxkNA?oc=5",
+        "title": "España entra en la élite mundial del vóley playa tras la firma del acuerdo entre la RFEVB y la FIVB - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0prbjdfRTByM1lLYVlOTmN1eFRzZU96VUpxajdEUTVNR25kT0p5WTA2ckx5TWVCVXNkX2ZmQ3YtOVVEYWtxWGtwcEpQWnY3YmRQYWxIM0dvTncxVjVYNGxHbjBPRlU0T1cyYk5CM2pNSHUzVU5qeFcyeWRxSllOZ0JHb0VVOTlLNnhicnZsOHBmWWVuOTFaV041NWdtc0t0bHNPWDVvVmlaTGpaVHpBUmJ1cVFqTlVaUXF4dE1NaXNKXzZqbGRiZkJIbEtaczYybHMtOGxkNA?oc=5",
+        "date": "Sun, 22 Nov 2026 11:50:00 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjlhVFd0RTVnZ2U3ZTU0ME5MMzMwbkI5RG1hcTByTmxqU1B3M3BYLTFCd09uem5QXzRmNnZoUHpzZlQ1ckN1aVF5VEFtT2QxTllKSy1ob1h0d1lkWGFodmJZNTY0ZGx5N3JjZkVpblZYTENhTExQSjY5RnF0S0lncWlEVG82SWlVVlQ0YWlHcmJXXzZDLVdVRTNIMWFhRjByQ0RpZTdNS3FkeHdzYXM4QVB5NGhielpEZVNNRjRNdU9DakZQRUpNaVNuZ3k5TnNRR250VTdma0dpSk0?oc=5",
+        "title": "Deportes hoy: programación gratis en Teledeporte y RTVE Play el fin de semana del 21 y 22 de noviembre - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjlhVFd0RTVnZ2U3ZTU0ME5MMzMwbkI5RG1hcTByTmxqU1B3M3BYLTFCd09uem5QXzRmNnZoUHpzZlQ1ckN1aVF5VEFtT2QxTllKSy1ob1h0d1lkWGFodmJZNTY0ZGx5N3JjZkVpblZYTENhTExQSjY5RnF0S0lncWlEVG82SWlVVlQ0YWlHcmJXXzZDLVdVRTNIMWFhRjByQ0RpZTdNS3FkeHdzYXM4QVB5NGhielpEZVNNRjRNdU9DakZQRUpNaVNuZ3k5TnNRR250VTdma0dpSk0?oc=5",
+        "date": "Thu, 19 Nov 2026 22:59:22 GMT",
+        "source": "RTVE.es",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWlFY2s2QlE3dnZEYjI0MEtXeVlvVjR0bnpaTktnTTVVWWdaQzltT0ZKUm1zbVF6UkM4UzBwUlo2UExSV2VuNnhzVzl0NWU3RGU5eldwZ29UaWFZOEkweDB0TFI0X2F3ZVZBVTYwRGdDcTZrWEM1eWg5amgyQTJSWFljb1RBdGwzcnlZbU5iX2QzQkIyck9zY2hBa3JoMG1KZTlTXy1XT0s2UVNIWURBdndsZXRLa2dCWWQ0R9IBwgFBVV95cUxOOUI0QmNJUXotaUF0dVZMQnhoOUFsWkhOalJxWDFjcWZQUFQ0V1pTalkzbjJrSl9yNm5Cckk5N2lHT2pYVjBnMWJzVjhnM2dwNlRrTkNtOG9SRzdFQmpmSk9mYTlPOHNiUzJ4ZFBHV1ZIODBXRkFibUJsbXBNY2dOWW9XMHh3Q3loZGo5UC1qaWo1YmpKcGN0VG9pY1dHYkloSi1uZVE0YlJIMHlpaFVyNldoM0VKOXJZdjNwcGJBdUtWUQ?oc=5",
+        "title": "La Copa Covap regresará en enero con el voleibol como deporte invitado y la IA como eje educativo - ABC",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWlFY2s2QlE3dnZEYjI0MEtXeVlvVjR0bnpaTktnTTVVWWdaQzltT0ZKUm1zbVF6UkM4UzBwUlo2UExSV2VuNnhzVzl0NWU3RGU5eldwZ29UaWFZOEkweDB0TFI0X2F3ZVZBVTYwRGdDcTZrWEM1eWg5amgyQTJSWFljb1RBdGwzcnlZbU5iX2QzQkIyck9zY2hBa3JoMG1KZTlTXy1XT0s2UVNIWURBdndsZXRLa2dCWWQ0R9IBwgFBVV95cUxOOUI0QmNJUXotaUF0dVZMQnhoOUFsWkhOalJxWDFjcWZQUFQ0V1pTalkzbjJrSl9yNm5Cckk5N2lHT2pYVjBnMWJzVjhnM2dwNlRrTkNtOG9SRzdFQmpmSk9mYTlPOHNiUzJ4ZFBHV1ZIODBXRkFibUJsbXBNY2dOWW9XMHh3Q3loZGo5UC1qaWo1YmpKcGN0VG9pY1dHYkloSi1uZVE0YlJIMHlpaFVyNldoM0VKOXJZdjNwcGJBdUtWUQ?oc=5",
+        "date": "Thu, 19 Nov 2026 17:03:22 GMT",
+        "source": "ABC",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnRCNnplZGRzZ3FYZWxrYmoxVENXQnZoanBmV1VqbGM0QXRQOHRrdUhkVlBlaU9ZOVJlV0lSZ1lyelcyc1laM3JHbDkwRGtLelk3S2c3cE1uQy1OTzNXMzhmNk9zcWdVa0xJZGdPLVg4MnppVm9vZzE4SkhoaTJyVlhuWG1kdDRKSXlKZzhjX05jZjZPRkRMQWJwVHVKZw?oc=5",
+        "title": "La Superliga Masculina 2 vive una intensa octava jornada - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnRCNnplZGRzZ3FYZWxrYmoxVENXQnZoanBmV1VqbGM0QXRQOHRrdUhkVlBlaU9ZOVJlV0lSZ1lyelcyc1laM3JHbDkwRGtLelk3S2c3cE1uQy1OTzNXMzhmNk9zcWdVa0xJZGdPLVg4MnppVm9vZzE4SkhoaTJyVlhuWG1kdDRKSXlKZzhjX05jZjZPRkRMQWJwVHVKZw?oc=5",
+        "date": "Sun, 22 Nov 2026 18:53:21 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeEJ1ODdCSUlwLWFiSUx2RGt6QXk5aVYyX003UVJWeU9Qd0twQVpucFRTZ3lneThQMFVJcXJHS283S0gtU1gwOHhuNDlPNFAzODFvbVJQTWVjNjBjYjhiV0I5VmRYaG0yS01DSkVfelBlS0ZLWVdVUlVKb2hLRlc5RF9EYi1KRWFwbE9VNDhhYXdVaDdwdUNoU0Z4TXROUdIBowFBVV95cUxPS1lON1Q0NFpDWFc3UVFwUXU1RTJZTGNhbVplUnJWRDd2ZGZvSEJIVkg4VVdjREpXbnhFX2psb2hWRWZJM2ZBMEhHSlR3RVJTRzZabW00Yl80Y3p1T24wekFGN1p5M2JjYVFHNVo0MHAwdVJSd3MwaXA5cUtpRHg0N045MHZCTmtpVHY2NmtxaE1UQWdSSG9wR2NkU0xieDl5MnBN?oc=5",
+        "title": "Doblete de victorias y pleno de puntos para el Club Voleibol Xàtiva en las ligas nacionales - Levante-EMV",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeEJ1ODdCSUlwLWFiSUx2RGt6QXk5aVYyX003UVJWeU9Qd0twQVpucFRTZ3lneThQMFVJcXJHS283S0gtU1gwOHhuNDlPNFAzODFvbVJQTWVjNjBjYjhiV0I5VmRYaG0yS01DSkVfelBlS0ZLWVdVUlVKb2hLRlc5RF9EYi1KRWFwbE9VNDhhYXdVaDdwdUNoU0Z4TXROUdIBowFBVV95cUxPS1lON1Q0NFpDWFc3UVFwUXU1RTJZTGNhbVplUnJWRDd2ZGZvSEJIVkg4VVdjREpXbnhFX2psb2hWRWZJM2ZBMEhHSlR3RVJTRzZabW00Yl80Y3p1T24wekFGN1p5M2JjYVFHNVo0MHAwdVJSd3MwaXA5cUtpRHg0N045MHZCTmtpVHY2NmtxaE1UQWdSSG9wR2NkU0xieDl5MnBN?oc=5",
+        "date": "Mon, 16 Nov 2026 17:08:07 GMT",
+        "source": "Levante-EMV",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeExqSGV2dU9aalY2NmdQaVpzSjBiNmJTVTdZR2JUMDY5WVRveGtvMVcya0hjMU16X1lHcUw5VUFlN2NwbmVmWDB4aFZ6Tm1qRnVsRjRxNW1mOXF2eXVSUmxlQ09KMUl3a0t5anFsYnRoWlQ3Y2R1QjZpdVRPZ3F3WnhJcFRIbC0zWGhlLUwzcVZxUTZQWEhESEx0d2ZEOHlIY3lLX1h4UWR0eDAxYzZuVG45dmpaVFE?oc=5",
+        "title": "El Voleibol Arroyo afronta un exigente encuentro ante el cuarto clasificado - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeExqSGV2dU9aalY2NmdQaVpzSjBiNmJTVTdZR2JUMDY5WVRveGtvMVcya0hjMU16X1lHcUw5VUFlN2NwbmVmWDB4aFZ6Tm1qRnVsRjRxNW1mOXF2eXVSUmxlQ09KMUl3a0t5anFsYnRoWlQ3Y2R1QjZpdVRPZ3F3WnhJcFRIbC0zWGhlLUwzcVZxUTZQWEhESEx0d2ZEOHlIY3lLX1h4UWR0eDAxYzZuVG45dmpaVFE?oc=5",
+        "date": "Fri, 20 Nov 2026 09:49:55 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkZiRGRwZ2lFNjBZUmR2Z0FpaGlTanYwUFFTY2h1encxRzljaDlaVWZvLXktRFB1RVNKeUFoTlI3WmxTQ2xFWjgwTWVyQVhYYVNMU0RobVlOWkJSc1BUN1ctUTUyMWxyRFd5ZTMxZWQwV3FOMC1hVXNmUGtpdm1NNEVGcElHWDhjWUN3cnE3RkNmTENZY0QyUg?oc=5",
+        "title": "Braveheart GC lidera el arranque de la Liga Nacional - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkZiRGRwZ2lFNjBZUmR2Z0FpaGlTanYwUFFTY2h1encxRzljaDlaVWZvLXktRFB1RVNKeUFoTlI3WmxTQ2xFWjgwTWVyQVhYYVNMU0RobVlOWkJSc1BUN1ctUTUyMWxyRFd5ZTMxZWQwV3FOMC1hVXNmUGtpdm1NNEVGcElHWDhjWUN3cnE3RkNmTENZY0QyUg?oc=5",
+        "date": "Mon, 16 Nov 2026 13:11:25 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0dYaTZRMzBXcmFUNF9TakRGXzZROWdVRVpaM1BtOWVQcndXWWtTZ0ZtYWxkRFRmR2pfNXlBVi01ZmNpcTZ6OUE1QW8xS2VybnI0UHdBUzVMWTNCMVpWUW5lVU9TY05FZk9zYmVGOVJWeGJxeFEzUEdzdHQ1U2JIY0VHLVUxc2dMbzQzVGRXdGZvZDBPNk9iSVhCM3hxclk1UnVzZm5md25VTGtBbXl6SjU5VWV3SVlIRDZyNDBtcTdhaENDWGYtMGNqaWFGMTl6TzY0VV9TSUV5ZkpwbDB2MVozOXZ1V1U?oc=5",
+        "title": "La Superliga Masculina afronta su sexta jornada con el liderato y la lucha por las primeras posiciones en juego - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0dYaTZRMzBXcmFUNF9TakRGXzZROWdVRVpaM1BtOWVQcndXWWtTZ0ZtYWxkRFRmR2pfNXlBVi01ZmNpcTZ6OUE1QW8xS2VybnI0UHdBUzVMWTNCMVpWUW5lVU9TY05FZk9zYmVGOVJWeGJxeFEzUEdzdHQ1U2JIY0VHLVUxc2dMbzQzVGRXdGZvZDBPNk9iSVhCM3hxclk1UnVzZm5md25VTGtBbXl6SjU5VWV3SVlIRDZyNDBtcTdhaENDWGYtMGNqaWFGMTl6TzY0VV9TSUV5ZkpwbDB2MVozOXZ1V1U?oc=5",
+        "date": "Thu, 19 Nov 2026 09:30:12 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc29xX2tmX1hYRXV3bUY2MDd6bmpXYWh2Vm5RTFRHbDNqN0hMUF9uZTdYeWl5NG51Smh1R2h6OWp1bHFrQm1zMHo5ZHp4NlVIWDh1VUU5N3A5VXNFUHRya2tycU9meGY1ZlFfN29EOThRZFZ3NlhpdWEyb2VRb0xKMlpKRW90OUJZTjFiU3VBenV4TEVfc2JSOTlfaVMxYTJ1VjZSdDRrUXlNaFhZcmRKOFZsbm1qSW81V1ZDMGdPY1JtRmV1ODR0X3V1eXo1Zw?oc=5",
+        "title": "La Liga Nacional de Vóley Playa afronta nuevos compromisos en categoría masculina y femenina - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc29xX2tmX1hYRXV3bUY2MDd6bmpXYWh2Vm5RTFRHbDNqN0hMUF9uZTdYeWl5NG51Smh1R2h6OWp1bHFrQm1zMHo5ZHp4NlVIWDh1VUU5N3A5VXNFUHRya2tycU9meGY1ZlFfN29EOThRZFZ3NlhpdWEyb2VRb0xKMlpKRW90OUJZTjFiU3VBenV4TEVfc2JSOTlfaVMxYTJ1VjZSdDRrUXlNaFhZcmRKOFZsbm1qSW81V1ZDMGdPY1JtRmV1ODR0X3V1eXo1Zw?oc=5",
+        "date": "Thu, 19 Nov 2026 10:38:09 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYUZ4YXhFTVJpdG9yMG4wR3lTeFpTSmJZa2tZZ0NQXzJ1RlY5UnZoMURkbjVXa3ZrbS1HQXFOUFJsU0ZEOHg2Qk5GU0hJV0ZwaHRVUUlrV2dmc3hBOXpsUFR3Y21DelVNa3BBR01VN1JfcENXRzJuSnVoZWxwNlA0ZGhfY3Q4Z1RHZEJiZV9qMHgtRVRwRVRZTlhuTnViYk5fNEVmTk4tNGNOUkJSTVE2Vk1uT2ROYzRDQmF3V1BLQVhkbmJHWW5HVmh1LTNvUjhQMjlCTUZZVHBPdVpNX3ZB?oc=5",
+        "title": "El CUV Alcorcón recupera la senda de la victoria con un contundente triunfo ante el CVNSL Voleibol Arroyo - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYUZ4YXhFTVJpdG9yMG4wR3lTeFpTSmJZa2tZZ0NQXzJ1RlY5UnZoMURkbjVXa3ZrbS1HQXFOUFJsU0ZEOHg2Qk5GU0hJV0ZwaHRVUUlrV2dmc3hBOXpsUFR3Y21DelVNa3BBR01VN1JfcENXRzJuSnVoZWxwNlA0ZGhfY3Q4Z1RHZEJiZV9qMHgtRVRwRVRZTlhuTnViYk5fNEVmTk4tNGNOUkJSTVE2Vk1uT2ROYzRDQmF3V1BLQVhkbmJHWW5HVmh1LTNvUjhQMjlCTUZZVHBPdVpNX3ZB?oc=5",
+        "date": "Tue, 17 Nov 2026 08:39:43 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjhPT0VSSXZxUGZUa01IS1hUSDI3YTdDTnYzQjZza3RpNEstMnhjcUxlSUpJcnlyb0cxeFJFWVVwbDJsbTJqaU1MNlZ2bEEteUh3SzVudDQzNVZrY21nWXhzM3JfQVFzS3VWNk1icmlCOGtyRzVoZy1DeU1wTEhzRkw3REpCV2IwRUVOT044cmRmRlNPbmlmNlhrbVNqeUN4cnctWlREV2cyOHpGQkZLdmZmb3lzU2NZSVdxUlJMSE5BVTA?oc=5",
+        "title": "La RFEVB recibe un Memorando de Entendimiento durante el Congreso Mundial de la FIVB - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjhPT0VSSXZxUGZUa01IS1hUSDI3YTdDTnYzQjZza3RpNEstMnhjcUxlSUpJcnlyb0cxeFJFWVVwbDJsbTJqaU1MNlZ2bEEteUh3SzVudDQzNVZrY21nWXhzM3JfQVFzS3VWNk1icmlCOGtyRzVoZy1DeU1wTEhzRkw3REpCV2IwRUVOT044cmRmRlNPbmlmNlhrbVNqeUN4cnctWlREV2cyOHpGQkZLdmZmb3lzU2NZSVdxUlJMSE5BVTA?oc=5",
+        "date": "Sat, 21 Nov 2026 20:41:18 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHRPekE3dXlQVEhVbEFPQnl1NFVZdjExdUU4c2pHVjU1dUIxRnFqR1J1NFFtX2dMVi1NdkJfT043S3FPS2R3Uy1Id0VWYktTUVhoYVgyT1FUZDE5ejlEOFRLejFjVF9tN3pUZ0RfRlFabC0ta3g1VlpjZHhIUVY1T2RXblcxUWNxSDVoUkNfTHc2QVY4Ti13UF9Td2JzN2ZBLU9nblBRQm5zM0tSYUVzSGR3OHlvX2daY1Y1dHV6TFM?oc=5",
+        "title": "El Cisneros La Laguna quiere trasladar su impulso europeo a la Superliga Masculina - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHRPekE3dXlQVEhVbEFPQnl1NFVZdjExdUU4c2pHVjU1dUIxRnFqR1J1NFFtX2dMVi1NdkJfT043S3FPS2R3Uy1Id0VWYktTUVhoYVgyT1FUZDE5ejlEOFRLejFjVF9tN3pUZ0RfRlFabC0ta3g1VlpjZHhIUVY1T2RXblcxUWNxSDVoUkNfTHc2QVY4Ti13UF9Td2JzN2ZBLU9nblBRQm5zM0tSYUVzSGR3OHlvX2daY1Y1dHV6TFM?oc=5",
+        "date": "Fri, 20 Nov 2026 09:22:46 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdEVScElITWhoZGJLY2FxbUlFUmVrTUtSSlZTUHI2V2ZLQldjTjduNElucTFlRlZtQzBabWpoQ0V0YVEzRzhxejB4RFkzbFBNZmFockFtYlFlV1hRa3k5Vm9Pd3ZRYmVCUFUxNjVuc0xnbWhXWk9YSkw5ZzEyLTllWEctbmQ3Rjk1QzlqeV9Sek9PbzUxWGQtXzBicmt2RVp2SmcxNDRGMmJaQTQ3Mjl0U0d1Tm5La1EzcFJqZ3JBTGVzNXJ0QU4xQlk1WDV4MHJMR05Rb2FEdGE?oc=5",
+        "title": "La Liga Iberdrola afronta su octava jornada con un duelo directo en la zona alta de la clasificación - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdEVScElITWhoZGJLY2FxbUlFUmVrTUtSSlZTUHI2V2ZLQldjTjduNElucTFlRlZtQzBabWpoQ0V0YVEzRzhxejB4RFkzbFBNZmFockFtYlFlV1hRa3k5Vm9Pd3ZRYmVCUFUxNjVuc0xnbWhXWk9YSkw5ZzEyLTllWEctbmQ3Rjk1QzlqeV9Sek9PbzUxWGQtXzBicmt2RVp2SmcxNDRGMmJaQTQ3Mjl0U0d1Tm5La1EzcFJqZ3JBTGVzNXJ0QU4xQlk1WDV4MHJMR05Rb2FEdGE?oc=5",
+        "date": "Thu, 19 Nov 2026 08:39:09 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd25ZT0RESjNMZHpPaFdQRnRpOG9CWVo5bjQ4ejhUWFkxUWlWeUc5dlFvS0lBNTVvYWRnNE9rNGJkeVZYQ0hPbHJZeHlibVNrdmQtRlNCS0luWUJjR1JSU1NvQ2ZVOVI3ZkRRYnJCSDR2cGQ4bjZCUUE2OEN2M3owSTBXZUh1WjhwdnVQYkJnaDFPTldtazVuR2kyWUNDQ3BHb2duNy1pai1QNEVIdFNWaGFEeG1PaEVBbVIwb1NYSkNNMFRQd3Q1TG5IeVQwVVp1bGdDUU8xdjNVbmJWWmlYdA?oc=5",
+        "title": "El Fundación Cajasol Andalucía recibe al CV Heidelberg en una reedición de la final de la pasada temporada - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd25ZT0RESjNMZHpPaFdQRnRpOG9CWVo5bjQ4ejhUWFkxUWlWeUc5dlFvS0lBNTVvYWRnNE9rNGJkeVZYQ0hPbHJZeHlibVNrdmQtRlNCS0luWUJjR1JSU1NvQ2ZVOVI3ZkRRYnJCSDR2cGQ4bjZCUUE2OEN2M3owSTBXZUh1WjhwdnVQYkJnaDFPTldtazVuR2kyWUNDQ3BHb2duNy1pai1QNEVIdFNWaGFEeG1PaEVBbVIwb1NYSkNNMFRQd3Q1TG5IeVQwVVp1bGdDUU8xdjNVbmJWWmlYdA?oc=5",
+        "date": "Fri, 20 Nov 2026 15:29:55 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3FxNmJIbDUwY1ZDOXdLSTBSS2R1QUxrUHpFWVRTMzMwUkIydmtDTnBLdENzWl9PVXVMcGxwby1EVndaQU5jbXI5TVppbWZwYlJHSHU1X042Q1UyZWJaWmlKZmRIYVlyUkk2eEtERXpSNzJVNV94MHdBMUZLQ0ZWb2FmVjVjQ3N3RGNneVpPSlp0emdWWms4SE0wNWhPZlNLSlBPLWJLbmRnQ2EwVGdiNERxbkVFOUlHZ0x1OVlzWTc3cVU0UnRMUFF1WQ?oc=5",
+        "title": "El JS Hotels Cide Palma recibe al Grupo Renovak CV Sant Joan desde el liderato del Grupo B - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3FxNmJIbDUwY1ZDOXdLSTBSS2R1QUxrUHpFWVRTMzMwUkIydmtDTnBLdENzWl9PVXVMcGxwby1EVndaQU5jbXI5TVppbWZwYlJHSHU1X042Q1UyZWJaWmlKZmRIYVlyUkk2eEtERXpSNzJVNV94MHdBMUZLQ0ZWb2FmVjVjQ3N3RGNneVpPSlp0emdWWms4SE0wNWhPZlNLSlBPLWJLbmRnQ2EwVGdiNERxbkVFOUlHZ0x1OVlzWTc3cVU0UnRMUFF1WQ?oc=5",
+        "date": "Fri, 20 Nov 2026 11:41:28 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUS14RzNmUEM1TWNuT2hsUzRXTloycmpua3ZWOFd4Rl9DbVhtd0ExWHFwOXJSNDk4aFJ5cHFnLWpIWHBCdmp1dTJ2X0djcjEtcVJEaVhvZDhLQzQ2VDhkMnpXRWNjWXpXd3dCWHNvMkg0OWx6Q3hCeHJ6QXBwT1hhQ2xHT0pKTHhlTjRsTGtvOXFQdUY1aUlnNUdyd1lyRURFcUJFc2hpQ3JWeVduVEZqQ01BUWR2ZFZrNGVVWXFmdEhSaGxlMGVTME94aUdlaXhySWdlWTB3?oc=5",
+        "title": "Avarca de Menorca sigue imparable en una jornada marcada por la remontada de Heidelberg Volkswagen - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUS14RzNmUEM1TWNuT2hsUzRXTloycmpua3ZWOFd4Rl9DbVhtd0ExWHFwOXJSNDk4aFJ5cHFnLWpIWHBCdmp1dTJ2X0djcjEtcVJEaVhvZDhLQzQ2VDhkMnpXRWNjWXpXd3dCWHNvMkg0OWx6Q3hCeHJ6QXBwT1hhQ2xHT0pKTHhlTjRsTGtvOXFQdUY1aUlnNUdyd1lyRURFcUJFc2hpQ3JWeVduVEZqQ01BUWR2ZFZrNGVVWXFmdEhSaGxlMGVTME94aUdlaXhySWdlWTB3?oc=5",
+        "date": "Sat, 21 Nov 2026 21:21:26 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNGlOUnZRNzJNcExsXzlmLVNfWU1helRmSEJnWE9uMDhUWEtSWURnUU8zZjNNRHJPenVHNUNkZHZZODJSZDZvQnh5VHBVRTFJRHFVUGZFSlNScmp4dFFIUzg1ZTZzMnFqbkJUY2ZwZk1FdnZmM2poQjlzeFRzQk5tWF9KcXMyUm1lNEpaSHhNNEtIaEFNNjhqRk5SNFdxRGo0cTAxbVgza2JLMVNhXzB1VmNjMUpqVlNmeVBsdnNXMmRoWVdWUlVlcUJPbw?oc=5",
+        "title": "Tenerife Libby’s La Laguna recibe a Arenal Emevé en la octava jornada de la Liga Iberdrola - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNGlOUnZRNzJNcExsXzlmLVNfWU1helRmSEJnWE9uMDhUWEtSWURnUU8zZjNNRHJPenVHNUNkZHZZODJSZDZvQnh5VHBVRTFJRHFVUGZFSlNScmp4dFFIUzg1ZTZzMnFqbkJUY2ZwZk1FdnZmM2poQjlzeFRzQk5tWF9KcXMyUm1lNEpaSHhNNEtIaEFNNjhqRk5SNFdxRGo0cTAxbVgza2JLMVNhXzB1VmNjMUpqVlNmeVBsdnNXMmRoWVdWUlVlcUJPbw?oc=5",
+        "date": "Fri, 20 Nov 2026 09:07:56 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmRBb1BrR3ZaQWR5a1lUX2VTa05RZ1VSeWhkdThaNlg4QUJ0SXNEMFVhMXBkSC1QRmNBbnZjN3BicUZ3MGJfdDB5cUpnOHNtM1NvTzd1b3FqQklzeXJJQUtZN0ZPeTdKSzY0U1g4Q1luSXpNcEYybFkwcTN5Z21qOXNoQ3BxSUVQTVhaQlZMM19iaFZxT1JIYkVVRjIwSGpDa2tTd1pmUzZ2M1EtOWc1Qmt4eXVETlVPVk5FUlRIczZROTllaWNN?oc=5",
+        "title": "El CUV Alcorcón se impone con autoridad al CV Son Ferrer y mantiene la tercera posición - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmRBb1BrR3ZaQWR5a1lUX2VTa05RZ1VSeWhkdThaNlg4QUJ0SXNEMFVhMXBkSC1QRmNBbnZjN3BicUZ3MGJfdDB5cUpnOHNtM1NvTzd1b3FqQklzeXJJQUtZN0ZPeTdKSzY0U1g4Q1luSXpNcEYybFkwcTN5Z21qOXNoQ3BxSUVQTVhaQlZMM19iaFZxT1JIYkVVRjIwSGpDa2tTd1pmUzZ2M1EtOWc1Qmt4eXVETlVPVk5FUlRIczZROTllaWNN?oc=5",
+        "date": "Tue, 17 Nov 2026 08:39:43 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEZYUFdBdnRlXzBDQzZLbmFHeWF6QzFJdWM0VUpTR1JiYWlORmxYcjdwQWJfZS1yb0h6dlZxbVFmVVRmak1EdDlNSW5ndmxQZ2NleTNLUG1QWHotMW85MUpLYXI4azkwREpvUmlVZE1zR3NLak44UlpNeTdvVTFYTmlQelpudGcwUjRtVTdjRDlvZ2lEZ0o3QjQ5Z2tHcXFlUGUzRm52NjFybWdNeWFGNVAwSQ?oc=5",
+        "title": "Duelo de reivindicaciones entre Conqueridor Valencia y Grupo Herce Soria - Real Federación Española de Voleibol",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEZYUFdBdnRlXzBDQzZLbmFHeWF6QzFJdWM0VUpTR1JiYWlORmxYcjdwQWJfZS1yb0h6dlZxbVFmVVRmak1EdDlNSW5ndmxQZ2NleTNLUG1QWHotMW85MUpLYXI4azkwREpvUmlVZE1zR3NLak44UlpNeTdvVTFYTmlQelpudGcwUjRtVTdjRDlvZ2lEZ0o3QjQ5Z2tHcXFlUGUzRm52NjFybWdNeWFGNVAwSQ?oc=5",
+        "date": "Fri, 20 Nov 2026 09:45:54 GMT",
+        "source": "Real Federación Española de Voleibol",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWktPY1k2aDg2a3JJeHFCV3lUbkZQcUhwTS1uUWp0SDZpbTdtZDVJdWNSWE1JMTFDMlhLVDVxdXp3dkRvaVp4ckN3bldWeWtqUk1ldmtVVmZ2SmphTmRMbUw3NF8tZlBIbFhRU0p1UUVhQkVFNGVaMEFTdmJZbHN1OHhmcHc2SFhjcWdVNkpwNFMxZG9iU2xNRm1yQXFFS01HaXd0VlRJcGtaZGZWN3dFTjBqU0FqV000NVpxdXg0d1ljT0xUTi1pWWtnSjZvbXc1cVJwZEdUSlFjWi1TbEVBeVc5eFdDVHV4RTBxemFyV2I3WElwa1ZR0gGLAkFVX3lxTE9neWJCRXlFU2ZJcjljLWFKMnNieGNlMWpaUXZKWmdXb0dkT3FrY2VxeGdkVElvMGhlWVNxYWZxMHdjWm03NUxwdmZzYWQ1WkdlRE9oV25fNDJhNVBGS183OGFHa19HYnk4RUxjMnB0N0Z5bXh3ZzNXa0ljcXh5NFY3UlR5dXVvcTZTYVdxcEhFdEpnMjNoZXNQNnVXelYtU1NFMk90Wm9oc2hWUnhGOWhRcG16RlVNSmdtbVRSUG9HSVJscnpqMXMwUGFmZ3I3LTlfUkZ0cjA3bjhyTmwxMUJveTBuQXk2cEVaT2pyRzltVXpCZ3owS1RnclVBZ25WeWpnTnNoYnJuZHhDMA?oc=5",
+        "title": "Fin de semana de éxitos deportivos setabenses - Cadena SER",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWktPY1k2aDg2a3JJeHFCV3lUbkZQcUhwTS1uUWp0SDZpbTdtZDVJdWNSWE1JMTFDMlhLVDVxdXp3dkRvaVp4ckN3bldWeWtqUk1ldmtVVmZ2SmphTmRMbUw3NF8tZlBIbFhRU0p1UUVhQkVFNGVaMEFTdmJZbHN1OHhmcHc2SFhjcWdVNkpwNFMxZG9iU2xNRm1yQXFFS01HaXd0VlRJcGtaZGZWN3dFTjBqU0FqV000NVpxdXg0d1ljT0xUTi1pWWtnSjZvbXc1cVJwZEdUSlFjWi1TbEVBeVc5eFdDVHV4RTBxemFyV2I3WElwa1ZR0gGLAkFVX3lxTE9neWJCRXlFU2ZJcjljLWFKMnNieGNlMWpaUXZKWmdXb0dkT3FrY2VxeGdkVElvMGhlWVNxYWZxMHdjWm03NUxwdmZzYWQ1WkdlRE9oV25fNDJhNVBGS183OGFHa19HYnk4RUxjMnB0N0Z5bXh3ZzNXa0ljcXh5NFY3UlR5dXVvcTZTYVdxcEhFdEpnMjNoZXNQNnVXelYtU1NFMk90Wm9oc2hWUnhGOWhRcG16RlVNSmdtbVRSUG9HSVJscnpqMXMwUGFmZ3I3LTlfUkZ0cjA3bjhyTmwxMUJveTBuQXk2cEVaT2pyRzltVXpCZ3owS1RnclVBZ25WeWpnTnNoYnJuZHhDMA?oc=5",
+        "date": "Mon, 16 Nov 2026 12:15:00 GMT",
+        "source": "Cadena SER",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTmNjVDV6LVVGaTNaN1dFXzBMUTdkZnIzMk1PMmdXTWpVRnZVMWhjNkRZanBYUlFraVBPczFtZjduNlIxY2NEMHhuQ0Z0T184dmNndTg1UVgyekh5bVdxSEtmazRqUGZZM18xN3Q5MVFmcGl4VlUxNHpXNHM5T0JsSUhTNkdPQTBtQlNwQV8zYVVTQU1VQXY2amVHd1NyYWdzQ2xDc1MxeEkxNUZVZmJlajg4SkZsT1pGWG1BTVhQbFozV0ZQQnFCbWUwVlhid25lX1Zzd0UtLXJtdG9GeDJBZmI1ejhUcDNjb2tjTzdWZ2t5ejBfRXQ5Wk9NR0Rsdkc3Y0pQRnAweVBBYUtNUURWU1VR0gGSAkFVX3lxTE5OY2NUNXotVUZpM1o3V0VfMExRN2RmcjMyTU8yZ1dNalVGdlUxaGM2RFlqcFhSUWtpUE9zMW1mN242UjFjY0QweG5DRnRPXzh2Y2d1ODVRWDJ6SHltV3FIS2ZrNGpQZlkzXzE3dDkxUWZwaXhWVTE0elc0czlPQmxJSFM2R09BMG1CU3BBXzNhVVNBTVVBdjZqZUd3U3JhZ3NDbENzUzF4STE1RlVmYmVqODhKRmxPWkZYbUFNWFBsWjNXRlBCcUJtZTBWWGJ3bmVfVnN3RS0tcm10b0Z4MkFmYjV6OFRwM2Nva2NPN1Zna3l6MF9FdDlaT01HRGx2RzdjSlBGcDB5UEFhS01RRFZTVVE?oc=5",
+        "title": "El Arenas Gandia celebra la convocatoria de Dídac García con la selección española sub-15 de voleibol - Cadena SER",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTmNjVDV6LVVGaTNaN1dFXzBMUTdkZnIzMk1PMmdXTWpVRnZVMWhjNkRZanBYUlFraVBPczFtZjduNlIxY2NEMHhuQ0Z0T184dmNndTg1UVgyekh5bVdxSEtmazRqUGZZM18xN3Q5MVFmcGl4VlUxNHpXNHM5T0JsSUhTNkdPQTBtQlNwQV8zYVVTQU1VQXY2amVHd1NyYWdzQ2xDc1MxeEkxNUZVZmJlajg4SkZsT1pGWG1BTVhQbFozV0ZQQnFCbWUwVlhid25lX1Zzd0UtLXJtdG9GeDJBZmI1ejhUcDNjb2tjTzdWZ2t5ejBfRXQ5Wk9NR0Rsdkc3Y0pQRnAweVBBYUtNUURWU1VR0gGSAkFVX3lxTE5OY2NUNXotVUZpM1o3V0VfMExRN2RmcjMyTU8yZ1dNalVGdlUxaGM2RFlqcFhSUWtpUE9zMW1mN242UjFjY0QweG5DRnRPXzh2Y2d1ODVRWDJ6SHltV3FIS2ZrNGpQZlkzXzE3dDkxUWZwaXhWVTE0elc0czlPQmxJSFM2R09BMG1CU3BBXzNhVVNBTVVBdjZqZUd3U3JhZ3NDbENzUzF4STE1RlVmYmVqODhKRmxPWkZYbUFNWFBsWjNXRlBCcUJtZTBWWGJ3bmVfVnN3RS0tcm10b0Z4MkFmYjV6OFRwM2Nva2NPN1Zna3l6MF9FdDlaT01HRGx2RzdjSlBGcDB5UEFhS01RRFZTVVE?oc=5",
+        "date": "Sat, 21 Nov 2026 14:13:41 GMT",
+        "source": "Cadena SER",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUVaOW12d0xsUXIxblhKZU1rcm82Zk92eDdpTm9nZmRvMTFmRUt4Sjc1NENoVGk5NXZLdm1kMVVSSC1ibWhEU3VZU1NyOTl4S0RQVi1IVnZYWXZWMTdXZjRCZm81Q1otdzExTFhTNW8xZHhlNjBtTVRwWGNvUDJ5Y1pmNGQwUU9tcjcwTHlwNVh1aXZtZHBqWkFMX1FtcFR3M292VVItQ1RYeUtjRjFCQUFOX1ZCODZyWm43eXNWQUhBWUM5YjcwY1NNZ3oxdmxRb3lhaXNWUnFHYURWandSYV9sb9IB4wFBVV95cUxNOUVaOW12d0xsUXIxblhKZU1rcm82Zk92eDdpTm9nZmRvMTFmRUt4Sjc1NENoVGk5NXZLdm1kMVVSSC1ibWhEU3VZU1NyOTl4S0RQVi1IVnZYWXZWMTdXZjRCZm81Q1otdzExTFhTNW8xZHhlNjBtTVRwWGNvUDJ5Y1pmNGQwUU9tcjcwTHlwNVh1aXZtZHBqWkFMX1FtcFR3M292VVItQ1RYeUtjRjFCQUFOX1ZCODZyWm43eXNWQUhBWUM5YjcwY1NNZ3oxdmxRb3lhaXNWUnFHYURWandSYV9sbw?oc=5",
+        "title": "Patricia Aranda, experiencia y títulos para reforzar al Kiele Socuéllamos - Cadena SER",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUVaOW12d0xsUXIxblhKZU1rcm82Zk92eDdpTm9nZmRvMTFmRUt4Sjc1NENoVGk5NXZLdm1kMVVSSC1ibWhEU3VZU1NyOTl4S0RQVi1IVnZYWXZWMTdXZjRCZm81Q1otdzExTFhTNW8xZHhlNjBtTVRwWGNvUDJ5Y1pmNGQwUU9tcjcwTHlwNVh1aXZtZHBqWkFMX1FtcFR3M292VVItQ1RYeUtjRjFCQUFOX1ZCODZyWm43eXNWQUhBWUM5YjcwY1NNZ3oxdmxRb3lhaXNWUnFHYURWandSYV9sb9IB4wFBVV95cUxNOUVaOW12d0xsUXIxblhKZU1rcm82Zk92eDdpTm9nZmRvMTFmRUt4Sjc1NENoVGk5NXZLdm1kMVVSSC1ibWhEU3VZU1NyOTl4S0RQVi1IVnZYWXZWMTdXZjRCZm81Q1otdzExTFhTNW8xZHhlNjBtTVRwWGNvUDJ5Y1pmNGQwUU9tcjcwTHlwNVh1aXZtZHBqWkFMX1FtcFR3M292VVItQ1RYeUtjRjFCQUFOX1ZCODZyWm43eXNWQUhBWUM5YjcwY1NNZ3oxdmxRb3lhaXNWUnFHYURWandSYV9sbw?oc=5",
+        "date": "Fri, 20 Nov 2026 08:59:29 GMT",
+        "source": "Cadena SER",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHVWOURNV3J6dWNyY0kxek9laHVpWldiUnlhVEZqUF96NnBkNFJDdmsxVGRNV2NTM2M0bWdyUklvdTEtcHk3empOV1B3SnVBbThoS1BsblNINmZaa1ZaSE5OLWtpd2pZVE1POGM2dDk0U1VxSWtxWmtEZTAyR0FRSE5SaXhka1BPLTB0RDV4WHc3bmhVcVN5V3JEZ0JhV0Zu?oc=5",
+        "title": "Atletismo: Cross clubes, en directo | Campeonato España 2026 - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHVWOURNV3J6dWNyY0kxek9laHVpWldiUnlhVEZqUF96NnBkNFJDdmsxVGRNV2NTM2M0bWdyUklvdTEtcHk3empOV1B3SnVBbThoS1BsblNINmZaa1ZaSE5OLWtpd2pZVE1POGM2dDk0U1VxSWtxWmtEZTAyR0FRSE5SaXhka1BPLTB0RDV4WHc3bmhVcVN5V3JEZ0JhV0Zu?oc=5",
+        "date": "Thu, 19 Nov 2026 09:34:53 GMT",
+        "source": "RTVE.es",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1BHVGlIRHp6TU5YakhrQUdoZjREQ2ttYnFMdzFKaE13SVRQS0FVSnVsMEtJeS1KZ09hT0JGTFJ6VWFPbkFDdkstNmtvMEJHX3RlZ0RMa0lUOHM5MzR0eWRPWHdFYTVodjczSERIVVdoaVpYdk01eTh4dUZrcUdnbWZlOW9zQ01VUDRNb2NPbUlva1JpcjhjOHdIM0LSAbABQVVfeXFMTlJMMy1oSWFXS0xlU0RiNFU5c2w2Nlc3U3VUZ2ZKRzBXOWVWbGNXWlFKQ0xNSHdOV1l1SGlSQWIxZEdyNFNfSkVPTEdJWFNsSExJSUNGaS0xQVJGZlVJNnEwWWlGaUozVmNMSDFrU0M2MEtDNzBaamZlbktfdVNEaV96ZURjZ2RwMVZ5a0xsWUJEMm9tQUpGeXd1bXRGbG8xWXl0clRjektEZmlkbkZ3VVc?oc=5",
+        "title": "El voleibol se suma a la decimocuarta edición - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1BHVGlIRHp6TU5YakhrQUdoZjREQ2ttYnFMdzFKaE13SVRQS0FVSnVsMEtJeS1KZ09hT0JGTFJ6VWFPbkFDdkstNmtvMEJHX3RlZ0RMa0lUOHM5MzR0eWRPWHdFYTVodjczSERIVVdoaVpYdk01eTh4dUZrcUdnbWZlOW9zQ01VUDRNb2NPbUlva1JpcjhjOHdIM0LSAbABQVVfeXFMTlJMMy1oSWFXS0xlU0RiNFU5c2w2Nlc3U3VUZ2ZKRzBXOWVWbGNXWlFKQ0xNSHdOV1l1SGlSQWIxZEdyNFNfSkVPTEdJWFNsSExJSUNGaS0xQVJGZlVJNnEwWWlGaUozVmNMSDFrU0M2MEtDNzBaamZlbktfdVNEaV96ZURjZ2RwMVZ5a0xsWUJEMm9tQUpGeXd1bXRGbG8xWXl0clRjektEZmlkbkZ3VVc?oc=5",
+        "date": "Thu, 19 Nov 2026 18:29:56 GMT",
+        "source": "Diario AS",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnA1SV9UcmktazgxbXdqYW1PaDZLMHQ5RTM0WkFhY1czczFsUV82U2xfWUFnRDlWSzdmQllTb3FNT3JDV2FjOGd6M2UwYlE4NHZSbERtamtHYm1IUm9BMVNzZTNmdkhGTkFydFlFVmlvbk96bE9xQkJINnBnU1BfSTlhZk5RYjgxS2gtUnp6WjduVmM3U2dPb0JXMnBUaFo0elpj?oc=5",
+        "title": "Balonmano: Portugal - Túnez, directo | España 2026 (f) - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnA1SV9UcmktazgxbXdqYW1PaDZLMHQ5RTM0WkFhY1czczFsUV82U2xfWUFnRDlWSzdmQllTb3FNT3JDV2FjOGd6M2UwYlE4NHZSbERtamtHYm1IUm9BMVNzZTNmdkhGTkFydFlFVmlvbk96bE9xQkJINnBnU1BfSTlhZk5RYjgxS2gtUnp6WjduVmM3U2dPb0JXMnBUaFo0elpj?oc=5",
+        "date": "Fri, 20 Nov 2026 12:53:45 GMT",
+        "source": "RTVE.es",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2FIdTZaVHpPRFhuVEh1NVhscGZ5blRwYU1JVlpXQ1MzMDVWOFc5eWJ1Q0ZfMTJuZHFTcHBoRWRVNGRwVU1nLS0yWnNzeUhyY29UMDdLWWE3R0sxbF9EUFZYTmoyOW1Qam11aDJqaUFxSHNyejBpaXN6UnhXU3VRbXF6LW5KQ0lielhCNzNNbEpnbi03VGFsWmg3LUhDaWNPUzVMZlJpM2FYc2ZxVHfSAa4BQVVfeXFMUENhSHU2WlR6T0RYblRIdTVYbHBmeW5UcGFNSVZaV0NTMzA1VjhXOXlidUNGXzEybmRxU3BwaEVkVTRkcFVNZy0tMlpzc3lIcmNvVDA3S1lhN0dLMWxfRFBWWE5qMjltUGptdWgyamlBcUhzcnowaWlzelJ4V1N1UW1xei1uSkNJYnpYQjczTWxKZ24tN1RhbFpoNy1IQ2ljT1M1TGZSaTNhWHNmcVR3?oc=5",
+        "title": "Walla, el mejor jugador de la Superliga, se abre a jugar con España: \"Sería muy gratificante\" - La Provincia",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2FIdTZaVHpPRFhuVEh1NVhscGZ5blRwYU1JVlpXQ1MzMDVWOFc5eWJ1Q0ZfMTJuZHFTcHBoRWRVNGRwVU1nLS0yWnNzeUhyY29UMDdLWWE3R0sxbF9EUFZYTmoyOW1Qam11aDJqaUFxSHNyejBpaXN6UnhXU3VRbXF6LW5KQ0lielhCNzNNbEpnbi03VGFsWmg3LUhDaWNPUzVMZlJpM2FYc2ZxVHfSAa4BQVVfeXFMUENhSHU2WlR6T0RYblRIdTVYbHBmeW5UcGFNSVZaV0NTMzA1VjhXOXlidUNGXzEybmRxU3BwaEVkVTRkcFVNZy0tMlpzc3lIcmNvVDA3S1lhN0dLMWxfRFBWWE5qMjltUGptdWgyamlBcUhzcnowaWlzelJ4V1N1UW1xei1uSkNJYnpYQjczTWxKZ24tN1RhbFpoNy1IQ2ljT1M1TGZSaTNhWHNmcVR3?oc=5",
+        "date": "Fri, 20 Nov 2026 18:45:21 GMT",
+        "source": "La Provincia",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORGhvZVFEQThFRDItWkFUYTJhNTd3U0RWNWdNRUxvamxrRzNRNkFqZWlUVUVsYmdMcDdETmxBcUtXTk9GUVIySHYxQnUxeHp6MkhITks5dGxkcjZyeG5XYlZzYVR0bUswR0lPSWJYbkNleFhDS0szR0NlRmhyOVhjZzJaam9qam52SFZzdVdodGdzbGRVWF93czJqTkFIVFEyV214LWpwQjN2NmpTSEhocXFwVmJWaDB5R2xkTW9wUGU0VEtwU24xMVhNYUswVTNKVnlJSkxSSXVxMHhEWldzT0hRSXg2Tms3aXNrTm56Uk8xMG1WdGZPTDZzNHo0cDAwUzdBc1ZGVGxaRXFnajZuT0N3?oc=5",
+        "title": "Alberto García Navarro, entrenador, sobre la infanta Sofía: \"No busca un resultado inmediato. El deporte forma parte de su estilo de vida más allá de la apariencia física\" - Lecturas",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORGhvZVFEQThFRDItWkFUYTJhNTd3U0RWNWdNRUxvamxrRzNRNkFqZWlUVUVsYmdMcDdETmxBcUtXTk9GUVIySHYxQnUxeHp6MkhITks5dGxkcjZyeG5XYlZzYVR0bUswR0lPSWJYbkNleFhDS0szR0NlRmhyOVhjZzJaam9qam52SFZzdVdodGdzbGRVWF93czJqTkFIVFEyV214LWpwQjN2NmpTSEhocXFwVmJWaDB5R2xkTW9wUGU0VEtwU24xMVhNYUswVTNKVnlJSkxSSXVxMHhEWldzT0hRSXg2Tms3aXNrTm56Uk8xMG1WdGZPTDZzNHo0cDAwUzdBc1ZGVGxaRXFnajZuT0N3?oc=5",
+        "date": "Mon, 16 Nov 2026 09:47:43 GMT",
+        "source": "Lecturas",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWVXTkkwTE1mZ2tDN2hoYlJNTzlNQWhmelQyUVA5anlIYlVfNEpIZUlkZzJtcWZzMUtYSDhXNmdMVmFMb1dwbjRzVnVKNm44R0xrWVVLWDgyNmR3bjdJXzhPQmRsd00tbFhkUEdYS3cwVW5JbmJ2QTEzM1dTQ25rYmlVOThhN3hSd1hpUmUzY213Yzg1SWhnemVpV0NJY21IVGNIelhPZERERDJkanRka0syXzDSAboBQVVfeXFMTnJHamFLNXlfbHRjdmJvUllrUWNoUFl5S0czbnoydm9OLVNWdUk0WWlnd3R5Mk5RRHJWeHJZSzg5N2V5SHAyeUwzcmlXM2JRNzBCTmZJd0FUYXctWl9lLV85LXRhWDNESlA3MDBqR3RXcWx6VmxmQzVTZXB0bklqM3RsdmZMaXdQUS11cjJnOGFTY2FTbEotRm1xRVRhelY0bDNydVYzS3ktel9QcXkxQ2w2a3hJeS1hOHVB?oc=5",
+        "title": "El Fundación Cajasol de voleibol se conforma con un valioso punto ante el CV Heidelberg (2-3) - ABC",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWVXTkkwTE1mZ2tDN2hoYlJNTzlNQWhmelQyUVA5anlIYlVfNEpIZUlkZzJtcWZzMUtYSDhXNmdMVmFMb1dwbjRzVnVKNm44R0xrWVVLWDgyNmR3bjdJXzhPQmRsd00tbFhkUEdYS3cwVW5JbmJ2QTEzM1dTQ25rYmlVOThhN3hSd1hpUmUzY213Yzg1SWhnemVpV0NJY21IVGNIelhPZERERDJkanRka0syXzDSAboBQVVfeXFMTnJHamFLNXlfbHRjdmJvUllrUWNoUFl5S0czbnoydm9OLVNWdUk0WWlnd3R5Mk5RRHJWeHJZSzg5N2V5SHAyeUwzcmlXM2JRNzBCTmZJd0FUYXctWl9lLV85LXRhWDNESlA3MDBqR3RXcWx6VmxmQzVTZXB0bklqM3RsdmZMaXdQUS11cjJnOGFTY2FTbEotRm1xRVRhelY0bDNydVYzS3ktel9QcXkxQ2w2a3hJeS1hOHVB?oc=5",
+        "date": "Sun, 22 Nov 2026 09:37:14 GMT",
+        "source": "ABC",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3lGQmFFNWZGTHNQMThpVEZNbDBEWGdYbnN2eE1xamRsakhvU0xNV2pYcEdiS1Q5ZU5zcjBTb1FlVmZoMVd1cFlVTDVWZlc2eE9vZ1dUdU02N2RFWTVhRm1VcnZpZ0NIWU85Ul9lOXNTdEFzYnBmSTFaajQyVFpYTWFmMG14QkI0OEE?oc=5",
+        "title": "Fútbol: Brasil - Irlanda, en directo | Mundial Sub-17 - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3lGQmFFNWZGTHNQMThpVEZNbDBEWGdYbnN2eE1xamRsakhvU0xNV2pYcEdiS1Q5ZU5zcjBTb1FlVmZoMVd1cFlVTDVWZlc2eE9vZ1dUdU02N2RFWTVhRm1VcnZpZ0NIWU85Ul9lOXNTdEFzYnBmSTFaajQyVFpYTWFmMG14QkI0OEE?oc=5",
+        "date": "Tue, 17 Nov 2026 15:36:01 GMT",
+        "source": "RTVE.es",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcFgyNkw1R1R5S3FMMndNN3RscmRwc2FzVG8tLWlFalZ5Q3lhUklHeUZoMFZiNVZKMkEtR0xhXzhmZ01pRHVzQWNlNnNISzlMSGg4VHZWeTJDdDFnX3BYWTd1a190Y3FlZjUyelpsUGRCUXNLd0hGV2RTbGFtY0RTWWEydUNOdTVzNUdWTDhpWXVwSzVtb3R4R1Azakh3Q1pLcmNielNOVU10Y0FYSFZmamRzbzQxQkE1ZjBSSjBFN0tGX3BfdWMtR0VGSDFjR1dFR201Wm8wYUpEQdIB2gFBVV95cUxNcFgyNkw1R1R5S3FMMndNN3RscmRwc2FzVG8tLWlFalZ5Q3lhUklHeUZoMFZiNVZKMkEtR0xhXzhmZ01pRHVzQWNlNnNISzlMSGg4VHZWeTJDdDFnX3BYWTd1a190Y3FlZjUyelpsUGRCUXNLd0hGV2RTbGFtY0RTWWEydUNOdTVzNUdWTDhpWXVwSzVtb3R4R1Azakh3Q1pLcmNielNOVU10Y0FYSFZmamRzbzQxQkE1ZjBSSjBFN0tGX3BfdWMtR0VGSDFjR1dFR201Wm8wYUpEQQ?oc=5",
+        "title": "El Servigroup Benidorm quiere prolongar su racha ante el exigente Cisneros La Laguna - Mundo Deportivo",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcFgyNkw1R1R5S3FMMndNN3RscmRwc2FzVG8tLWlFalZ5Q3lhUklHeUZoMFZiNVZKMkEtR0xhXzhmZ01pRHVzQWNlNnNISzlMSGg4VHZWeTJDdDFnX3BYWTd1a190Y3FlZjUyelpsUGRCUXNLd0hGV2RTbGFtY0RTWWEydUNOdTVzNUdWTDhpWXVwSzVtb3R4R1Azakh3Q1pLcmNielNOVU10Y0FYSFZmamRzbzQxQkE1ZjBSSjBFN0tGX3BfdWMtR0VGSDFjR1dFR201Wm8wYUpEQdIB2gFBVV95cUxNcFgyNkw1R1R5S3FMMndNN3RscmRwc2FzVG8tLWlFalZ5Q3lhUklHeUZoMFZiNVZKMkEtR0xhXzhmZ01pRHVzQWNlNnNISzlMSGg4VHZWeTJDdDFnX3BYWTd1a190Y3FlZjUyelpsUGRCUXNLd0hGV2RTbGFtY0RTWWEydUNOdTVzNUdWTDhpWXVwSzVtb3R4R1Azakh3Q1pLcmNielNOVU10Y0FYSFZmamRzbzQxQkE1ZjBSSjBFN0tGX3BfdWMtR0VGSDFjR1dFR201Wm8wYUpEQQ?oc=5",
+        "date": "Fri, 20 Nov 2026 10:12:41 GMT",
+        "source": "Mundo Deportivo",
+        "topic": "Voleibol"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QbTRieGFYYWxLUV8wcWV4SmM3RjZ1YUNwTGZhS3IzZVJCdmZwQTYyWUVBRU1jUFZJVXBUbGJDSTJLTEJ3VWNRUzRGZ2VmMGRaTlFiMzdiVWxQYTZxamE4azFtM3pyeHJrdUllMVNB?oc=5",
+        "title": "FUTBOL CTO MUNDO SUB17 ESPAÑA - CHINA - RTVE.es",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QbTRieGFYYWxLUV8wcWV4SmM3RjZ1YUNwTGZhS3IzZVJCdmZwQTYyWUVBRU1jUFZJVXBUbGJDSTJLTEJ3VWNRUzRGZ2VmMGRaTlFiMzdiVWxQYTZxamE4azFtM3pyeHJrdUllMVNB?oc=5",
+        "date": "Fri, 20 Nov 2026 14:02:18 GMT",
+        "source": "RTVE.es",
+        "topic": "Voleibol"
+      }
+    ],
+    "Tenis": [
+      {
+        "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44dzNhcTU0dnZwc1BCVWhiVzZiSHlHQ2g3WjBXM0dReG9TU1FzWWMtWjd6amQwR0tvUGF1VEgtYlQtRDFjNDlxWG5OZExjVWNPb2sxRVVUdlc1R0NvUDAwTmlwTUJudFZYZ1pXTDFRUQ?oc=5",
+        "title": "¿Cuál es la programación de las Nitto ATP Finals? - ATP Tour",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44dzNhcTU0dnZwc1BCVWhiVzZiSHlHQ2g3WjBXM0dReG9TU1FzWWMtWjd6amQwR0tvUGF1VEgtYlQtRDFjNDlxWG5OZExjVWNPb2sxRVVUdlc1R0NvUDAwTmlwTUJudFZYZ1pXTDFRUQ?oc=5",
+        "date": "Sat, 21 Nov 2026 08:00:00 GMT",
+        "source": "ATP Tour",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1oxNzlmOWFNZThpZUUtZEl2UVgyUWRBN2JFMzVDVU1Pb0RkdkEteUZPNnB0MmlFd0NvVFBTak9uR3BRaEFSMU12bVAwSE9QTUVwT2JwUld2SHc4c0ptT2thZFJDaHRFWHg0elBhTzctbUpQbVhDNXpENEt1cEFUTlFIMHV2VWI5VWpiUlVLd2VzU0s4bTZDU2tYSkdPQ0sxS0tMcUZFSU9mS0R2ak9NZFlB0gHGAUFVX3lxTE9ud2YwV2dmVzJsQ2kzaGpGMUtQeXluUmR0U0ROc3RtZkJHajd3cnF0UV9ZSUtYNFZUeDFhSXJvWldnU1hfa3EyNDByWTV6aWQ2ak02dWE3RkFFTzlWR3VjaUUtQ1B3c1MtOXNrekdzTnRQSFBnX2xUMHR3Ylp6aVZEOXJoelpla0p6OTZuM0Q1dUJuM05jTGhFbnRVSVNJRkRFenplU0h2WE83NGdnalZFX3F1ZHN0eWFsazctNXlVcWdGaTA3Zw?oc=5",
+        "title": "¿Cuánto dinero se lleva Alcaraz de premio por ganar las ATP Finals 2026? - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1oxNzlmOWFNZThpZUUtZEl2UVgyUWRBN2JFMzVDVU1Pb0RkdkEteUZPNnB0MmlFd0NvVFBTak9uR3BRaEFSMU12bVAwSE9QTUVwT2JwUld2SHc4c0ptT2thZFJDaHRFWHg0elBhTzctbUpQbVhDNXpENEt1cEFUTlFIMHV2VWI5VWpiUlVLd2VzU0s4bTZDU2tYSkdPQ0sxS0tMcUZFSU9mS0R2ak9NZFlB0gHGAUFVX3lxTE9ud2YwV2dmVzJsQ2kzaGpGMUtQeXluUmR0U0ROc3RtZkJHajd3cnF0UV9ZSUtYNFZUeDFhSXJvWldnU1hfa3EyNDByWTV6aWQ2ak02dWE3RkFFTzlWR3VjaUUtQ1B3c1MtOXNrekdzTnRQSFBnX2xUMHR3Ylp6aVZEOXJoelpla0p6OTZuM0Q1dUJuM05jTGhFbnRVSVNJRkRFenplU0h2WE83NGdnalZFX3F1ZHN0eWFsazctNXlVcWdGaTA3Zw?oc=5",
+        "date": "Sun, 22 Nov 2026 19:32:06 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWUFmTDRJejNGQjNBUVNlUG1MU1FNM0dYQ0hjM29faVg0YmR6dE1fUkNXRnY3YjdZQldtZncyRVBoMEFOTmFnZl9MMWZtb2ZRdzRPRTctMVBsb2RlRUI4RTN3eV9TeUpqRjJwMnAwQU5aRWEwVktfYVUyS1VMbmpkQmJzNFNfZlBaMklzNzhYTXVKVHZRZUdPZHZSNFhPQUVQWjdaMDBTQnRSZWFuaGIyYURQMnhfU3VlZWlXWEFSVWZGYy13bURBWUdKWEFkd2R3WEtWel9YdHlnVkhIbGVHY1NXRi1aZndUVnY4Y05fWkc1dHZaSU5uMHhOX2k1aGNfY1V3Q1Yyc1F1aGZUSXZpMGFWb3BDWnpI?oc=5",
+        "title": "Orden de juego (Día 8): Zverev-Alcaraz, la gran final por ser 'Maestro' - Eurosport",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWUFmTDRJejNGQjNBUVNlUG1MU1FNM0dYQ0hjM29faVg0YmR6dE1fUkNXRnY3YjdZQldtZncyRVBoMEFOTmFnZl9MMWZtb2ZRdzRPRTctMVBsb2RlRUI4RTN3eV9TeUpqRjJwMnAwQU5aRWEwVktfYVUyS1VMbmpkQmJzNFNfZlBaMklzNzhYTXVKVHZRZUdPZHZSNFhPQUVQWjdaMDBTQnRSZWFuaGIyYURQMnhfU3VlZWlXWEFSVWZGYy13bURBWUdKWEFkd2R3WEtWel9YdHlnVkhIbGVHY1NXRi1aZndUVnY4Y05fWkc1dHZaSU5uMHhOX2k1aGNfY1V3Q1Yyc1F1aGZUSXZpMGFWb3BDWnpI?oc=5",
+        "date": "Sun, 22 Nov 2026 08:47:00 GMT",
+        "source": "Eurosport",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZk1pZ1EzX2RfRmQtUmoyME9yeklmTjdrOWo3dThEMzhzN3YxUEJVSmRQOEJJUWZkWFdqaHJpQmV2dG4xck4wSk52Z2o5N0tFQW1PU2EzUUVfSlByVUJRSm8yRVMzalZYdFZWaUlJRnBWMk0zNHMzZjd0ZG1BOUxRRkpXVkJlZ2MxNm9QMjVSamJ3X0FBMjVuQURHT3hhT25qaFJ6Y3NCbnNXcUVadlh4bWxZLXc0ZG04V3hRM3VoQdIB0wFBVV95cUxQcWZiV2ZTYW44ZGhCRE4wMVo3MndVVjkxVXVoUGJCT3dPWFB6N0lMWWpMTXhFWm9lUjVwbC1tbWVScGJOa2tUQVpWTVRKTFFlRmtrQUpFeEVGaF9GNW1jOFd0WnJNTDlHZFJ6NVprVlFVY29TbWdGNnNuTnJmem5VSXN1X0lQN0lmSmNsQ3RnWXFVMnRreG5KdmZ6YkRxWTlpejlBNlBfSWJFTW5aeFl4ZUdDWVI3YzhBVXk3ckFJXy1rVXY2dVJQOVFfRDk5LWNFdm9r?oc=5",
+        "title": "Palmarés de las ATP Finals: qué españoles lo han ganado y quién tiene más títulos - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZk1pZ1EzX2RfRmQtUmoyME9yeklmTjdrOWo3dThEMzhzN3YxUEJVSmRQOEJJUWZkWFdqaHJpQmV2dG4xck4wSk52Z2o5N0tFQW1PU2EzUUVfSlByVUJRSm8yRVMzalZYdFZWaUlJRnBWMk0zNHMzZjd0ZG1BOUxRRkpXVkJlZ2MxNm9QMjVSamJ3X0FBMjVuQURHT3hhT25qaFJ6Y3NCbnNXcUVadlh4bWxZLXc0ZG04V3hRM3VoQdIB0wFBVV95cUxQcWZiV2ZTYW44ZGhCRE4wMVo3MndVVjkxVXVoUGJCT3dPWFB6N0lMWWpMTXhFWm9lUjVwbC1tbWVScGJOa2tUQVpWTVRKTFFlRmtrQUpFeEVGaF9GNW1jOFd0WnJNTDlHZFJ6NVprVlFVY29TbWdGNnNuTnJmem5VSXN1X0lQN0lmSmNsQ3RnWXFVMnRreG5KdmZ6YkRxWTlpejlBNlBfSWJFTW5aeFl4ZUdDWVI3YzhBVXk3ckFJXy1rVXY2dVJQOVFfRDk5LWNFdm9r?oc=5",
+        "date": "Sun, 22 Nov 2026 19:36:58 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zbmp6R2h5Tm9uZjA0WHQ1S3d1SDhLamNOOVltNHFIa3ZPdXVNZW4yNG1KRFF3MXJzR2xIRDhzWWg0cGdVbmtSaGVDV0h5LTQ1NnNtVkhwckctM3NGSHB3bnRyMFRPdkItcFZNYjFyT0tXT2FOOTlUMHh3aw?oc=5",
+        "title": "Alcaraz remonta ante Shelton y jugará su segunda final en las ATP Finals - Match Tenis",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zbmp6R2h5Tm9uZjA0WHQ1S3d1SDhLamNOOVltNHFIa3ZPdXVNZW4yNG1KRFF3MXJzR2xIRDhzWWg0cGdVbmtSaGVDV0h5LTQ1NnNtVkhwckctM3NGSHB3bnRyMFRPdkItcFZNYjFyT0tXT2FOOTlUMHh3aw?oc=5",
+        "date": "Sat, 21 Nov 2026 17:02:30 GMT",
+        "source": "Match Tenis",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjVVeEVTcUhfX1VvejBmakhKV1dLOUpabmVlZTJPQWtSNEI3Vl9kUWtFX3dDbFQ4eExxNkNjdU02dXJNRkE2Wmk0WFBOeG9nNDlRa29yYUlRS1NZX2VLV08zTGlDT2VjLXBBQmJHMi1DT0U5SUFiVEFJNkw0WFg5NmZnV1hfS3B2Snc?oc=5",
+        "title": "Marcadores en directo y resultados de los H2H Salvador Price Richard Mallory - Sofascore",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjVVeEVTcUhfX1VvejBmakhKV1dLOUpabmVlZTJPQWtSNEI3Vl9kUWtFX3dDbFQ4eExxNkNjdU02dXJNRkE2Wmk0WFBOeG9nNDlRa29yYUlRS1NZX2VLV08zTGlDT2VjLXBBQmJHMi1DT0U5SUFiVEFJNkw0WFg5NmZnV1hfS3B2Snc?oc=5",
+        "date": "Sat, 21 Nov 2026 12:43:17 GMT",
+        "source": "Sofascore",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc3dlLUNtNVVSWF9OYXdwYS1CczJMdlU4QVVWSnl0RF9NZ3ZDcnoxYWpqOHBBNmtrVUlrNkRuYndadEVXTTJ4VC12UGF3eTRLOTN5TDZOd1g5NERDdUp1elM5VWhac0dxbFlSLWIyX2FEbEFUSzlQSjJQYk9yS2FSaTVhZkl2X0NJM1A1RlBiaFA5eXlXaFJNS05VdGVPZ0hBX0h3T2dmc2JEbzc1amFzM2lVa2hDY3VydEMyMFFWSDVxUFlPU2hJUDRoN3JPMFdmb0h0LVctNnhvLXVQTjN3eUtUQ1ZoMzhFV3dRQ05oTFBEeFA1?oc=5",
+        "title": "Horario y dónde ver por TV y online la final entre Alcaraz y Zverev en las ATP Finals 2026 - Eurosport",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc3dlLUNtNVVSWF9OYXdwYS1CczJMdlU4QVVWSnl0RF9NZ3ZDcnoxYWpqOHBBNmtrVUlrNkRuYndadEVXTTJ4VC12UGF3eTRLOTN5TDZOd1g5NERDdUp1elM5VWhac0dxbFlSLWIyX2FEbEFUSzlQSjJQYk9yS2FSaTVhZkl2X0NJM1A1RlBiaFA5eXlXaFJNS05VdGVPZ0hBX0h3T2dmc2JEbzc1amFzM2lVa2hDY3VydEMyMFFWSDVxUFlPU2hJUDRoN3JPMFdmb0h0LVctNnhvLXVQTjN3eUtUQ1ZoMzhFV3dRQ05oTFBEeFA1?oc=5",
+        "date": "Sat, 21 Nov 2026 16:20:00 GMT",
+        "source": "Eurosport",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ0xfZmJlTUZmRE1RSHBuNUhqal9SY1FQSDdqXzFKQThPbzNKa3lIV2NUREZOYXRsTGlFTmZMQ0VOT2p3VlFZU2RMMkxlc25UbUxZYnQ2eVhEMnRsUmllMU9WWE5pZnNUYUNFUzBKamdxN2QxckwzR1E2NDZNd1N1ZmtDcTJXalprSlJfUHl4U1E4VkxjSGxZM293N2o0NDdaUTRYcFhlVkg1SG4wY2djNHNCMTRwWExOMS1uVDg3WTU5YkpLdkM0YUdHdktBRG5RbWpqeEZrWDB0bUZMUjVHcU1tQnBRTEnSAfsBQVVfeXFMT0xRUzBmMkJjNjFxcjVHMVl0dEpzSVhuRmsxTU1VMUFBVTVqMElsOTUtaks5MzdrQ01qS0RuUU9xUGtScG54VTBxZkNaV2FXc1h4OEpMczZjLTctNTdBUzZYQnZIM3NVcUJabDBUZE1ocnhkRFJENWljRHk5NU1xNDI1ampTb19UUVlTYi1RSHVQTlpQU0FZWHNNRHJGOVJxNFZ1TFdQNEtFdnVLNFBvQUFmOFlMeXNtRkZsdFdzb0lJQ0oxOGtxZGpFYV9ONzcyYWdNSFl5S3AtNTlfOGRvNXJUMlI1YUY1bUhqNmFiOXQyZjF5V0VyeFplTDg?oc=5",
+        "title": "¿A qué hora es el Alcaraz - Zverev? TV, horario, cómo y dónde ver la final de las ATP Finals 2026 - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ0xfZmJlTUZmRE1RSHBuNUhqal9SY1FQSDdqXzFKQThPbzNKa3lIV2NUREZOYXRsTGlFTmZMQ0VOT2p3VlFZU2RMMkxlc25UbUxZYnQ2eVhEMnRsUmllMU9WWE5pZnNUYUNFUzBKamdxN2QxckwzR1E2NDZNd1N1ZmtDcTJXalprSlJfUHl4U1E4VkxjSGxZM293N2o0NDdaUTRYcFhlVkg1SG4wY2djNHNCMTRwWExOMS1uVDg3WTU5YkpLdkM0YUdHdktBRG5RbWpqeEZrWDB0bUZMUjVHcU1tQnBRTEnSAfsBQVVfeXFMT0xRUzBmMkJjNjFxcjVHMVl0dEpzSVhuRmsxTU1VMUFBVTVqMElsOTUtaks5MzdrQ01qS0RuUU9xUGtScG54VTBxZkNaV2FXc1h4OEpMczZjLTctNTdBUzZYQnZIM3NVcUJabDBUZE1ocnhkRFJENWljRHk5NU1xNDI1ampTb19UUVlTYi1RSHVQTlpQU0FZWHNNRHJGOVJxNFZ1TFdQNEtFdnVLNFBvQUFmOFlMeXNtRkZsdFdzb0lJQ0oxOGtxZGpFYV9ONzcyYWdNSFl5S3AtNTlfOGRvNXJUMlI1YUY1bUhqNmFiOXQyZjF5V0VyeFplTDg?oc=5",
+        "date": "Sun, 22 Nov 2026 12:01:04 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnNUeXdLbEstV3hCbFVNZlFqUEUyeWpIS0pqQ2t6RjlWU2g1UjM5SE9YVUlETnlkdDN5RTdZS2tac0FnaXptZGtVa1lfYnhmUEp3T3hWd1lzaHB4eEtfaEtrejU0QkR1UmlGRTIzdUJtWXM4aTVLRjBhREUzRW9OX0NndVhHVHNvUGc?oc=5",
+        "title": "Marcadores en directo y resultados de los H2H Lanlana Tararudee Jil Teichmann - Sofascore",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnNUeXdLbEstV3hCbFVNZlFqUEUyeWpIS0pqQ2t6RjlWU2g1UjM5SE9YVUlETnlkdDN5RTdZS2tac0FnaXptZGtVa1lfYnhmUEp3T3hWd1lzaHB4eEtfaEtrejU0QkR1UmlGRTIzdUJtWXM4aTVLRjBhREUzRW9OX0NndVhHVHNvUGc?oc=5",
+        "date": "Sat, 21 Nov 2026 06:15:00 GMT",
+        "source": "Sofascore",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54a0otV2xlRHA1UEh4bVJWbXpsTXpWaWtjTDMtUDFUYXlOTGx5YXMtcUFnUDdTWXMxd1ZodGpaMVVkSDMzdXl5YnZyMzVHNThfUDJPREhlQUx3T3BpTnNhYS1Mam00dmdnOTRFRGMtREcyVXM1a0ow0gGLAUFVX3lxTE9BM1ptMzI2NVNYN01mc2RPYnJCNnFKN25PMnYwdkliNG15dmpLaWJEQTVHMU8yWndGWEFPSVhqeGRNSFNZeWpXTl91ZTVCQ0RqSHh2aXlvM2laZXVHNm9PV29wNHRNdXZlTlBiNGxFbWZuYWp0RDExTkV6UENhYXpMLWY2NGxERjJFOFE?oc=5",
+        "title": "Landaluce, cabeza de serie número uno - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54a0otV2xlRHA1UEh4bVJWbXpsTXpWaWtjTDMtUDFUYXlOTGx5YXMtcUFnUDdTWXMxd1ZodGpaMVVkSDMzdXl5YnZyMzVHNThfUDJPREhlQUx3T3BpTnNhYS1Mam00dmdnOTRFRGMtREcyVXM1a0ow0gGLAUFVX3lxTE9BM1ptMzI2NVNYN01mc2RPYnJCNnFKN25PMnYwdkliNG15dmpLaWJEQTVHMU8yWndGWEFPSVhqeGRNSFNZeWpXTl91ZTVCQ0RqSHh2aXlvM2laZXVHNm9PV29wNHRNdXZlTlBiNGxFbWZuYWp0RDExTkV6UENhYXpMLWY2NGxERjJFOFE?oc=5",
+        "date": "Sat, 21 Nov 2026 23:51:50 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHZ6Q0tHaU5xdWFMZzU2N2RzRzBvdHF1Y0YtbXRrb09oWFluSmRscUNhQ3NoMUpjZm1aRUtlTko1STUzRWR4M2pPa1l1MGhHQlJrbFh2dWR5alRMTzd1enVJTy1yaGNUMEFCY2x0Vk1JU1dYaF81RzNnTnpuWmhLWGo5cXA?oc=5",
+        "title": "Alcaraz: un ganador total en grandes finales - ATP Tour",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHZ6Q0tHaU5xdWFMZzU2N2RzRzBvdHF1Y0YtbXRrb09oWFluSmRscUNhQ3NoMUpjZm1aRUtlTko1STUzRWR4M2pPa1l1MGhHQlJrbFh2dWR5alRMTzd1enVJTy1yaGNUMEFCY2x0Vk1JU1dYaF81RzNnTnpuWmhLWGo5cXA?oc=5",
+        "date": "Sun, 22 Nov 2026 20:55:14 GMT",
+        "source": "ATP Tour",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmN3V1RQbE5XOGpWQzlNeTgwdk5FbUphSWZhUUlxd05zdHBaXzBkUEpTOGhPN29KakJPNUZ0ektkOEtISG1yX2M4ejNQM3pIcUxTeHFwbkVuNWJObTJxV1prbF93OEFfLWFnNUVYdE1TeERoRFlqRDYxLVIxcnZBbTAzOUVaN0U1cEgyd0h5SkpWRUxPQ3NLVlFvZTg5YzBkN3V1WVRhNm1QLTkzS2pWVElyS1lIWW1xcG5BT0doSzJUekRf0gHYAUFVX3lxTE83SWtPa2VJWTBRd3VhTGxtS3BoN1d1SDFRTEJBNVBoeVFSM2xSNnpKQ3RId2V5UVd0UkdVNGlubGJBNGZCcXVBMkVtalFtOTFvYkRWaUlsc3lONlVVYnl3OUNwSmVwMDNGendudG1xalMyZVYtX2RIMWVjeVMyQUpzeDVfSFpvMmVzTGExOUt6RW9SR1pRR1dzZXB6WU5IXzFsVkg1WjZQNnJJelhhVHlRaEFId296cGNjdzlBSzFORW8weVVvbVBXYTJkRnZKQUNRLXBlbFFLRQ?oc=5",
+        "title": "El maestro Alcaraz, hasta donde él quiera: ni el isquio ni Zverev pudieron con él - EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmN3V1RQbE5XOGpWQzlNeTgwdk5FbUphSWZhUUlxd05zdHBaXzBkUEpTOGhPN29KakJPNUZ0ektkOEtISG1yX2M4ejNQM3pIcUxTeHFwbkVuNWJObTJxV1prbF93OEFfLWFnNUVYdE1TeERoRFlqRDYxLVIxcnZBbTAzOUVaN0U1cEgyd0h5SkpWRUxPQ3NLVlFvZTg5YzBkN3V1WVRhNm1QLTkzS2pWVElyS1lIWW1xcG5BT0doSzJUekRf0gHYAUFVX3lxTE83SWtPa2VJWTBRd3VhTGxtS3BoN1d1SDFRTEJBNVBoeVFSM2xSNnpKQ3RId2V5UVd0UkdVNGlubGJBNGZCcXVBMkVtalFtOTFvYkRWaUlsc3lONlVVYnl3OUNwSmVwMDNGendudG1xalMyZVYtX2RIMWVjeVMyQUpzeDVfSFpvMmVzTGExOUt6RW9SR1pRR1dzZXB6WU5IXzFsVkg1WjZQNnJJelhhVHlRaEFId296cGNjdzlBSzFORW8weVVvbVBXYTJkRnZKQUNRLXBlbFFLRQ?oc=5",
+        "date": "Sun, 22 Nov 2026 20:09:40 GMT",
+        "source": "EL PAÍS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1hUMlZzaHBEY0pnSkJMX1FOU1M1YjNXaDlRSlZfWlFBTWpmbG90YVh6U1JEamFIM0Y2WTV6YzlnN0Qzbkxzb1Bqcjl0OEJ5QVVzZVI5LW5rUXg0ZXl4UE1jcUNNQ1dPU2EwV21Pem1MMjVlakZTTDlKMExITm9KeHJZcGVzTHQyMk9pZWlSMA?oc=5",
+        "title": "Alcaraz regresa a la final de las Nitto ATP Finals - ATP Tour",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1hUMlZzaHBEY0pnSkJMX1FOU1M1YjNXaDlRSlZfWlFBTWpmbG90YVh6U1JEamFIM0Y2WTV6YzlnN0Qzbkxzb1Bqcjl0OEJ5QVVzZVI5LW5rUXg0ZXl4UE1jcUNNQ1dPU2EwV21Pem1MMjVlakZTTDlKMExITm9KeHJZcGVzTHQyMk9pZWlSMA?oc=5",
+        "date": "Sat, 21 Nov 2026 18:47:45 GMT",
+        "source": "ATP Tour",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVUxMFdWSG1EdFR1RHhpODFkUmpkbHNUeHFVSTlRbUF4RGdnQWRUaWJ3SnN1dmpjRGtfcW90N3RwR19yRzdGWDQ4UkFfZlowQVRTNk1aQ2hWZUg3RHJSQS1QSW9FNHl0RmQyb3BNTUt5aFBUVmYtaUlfQU1xZUhSdDI3ZkQ0UjAtZzZoWThPdjEtRzMyeTU2alZUV2NLRnJOd2cydnp6ek1KZU9tR1BGVjBmSWJEZmdhaWg1MXNfV3RlVFI2TXJV0gHUAUFVX3lxTE1xNTNmeGNGUXg0WTcxcUhvSGZTZDZzX3hWcGgtX0VBcUdSUFZfTVlsd0Y5ZzBnMHJDWXVjU005X0ZhdHlmdV9FdnIyVXUwUzhBaXZaamYxcEQ1UnhEQlJUT3hmZmJkVEtmNG1Uc3hpSUtiaUkzNW8tbFVMcC10cVpCck5iVUZzbV9vSGJ3VHl3ckxGb3RFcUNJSjBsMktEQTNxUEw5UGtvU3JQT0ZTSkozOVA1TkZ0eVp6UXVWMW5IY3BYb1FBRENXaTREVExyanJXQW83?oc=5",
+        "title": "Así queda el ranking mundial del año tras ganar Alcaraz las ATP Finals: al asalto del nº 1 - Mundo Deportivo",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVUxMFdWSG1EdFR1RHhpODFkUmpkbHNUeHFVSTlRbUF4RGdnQWRUaWJ3SnN1dmpjRGtfcW90N3RwR19yRzdGWDQ4UkFfZlowQVRTNk1aQ2hWZUg3RHJSQS1QSW9FNHl0RmQyb3BNTUt5aFBUVmYtaUlfQU1xZUhSdDI3ZkQ0UjAtZzZoWThPdjEtRzMyeTU2alZUV2NLRnJOd2cydnp6ek1KZU9tR1BGVjBmSWJEZmdhaWg1MXNfV3RlVFI2TXJV0gHUAUFVX3lxTE1xNTNmeGNGUXg0WTcxcUhvSGZTZDZzX3hWcGgtX0VBcUdSUFZfTVlsd0Y5ZzBnMHJDWXVjU005X0ZhdHlmdV9FdnIyVXUwUzhBaXZaamYxcEQ1UnhEQlJUT3hmZmJkVEtmNG1Uc3hpSUtiaUkzNW8tbFVMcC10cVpCck5iVUZzbV9vSGJ3VHl3ckxGb3RFcUNJSjBsMktEQTNxUEw5UGtvU3JQT0ZTSkozOVA1TkZ0eVp6UXVWMW5IY3BYb1FBRENXaTREVExyanJXQW83?oc=5",
+        "date": "Sun, 22 Nov 2026 19:19:54 GMT",
+        "source": "Mundo Deportivo",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXhzZkNCX0lNV1BkSExxRnAwcEVkd09Ma2tlci1xVHZnanYzbkZFUWxvM1J6aTVzN25vVXFmSG5iUFNIZTd1c3ltbFJDYmhHeW04bmVYWWhpMXhjZUE1b3FSNWtEd3RvY1FxbU5uSnNtUG1FeE9oNm9oYUJJT092X1ZrYmZMMDZFX1VYRHJ4blExdG5HZHNuTmlpSXpWZzdXNUE2dFRCV0hqSGc?oc=5",
+        "title": "Andrea Bocelli asiste al Zverev vs. Alcaraz en Turín - ATP Tour",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXhzZkNCX0lNV1BkSExxRnAwcEVkd09Ma2tlci1xVHZnanYzbkZFUWxvM1J6aTVzN25vVXFmSG5iUFNIZTd1c3ltbFJDYmhHeW04bmVYWWhpMXhjZUE1b3FSNWtEd3RvY1FxbU5uSnNtUG1FeE9oNm9oYUJJT092X1ZrYmZMMDZFX1VYRHJ4blExdG5HZHNuTmlpSXpWZzdXNUE2dFRCV0hqSGc?oc=5",
+        "date": "Sun, 22 Nov 2026 17:55:30 GMT",
+        "source": "ATP Tour",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUtKMVNNOU9XYTNLYVlCSTluXzhYVmszYk5BVm50VmtrNGwwTVYxMDBEN1E0aG5taDBVLXRjVGVlaXBwSk9VVklZT0JqTmZFYkx2b0NkX1pGelBieHF1a2hwaHdQSVN2bTVISGRsbmtwaW11NlFSdkRRck9qdjJtZ25n?oc=5",
+        "title": "¡20 años! Cuando Federer y Nadal se conocieron en las Nitto ATP Finals - ATP Tour",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUtKMVNNOU9XYTNLYVlCSTluXzhYVmszYk5BVm50VmtrNGwwTVYxMDBEN1E0aG5taDBVLXRjVGVlaXBwSk9VVklZT0JqTmZFYkx2b0NkX1pGelBieHF1a2hwaHdQSVN2bTVISGRsbmtwaW11NlFSdkRRck9qdjJtZ25n?oc=5",
+        "date": "Sat, 21 Nov 2026 07:39:20 GMT",
+        "source": "ATP Tour",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXc3eGtXQ2NEVXU1R3hpaHkxejRZeE9yOEl1VVBESnJvbXEtMkVwdWM5Q0w5cU1xSDU2QWo5Sk4zNUdMc0w3NjNCZWo5dWV1Y0M0RHNrLTNTejdBZ3JOVzRmM0pUY0RCNklYUXl4ODEyNUI1SE13N2JiTE9Pcjl0czhuN2ppZ08tSHV3U1dEdjd5N0JULWlKVVZmY9IBrwFBVV95cUxQMlJZMURoTUYzd0h5RDJ0X0hqVkx1WVZmN0psTkpYbXBoLWt1MHZHTkFQNDVnbDltWWFXUXFUNzlza0REQkFGRUpQSFdEREtXQ3cyMlB5dGFoRWhSOXRiV3VoaV94aGNRZV8wbUhuRDBaMDVyMnQtaWc4bi1ROXZ5X1hqdlBlTVhPWlp3YTJIY083V1RKbDN1S21kNE40T2RXS01ic3EzQWtoUEFoRlln?oc=5",
+        "title": "Alcaraz: “Llevaba mucho tiempo persiguiendo este trofeo” - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXc3eGtXQ2NEVXU1R3hpaHkxejRZeE9yOEl1VVBESnJvbXEtMkVwdWM5Q0w5cU1xSDU2QWo5Sk4zNUdMc0w3NjNCZWo5dWV1Y0M0RHNrLTNTejdBZ3JOVzRmM0pUY0RCNklYUXl4ODEyNUI1SE13N2JiTE9Pcjl0czhuN2ppZ08tSHV3U1dEdjd5N0JULWlKVVZmY9IBrwFBVV95cUxQMlJZMURoTUYzd0h5RDJ0X0hqVkx1WVZmN0psTkpYbXBoLWt1MHZHTkFQNDVnbDltWWFXUXFUNzlza0REQkFGRUpQSFdEREtXQ3cyMlB5dGFoRWhSOXRiV3VoaV94aGNRZV8wbUhuRDBaMDVyMnQtaWc4bi1ROXZ5X1hqdlBlTVhPWlp3YTJIY083V1RKbDN1S21kNE40T2RXS01ic3EzQWtoUEFoRlln?oc=5",
+        "date": "Sun, 22 Nov 2026 20:09:53 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQjducFR3RWpXRzVqM2VjdFl4NHNidkF6RXhOR2NiYldRT2YwVFJKOWxxX2czSWcyRDNCTzBZbjR1cjYwdmJ5ZzVpdVd1ZTVJTjZLM2ZHbGtaRTNqcnFLcnhDS0hJV2VWMDA0T2dGSEhQSTl4WmlkbnFTS0o4QQ?oc=5",
+        "title": "Landaluce regresa a las Next Gen ATP Finals - ATP Tour",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQjducFR3RWpXRzVqM2VjdFl4NHNidkF6RXhOR2NiYldRT2YwVFJKOWxxX2czSWcyRDNCTzBZbjR1cjYwdmJ5ZzVpdVd1ZTVJTjZLM2ZHbGtaRTNqcnFLcnhDS0hJV2VWMDA0T2dGSEhQSTl4WmlkbnFTS0o4QQ?oc=5",
+        "date": "Sat, 21 Nov 2026 14:25:05 GMT",
+        "source": "ATP Tour",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGZyN0hlbHVpUlZhWXl6MzAtV0d0V013VjNOUnJ6Z01zLWpsdjBjS05pWm9wRFdLYUF3Zk8yZjhob3YyZkVYTU8wbmtDZG04MDNYd0lOSFNRMGFyT3FuUmxxN0ZOYjR6MkUwMlZDa2h3dGFTbjRvdHUtbV8xeGVtMWdPcUozMnIzSnFqZlBJRXpJN0ZuRmYyazlLY2Y4dnc1TTBn0gG3AUFVX3lxTFBvU0M3Q0RfZ01oLUt1c3pHeXBWQmJTRmprOTJ0Yi1LelFkR1MyN20wNTNpUE1TREM5MGVYR3oyS3dzaXV3Mmc2RS03ck55TGNkZ1JUVEpaMWdVR3RJazdxcDFrd28tVUtWS1AzSGd3RTh2SnUxbXUxdEdCcDFpVFdvU1VrR0tpXy1kYzNPTFF2VnY1cXZucjZPeEJ5UDA4N0tFLTNtRHZNTVhTZ1BsYkN0dm1TYm9Edw?oc=5",
+        "title": "Alcaraz, tras el ‘factor Kirk Douglas’ de Orantes y la épica de Corretja - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGZyN0hlbHVpUlZhWXl6MzAtV0d0V013VjNOUnJ6Z01zLWpsdjBjS05pWm9wRFdLYUF3Zk8yZjhob3YyZkVYTU8wbmtDZG04MDNYd0lOSFNRMGFyT3FuUmxxN0ZOYjR6MkUwMlZDa2h3dGFTbjRvdHUtbV8xeGVtMWdPcUozMnIzSnFqZlBJRXpJN0ZuRmYyazlLY2Y4dnc1TTBn0gG3AUFVX3lxTFBvU0M3Q0RfZ01oLUt1c3pHeXBWQmJTRmprOTJ0Yi1LelFkR1MyN20wNTNpUE1TREM5MGVYR3oyS3dzaXV3Mmc2RS03ck55TGNkZ1JUVEpaMWdVR3RJazdxcDFrd28tVUtWS1AzSGd3RTh2SnUxbXUxdEdCcDFpVFdvU1VrR0tpXy1kYzNPTFF2VnY1cXZucjZPeEJ5UDA4N0tFLTNtRHZNTVhTZ1BsYkN0dm1TYm9Edw?oc=5",
+        "date": "Sun, 22 Nov 2026 19:25:17 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOU44bV91RXVIVmVoSkU4c2UtZkZfTjFuNFVCNk9uMjRuR0VBWkdmcGhmalpad0RlOHBBckJGWHBfbGtMbkUwUFNLRWtZYkZsSnd4M3ZCeWxZeGd1bXdOZEdrUVdKenlGUVUtWDExeXoydEJuVnhPaUhmaXNOR1c1WmM0eTJmbUFDNjF3dGMyZmpPSXNXNXlyZ9IBrAFBVV95cUxNZDAxdFo1aGRlTG9RdUZmV1F2V2xaMDVLTGl4VzEzNWZaeWd0cjExOU5NUDJtY0xuNXg0MjUzVlN3Y003Rm9IdnY2S05kWm5aM0hkOGlPMmZtb0pVYXdZTEVEYlZHSXFONFc5VzRJOEtxNWZGVmlCWXN0ejRfVjQ1am5sak4tLUVNbDlvTUs2R0FqbERhTXYyLTdzZlB3SGt3aWJkczVyd3Y1R1Ex?oc=5",
+        "title": "Alcaraz repite su fórmula de éxito antes de la final - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOU44bV91RXVIVmVoSkU4c2UtZkZfTjFuNFVCNk9uMjRuR0VBWkdmcGhmalpad0RlOHBBckJGWHBfbGtMbkUwUFNLRWtZYkZsSnd4M3ZCeWxZeGd1bXdOZEdrUVdKenlGUVUtWDExeXoydEJuVnhPaUhmaXNOR1c1WmM0eTJmbUFDNjF3dGMyZmpPSXNXNXlyZ9IBrAFBVV95cUxNZDAxdFo1aGRlTG9RdUZmV1F2V2xaMDVLTGl4VzEzNWZaeWd0cjExOU5NUDJtY0xuNXg0MjUzVlN3Y003Rm9IdnY2S05kWm5aM0hkOGlPMmZtb0pVYXdZTEVEYlZHSXFONFc5VzRJOEtxNWZGVmlCWXN0ejRfVjQ1am5sak4tLUVNbDlvTUs2R0FqbERhTXYyLTdzZlB3SGt3aWJkczVyd3Y1R1Ex?oc=5",
+        "date": "Sun, 22 Nov 2026 11:30:07 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNEN4V3o5UjZ3TFlYZlNFclR5ME5XUE5oVkQ4bzdfbzZURVhYWmZYdkF3R0Q2NlZPOGEzVXZmMkVabXRwX3NrdW1CSW8yRkhaTWF4TVJFbDFFcWFtT1NvcHlZZGdNeWwwR1NVQkNXRdIBgwFBVV95cUxOeGx4Y09rTEFKam1ELXo4NTE1bnBpa2M4RGlWQ3NiR0dHZjNSNmV5RDRSa2JiMTg2ZUt5VEtiRVp5d2hsdWRwS1ZHdHNlNEY3MjFkS0U5X3g5QzRueWprdWFrQ2pKU1B3T0lqc21tNDVPMzFMQ0s4VlhkaHhscTJsMUFEaw?oc=5",
+        "title": "Un Maestro de hierro - Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNEN4V3o5UjZ3TFlYZlNFclR5ME5XUE5oVkQ4bzdfbzZURVhYWmZYdkF3R0Q2NlZPOGEzVXZmMkVabXRwX3NrdW1CSW8yRkhaTWF4TVJFbDFFcWFtT1NvcHlZZGdNeWwwR1NVQkNXRdIBgwFBVV95cUxOeGx4Y09rTEFKam1ELXo4NTE1bnBpa2M4RGlWQ3NiR0dHZjNSNmV5RDRSa2JiMTg2ZUt5VEtiRVp5d2hsdWRwS1ZHdHNlNEY3MjFkS0U5X3g5QzRueWprdWFrQ2pKU1B3T0lqc21tNDVPMzFMQ0s4VlhkaHhscTJsMUFEaw?oc=5",
+        "date": "Sun, 22 Nov 2026 19:34:27 GMT",
+        "source": "Diario AS",
+        "topic": "Tenis"
+      },
+      {
+        "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmN0NldFR2w0VFYtNDJXTHdUMVYwTWtNVlh5Z2Etb0RIZUNHcHBXazhlRUYzcFVhXzNCU0NTYWd1Q09YOXczUXg2bkw0NXEtaWxkRVdGMWRUd3FDaldab3dSV2NUVzZpMFVTaTZuTm5nN21ZRzdnLUFLSUlSUXVNOEZFa3VNMmlxbGY2TzVFU00wLXJGaFlxczJCRndYRFA5dEFLdXp6c0NkNlpEZENBWkcwVE9JZ3RmV2RxMV9wSmg3UQ?oc=5",
+        "title": "Arthur Fils, an insufficient ray of light in French tennis: \"Our tennis players don't understand the game\" - Punto de Break",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmN0NldFR2w0VFYtNDJXTHdUMVYwTWtNVlh5Z2Etb0RIZUNHcHBXazhlRUYzcFVhXzNCU0NTYWd1Q09YOXczUXg2bkw0NXEtaWxkRVdGMWRUd3FDaldab3dSV2NUVzZpMFVTaTZuTm5nN21ZRzdnLUFLSUlSUXVNOEZFa3VNMmlxbGY2TzVFU00wLXJGaFlxczJCRndYRFA5dEFLdXp6c0NkNlpEZENBWkcwVE9JZ3RmV2RxMV9wSmg3UQ?oc=5",
+        "date": "Sat, 21 Nov 2026 12:38:38 GMT",
+        "source": "Punto de Break",
+        "topic": "Tenis"
+      }
+    ]
+  },
+  "errors": {}
+}
