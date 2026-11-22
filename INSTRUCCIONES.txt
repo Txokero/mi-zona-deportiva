@@ -1,0 +1,13 @@
+MI ZONA DEPORTIVA V1.4
+
+La versión 1.4 utiliza un archivo news.json actualizado por GitHub Actions cada hora (horario aproximado).
+Para ponerla en funcionamiento:
+1. Crea una cuenta gratuita de GitHub, si no tienes.
+2. Crea un repositorio PÚBLICO nuevo, por ejemplo mi-zona-deportiva.
+3. Sube los archivos del ZIP manteniendo la carpeta .github/workflows/news.yml.
+4. En Settings > Pages > Build and deployment, selecciona Deploy from a branch, main, /(root), Save.
+5. En Actions > Actualizar noticias deportivas > Run workflow, ejecuta la primera actualización.
+6. Abre la dirección que aparece en Settings > Pages tras la publicación.
+
+La ejecución programada de GitHub Actions puede retrasarse. GitHub Pages es público; no subas datos privados. No hace falta comprar un dominio ni usar Raiola.
+Si abres index.html desde Descargas de Android, no cargará automáticamente news.json.
