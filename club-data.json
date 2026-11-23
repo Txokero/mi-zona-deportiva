@@ -20,17 +20,20 @@
         {
           "number": 3,
           "name": "Vivian",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/daniel-vivian-moreno.png"
         },
         {
           "number": 4,
           "name": "Paredes",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/aitor-paredes-casamichana.png"
         },
         {
           "number": 5,
           "name": "Yeray",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/yeray-alvarez-lopez_L.png"
         },
         {
           "number": 12,
@@ -53,97 +56,116 @@
         {
           "number": 17,
           "name": "Yuri",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/yuri-berchiche-izeta.png"
         },
         {
           "number": 31,
           "name": "Johaneko",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/johaneko-louis-jean_L.png"
         },
         {
           "number": null,
           "name": "Egiluz",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/unai-egiluz-arroyo_L.png"
         },
         {
           "number": 6,
           "name": "Prados",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/benat-prados-diaz.png"
         },
         {
           "number": 8,
           "name": "O. Sancet",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/oihan-sancet-tirapu.png"
         },
         {
           "number": 16,
           "name": "R. de Galarreta",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/inigo-ruiz-de-galarreta-etxeberria.png"
         },
         {
           "number": 18,
           "name": "Jauregizar",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/mikel-jauregizar-alboniga.png"
         },
         {
           "number": 20,
           "name": "Rego",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/alejandro-rego-mora.png"
         },
         {
           "number": 24,
           "name": "Gerenabarrena",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/benat-gerenabarrena-zendoia.png"
         },
         {
           "number": 28,
           "name": "Canales",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/peio-canales-urtasun.png"
         },
         {
           "number": 44,
           "name": "Selton",
-          "position": "Centrocampista"
+          "position": "Centrocampista",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/selton-sued-sanchez-camilo.png"
         },
         {
           "number": 7,
           "name": "Berenguer",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/alejandro-berenguer-remiro.png"
         },
         {
           "number": 9,
           "name": "Williams",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/inaki-williams-arthuer_L.png"
         },
         {
           "number": 10,
           "name": "Nico Williams",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/nico-williams-arthuer_L.png"
         },
         {
           "number": 11,
           "name": "Guruzeta",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/gorka-guruzeta-rodriguez.png"
         },
         {
           "number": 21,
           "name": "Maroan",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/maroan-sannadi-harrouch.png"
         },
         {
           "number": 22,
           "name": "Nico Serrano",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/nicolas-serrano-galdeano.png"
         },
         {
           "number": 23,
           "name": "Navarro",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/robert-navarro-munoz.png"
         },
         {
           "number": 25,
           "name": "Djaló",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/alvaro-djalo-dias-fernandes.png"
         },
         {
           "number": 33,
