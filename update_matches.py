@@ -5,6 +5,7 @@ import datetime as dt
 import json
 import pathlib
 import urllib.request
+from zoneinfo import ZoneInfo
 
 PATH=pathlib.Path(__file__).with_name("club-data.json")
 BASE="https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard"
@@ -51,7 +52,7 @@ def update():
             if not home or not away:continue
             date_text=event.get("date","")
             try:
-                timestamp=dt.datetime.fromisoformat(date_text.replace("Z","+00:00")).astimezone(dt.timezone(dt.timedelta(hours=1)))
+                timestamp=dt.datetime.fromisoformat(date_text.replace("Z","+00:00")).astimezone(ZoneInfo('Europe/Madrid'))
             except ValueError:continue
             item={"date":timestamp.date().isoformat(),"home":TARGET if normalized(home["team"].get("displayName","")) in ALIASES else home["team"].get("displayName",""),"away":TARGET if normalized(away["team"].get("displayName","")) in ALIASES else away["team"].get("displayName",""),"competition":"LaLiga","source":"ESPN","eventId":str(eid)}
             status=event.get("status",{}).get("type",{})
