@@ -1,8 +1,8 @@
-name: Actualizar noticias deportivas
+name: Actualizar noticias y resultados deportivos
 
 on:
   schedule:
-    - cron: '15 * * * *'
+    - cron: '17 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,6 +26,9 @@ jobs:
       - name: Actualizar noticias
         run: python update_news.py
 
+      - name: Actualizar resultados y próximos partidos de LaLiga
+        run: python update_matches.py
+
       - name: Actualizar fotografías de jugadores
         run: python update_photos.py
 
@@ -34,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json club-data.json
-          git diff --cached --quiet || git commit -m "Actualizar noticias deportivas"
+          git diff --cached --quiet || git commit -m "Actualizar noticias y datos deportivos"
           git push
