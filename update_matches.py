@@ -78,6 +78,12 @@ def update():
             continue
         club.setdefault("results",[]).append(match_new)
         added+=1
+    # Retirar de próximos partidos los encuentros que ESPN confirma como finalizados.
+    # No se borran partidos por una simple ausencia en el proveedor.
+    completed_ids={x["eventId"] for x in past}
+    before=len(club.get("upcoming",[]))
+    club["upcoming"]=[x for x in club.get("upcoming",[]) if not (x.get("eventId") in completed_ids or (any(match(x,p) for p in past) and ("LaLiga" in x.get("competition","") or x.get("source")=="ESPN"))]
+    removed=before-len(club["upcoming"])
     # Los encuentros de LaLiga en la ventana se actualizan si coinciden por equipos y fecha.
     for match_new in future:
         existing=next((x for x in club.get("upcoming",[]) if match(x,match_new)),None)
@@ -91,9 +97,9 @@ def update():
     club["results"].sort(key=lambda x:x.get("date",""),reverse=True)
     club["upcoming"].sort(key=lambda x:x.get("date",""))
     # No borrar encuentros futuros automáticamente: la fuente puede estar incompleta.
-    if added or revised:
-        data["automaticUpdate"]={"source":"ESPN LaLiga","checkedAt":dt.datetime.now(dt.timezone.utc).isoformat(),"scope":"Athletic Club: LaLiga","added":added,"revised":revised}
+    if added or revised or removed:
+        data["automaticUpdate"]={"source":"ESPN LaLiga","checkedAt":dt.datetime.now(dt.timezone.utc).isoformat(),"scope":"Athletic Club: LaLiga","added":added,"revised":revised,"removedCompleted":removed}
         PATH.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("Consultas:",successes,"nuevos:",added,"horarios corregidos:",revised)
+    print("Consultas:",successes,"nuevos:",added,"horarios corregidos:",revised,"partidos finalizados retirados:",removed)
 if __name__=="__main__":
     update()
