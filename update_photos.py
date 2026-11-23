@@ -49,7 +49,7 @@ def update_club(club,url):
     if photo:candidates.append(photo)
   if len(set(candidates))==1:
    photo=candidates[0]
-   if p.get('photo')!=photo:p['photo']=photo;updated+=1
+   if not p.get('photo'):p['photo']=photo;updated+=1
  return updated
 ATHLETIC_FULL_NAMES={
 'Unai Simón':'Simón Mendibil Unai','Padilla':'Padilla Pérez Alex','Vivian':'Vivian Moreno Daniel','Paredes':'Paredes Casamichana Aitor','Yeray':'Álvarez López Yeray','Areso':'Areso Blanco Jesús','Laporte':'Laporte Aymeric','H. Rincón':'Rincón Lumbreras Hugo','Yuri':'Berchiche Izeta Yuri','Johaneko':'Louis-Jean Johaneko','Egiluz':'Eguíluz Arroyo Unai','Prados':'Prados Díaz Beñat','O. Sancet':'Sancet Tirapu Oihan','R. de Galarreta':'Ruiz de Galarreta Etxeberria Iñigo','Jauregizar':'Jauregizar Alboniga Mikel','Rego':'Rego Mora Alejandro','Gerenabarrena':'Gerenabarrena Zendoia Beñat','Canales':'Canales Urtasun Peio','Selton':'Sánchez Camilo Selton Sued','Berenguer':'Berenguer Remiro Alejandro','Williams':'Williams Arthuer Iñaki','Nico Williams':'Williams Arthuer Nicholas','Guruzeta':'Guruzeta Rodríguez Gorka','Maroan':'Sannadi Harrouch Maroan','Nico Serrano':'Serrano Galdeano Nicolás','Navarro':'Navarro Muñoz Robert','Djaló':'Djaló Dias Fernandes Álvaro','Imga':'Imga Mitogo Christian','Vizcay':'Vizcay Hurtado Jesús','Conde':'Conde Albiol Aritz'}
