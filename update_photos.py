@@ -51,8 +51,26 @@ def update_club(club,url):
    photo=candidates[0]
    if p.get('photo')!=photo:p['photo']=photo;updated+=1
  return updated
+ATHLETIC_FULL_NAMES={
+'Unai Simón':'Simón Mendibil Unai','Padilla':'Padilla Pérez Alex','Vivian':'Vivian Moreno Daniel','Paredes':'Paredes Casamichana Aitor','Yeray':'Álvarez López Yeray','Areso':'Areso Blanco Jesús','Laporte':'Laporte Aymeric','H. Rincón':'Rincón Lumbreras Hugo','Yuri':'Berchiche Izeta Yuri','Johaneko':'Louis-Jean Johaneko','Egiluz':'Eguíluz Arroyo Unai','Prados':'Prados Díaz Beñat','O. Sancet':'Sancet Tirapu Oihan','R. de Galarreta':'Ruiz de Galarreta Etxeberria Iñigo','Jauregizar':'Jauregizar Alboniga Mikel','Rego':'Rego Mora Alejandro','Gerenabarrena':'Gerenabarrena Zendoia Beñat','Canales':'Canales Urtasun Peio','Selton':'Sánchez Camilo Selton Sued','Berenguer':'Berenguer Remiro Alejandro','Williams':'Williams Arthuer Iñaki','Nico Williams':'Williams Arthuer Nicholas','Guruzeta':'Guruzeta Rodríguez Gorka','Maroan':'Sannadi Harrouch Maroan','Nico Serrano':'Serrano Galdeano Nicolás','Navarro':'Navarro Muñoz Robert','Djaló':'Djaló Dias Fernandes Álvaro','Imga':'Imga Mitogo Christian','Vizcay':'Vizcay Hurtado Jesús','Conde':'Conde Albiol Aritz'}
 def athletic():
- return update_club('Athletic Club','https://www.athletic-club.eus/equipos/athletic-club/2026-27/plantilla/')
+ url='https://www.athletic-club.eus/equipos/athletic-club/2026-27/plantilla/'
+ soup=get(url)
+ found={}
+ for img in soup.find_all('img'):
+  alt=norm(img.get('alt',''))
+  photo=src(img,url)
+  if alt and photo and not any(x in photo.lower() for x in ('logo','escudo','badge','flag','sponsor')):
+   found.setdefault(alt,set()).add(photo)
+ updated=0
+ for p in data['clubs']['Athletic Club']['squad']:
+  key=norm(ATHLETIC_FULL_NAMES.get(p['name'],''))
+  candidates=found.get(key,set())
+  if len(candidates)==1:
+   photo=next(iter(candidates))
+   if p.get('photo')!=photo:p['photo']=photo;updated+=1
+ print('Athletic: imágenes con alt:',len(found),'coincidencias:',sum(len(found.get(norm(x),set()))==1 for x in ATHLETIC_FULL_NAMES.values()))
+ return updated
 def recre():
  return update_club('Recreativo de Huelva','https://www.recreativohuelva.com/la-plantilla/')
 for label,fn in [('Athletic',athletic),('Recreativo',recre)]:
