@@ -1,6 +1,7 @@
 """Actualiza retratos desde las páginas oficiales, sin inventar asociaciones."""
 import json, pathlib, re, unicodedata, urllib.request
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 ROOT=pathlib.Path(__file__).parent
 path=ROOT/'club-data.json'
 data=json.loads(path.read_text(encoding='utf-8'))
@@ -10,21 +11,24 @@ def norm(s):
 def get(url):
  req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; SportsRosterUpdater/1.0)'})
  with urllib.request.urlopen(req,timeout=30) as r:return BeautifulSoup(r.read(3_000_000),'html.parser')
-def src(img):
- for attr in ('data-src','data-lazy-src','src'):
-  value=img.get(attr,'')
-  if value.startswith('https://'):return value
-  if value.startswith('//'):return 'https:'+value
+def src(img,base):
+ for attr in ('data-src','data-lazy-src','data-original','src','srcset','data-srcset'):
+  value=(img.get(attr,'') or '').strip()
+  if not value:continue
+  if attr.endswith('srcset'):value=value.split(',')[0].strip().split(' ')[0]
+  if value.startswith('data:') or value.endswith('.svg'):continue
+  url=urljoin(base,value)
+  if url.startswith('https://'):return url
  return ''
 def athletic():
  soup=get('https://www.athletic-club.eus/equipos/athletic-club/2026-27/plantilla/')
  matches={}
  for img in soup.find_all('img'):
-  url=src(img)
-  if 'cdn.athletic-club.eus/imagenes/player_images/' not in url:continue
+  url=src(img,'https://www.athletic-club.eus/')
+  if not url:continue
   alt=norm(img.get('alt',''))
   if not alt:continue
-  matches[alt]=url
+  if alt not in matches:matches[alt]=url
  # La web publica nombre completo en el alt y nombre deportivo en el título.
  names={
  'Unai Simón':'simón mendibil unai','Padilla':'padilla pérez alex','Vivian':'vivian moreno daniel',
@@ -57,7 +61,7 @@ def recre():
   candidates=[]
   for img in soup.find_all('img'):
    alt=norm(img.get('alt',''))
-   url=src(img)
+   url=src(img,'https://www.recreativohuelva.com/')
    if alt and (alt==name or (len(name)>5 and name in alt)) and url and not any(x in url.lower() for x in ('logo','escudo')):
     candidates.append(url)
   if len(set(candidates))==1:
