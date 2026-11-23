@@ -679,7 +679,32 @@
       ],
       "standingsSource": "https://www.laliga.com/laliga-easports/clasificacion",
       "resultsSource": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/partidos/",
-      "upcomingSource": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/partidos/"
+      "upcomingSource": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/partidos/",
+      "topScorers": [
+        {
+          "name": "Álex Berenguer",
+          "goals": 4
+        },
+        {
+          "name": "Iñaki Williams",
+          "goals": 2
+        },
+        {
+          "name": "Aitor Paredes",
+          "goals": 2
+        },
+        {
+          "name": "Robert Navarro",
+          "goals": 2
+        },
+        {
+          "name": "Nico Williams",
+          "goals": 2
+        }
+      ],
+      "topScorersSource": "https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/athletic-club",
+      "topScorersUpdated": "2026-11-23",
+      "topScorersCompetition": "LaLiga EA Sports 2026/27"
     },
     "Recreativo de Huelva": {
       "source": "https://www.recreativohuelva.com/la-plantilla/",
@@ -1289,7 +1314,32 @@
       ],
       "standingsSource": "https://oncedeoro.es/segunda-rfef/grupo-4/clasificacion/",
       "resultsSource": "https://nuevo.futbolme.com/resultados-directo/equipo/rc-recreativo-de-huelva/464/calendario/",
-      "upcomingSource": "https://www.resultadosrfef.es/equipo/recreativo-huelva-1886/calendario"
+      "upcomingSource": "https://www.resultadosrfef.es/equipo/recreativo-huelva-1886/calendario",
+      "topScorers": [
+        {
+          "name": "Aitor García",
+          "goals": 6
+        },
+        {
+          "name": "Ale Marín",
+          "goals": 4
+        },
+        {
+          "name": "Agustín Alonso",
+          "goals": 4
+        },
+        {
+          "name": "Juan Antonio Segura García",
+          "goals": 2
+        },
+        {
+          "name": "José Carlos",
+          "goals": 2
+        }
+      ],
+      "topScorersSource": "https://wanafutbol.com/equipo/rc-recreativo-de-huelva-sad-campeonato-de-segunda-federacion",
+      "topScorersUpdated": "2026-11-23",
+      "topScorersCompetition": "Segunda Federación 2026/27 · 11 partidos con acta"
     }
   },
   "standingsUpdated": "2026-11-22",
