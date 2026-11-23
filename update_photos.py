@@ -20,54 +20,41 @@ def src(img,base):
   url=urljoin(base,value)
   if url.startswith('https://'):return url
  return ''
-def athletic():
- soup=get('https://www.athletic-club.eus/equipos/athletic-club/2026-27/plantilla/')
- matches={}
- for img in soup.find_all('img'):
-  url=src(img,'https://www.athletic-club.eus/')
-  if not url:continue
-  alt=norm(img.get('alt',''))
-  if not alt:continue
-  if alt not in matches:matches[alt]=url
- # La web publica nombre completo en el alt y nombre deportivo en el título.
- names={
- 'Unai Simón':'simón mendibil unai','Padilla':'padilla pérez alex','Vivian':'vivian moreno daniel',
- 'Paredes':'paredes casamichana aitor','Yeray':'álvarez lópez yeray','Areso':'areso blanco jesús',
- 'Laporte':'laporte aymeric','H. Rincón':'rincón lumbreras hugo','Yuri':'berchiche izeta yuri',
- 'Johaneko':'louis-jean johaneko','Egiluz':'eguíluz arroyo unai',
- 'Prados':'prados díaz beñat','O. Sancet':'sancet tirapu oihan',
- 'R. de Galarreta':'ruiz de galarreta etxeberria iñigo','Jauregizar':'jauregizar alboniga mikel',
- 'Rego':'rego mora alejandro','Gerenabarrena':'gerenabarrena zendoia beñat',
- 'Canales':'canales urtasun peio','Selton':'sánchez camilo selton sued',
- 'Berenguer':'berenguer remiro alejandro','Williams':'williams arthuer iñaki',
- 'Nico Williams':'williams arthuer nicholas','Guruzeta':'guruzeta rodríguez gorka',
- 'Maroan':'sannadi harrouch maroan','Nico Serrano':'serrano galdeano nicolás',
- 'Navarro':'navarro muñoz robert','Djaló':'djaló dias fernandes álvaro',
- 'Imga':'imga mitogo christian','Vizcay':'vizcay hurtado jesús','Conde':'conde albiol aritz'
- }
- changed=0
- for p in data['clubs']['Athletic Club']['squad']:
-  key=norm(names.get(p['name'],''))
-  if key in matches:
-   if p.get('photo')!=matches[key]:p['photo']=matches[key];changed+=1
- return changed
-def recre():
- soup=get('https://www.recreativohuelva.com/la-plantilla/')
- # Asociar exclusivamente si la foto tiene un texto alternativo con el nombre
- # deportivo o completo; no utilizar fotografías genéricas ni de otros jugadores.
- changed=0
- for p in data['clubs']['Recreativo de Huelva']['squad']:
+def find_nearby_image(heading,base):
+ # La fotografía puede estar en la misma tarjeta, en un hermano o en un ancestro.
+ for ancestor in [heading,*list(heading.parents)[:5]]:
+  images=ancestor.find_all('img') if hasattr(ancestor,'find_all') else []
+  usable=[src(img,base) for img in images]
+  usable=[url for url in usable if url and not any(x in url.lower() for x in ('logo','escudo','badge','flag','sponsor'))]
+  if len(set(usable))==1:return usable[0]
+ return ''
+def update_club(club,url):
+ soup=get(url)
+ players=data['clubs'][club]['squad']
+ updated=0
+ for p in players:
   name=norm(p['name'])
   candidates=[]
+  for heading in soup.find_all(['h2','h3','h4','h5','strong']):
+   title=norm(heading.get_text(' ',strip=True))
+   # Coincidencia exacta del nombre deportivo, con dorsal opcional.
+   title=re.sub(r'^\\d+\\s+','',title)
+   if title!=name:continue
+   photo=find_nearby_image(heading,url)
+   if photo:candidates.append(photo)
+  # Alternativa: alt de fotografía que coincide exactamente con nombre deportivo.
   for img in soup.find_all('img'):
-   alt=norm(img.get('alt',''))
-   url=src(img,'https://www.recreativohuelva.com/')
-   if alt and (alt==name or (len(name)>5 and name in alt)) and url and not any(x in url.lower() for x in ('logo','escudo')):
-    candidates.append(url)
+   if norm(img.get('alt',''))==name:
+    photo=src(img,url)
+    if photo:candidates.append(photo)
   if len(set(candidates))==1:
-   url=candidates[0]
-   if p.get('photo')!=url:p['photo']=url;changed+=1
- return changed
+   photo=candidates[0]
+   if p.get('photo')!=photo:p['photo']=photo;updated+=1
+ return updated
+def athletic():
+ return update_club('Athletic Club','https://www.athletic-club.eus/equipos/athletic-club/2026-27/plantilla/')
+def recre():
+ return update_club('Recreativo de Huelva','https://www.recreativohuelva.com/la-plantilla/')
 for label,fn in [('Athletic',athletic),('Recreativo',recre)]:
  try:print(label,'fotografías actualizadas:',fn())
  except Exception as exc:print(label,'sin cambios por error de fuente:',str(exc)[:160])
