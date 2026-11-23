@@ -42,6 +42,15 @@ def update_club(club,url):
    if title!=name:continue
    photo=find_nearby_image(heading,url)
    if photo:candidates.append(photo)
+  # En tablas de plantilla, el enlace del futbolista suele envolver su miniatura.
+  for a in soup.find_all('a'):
+   title=norm(a.get_text(' ',strip=True))
+   alt_text=norm(a.get('title',''))
+   if title!=name and alt_text!=name:continue
+   images=a.find_all('img')
+   urls={src(img,url) for img in images}
+   urls={u for u in urls if u and not any(w in u.lower() for w in ('logo','escudo','badge','flag'))}
+   if len(urls)==1:candidates.extend(urls)
   # Alternativa: alt de fotografía que coincide exactamente con nombre deportivo.
   for img in soup.find_all('img'):
    if norm(img.get('alt',''))==name:
