@@ -17,13 +17,13 @@ const detail=document.querySelector('#matchDetail');if(!detail)return;
 const competition=match.competition||'Competición no especificada';
 const state=match.finished?'Finalizado':'Programado';
 const events=Array.isArray(match.events)?match.events.filter(e=>e&&e.minute!=null&&e.type&&e.description):[];
-const eventHtml=events.length?'<h4>Cronología</h4><ol class="match-events">'+events.map(e=>'<li><strong>'+esc(e.minute)+'′ · '+esc(e.type)+'</strong> — '+esc(e.description)+'</li>').join('')+'</ol>':'<div class="club-empty">No hay cronología verificada disponible para este partido.</div>';
+const eventHtml=events.length?'<h4>Incidencias del partido</h4><ol class="match-events">'+events.map(e=>'<li><strong>'+esc(e.minute)+'′ · '+esc(e.type)+'</strong> — '+esc(e.description)+'</li>').join('')+'</ol>':'<div class="club-empty">El acta detallada de este encuentro todavía no está disponible en nuestras fuentes.</div>';
 const source=match.sourceUrl&&/^https:\/\//.test(match.sourceUrl)?'<p><a href="'+esc(match.sourceUrl)+'" target="_blank" rel="noopener noreferrer">Consultar acta o fuente del encuentro ↗</a></p>':'';
 detail.hidden=false;detail.innerHTML='<div class="match-detail-head"><h4>Ficha del partido</h4><button type="button" id="closeMatchDetail" aria-label="Cerrar ficha">Cerrar ×</button></div>'+
 '<div class="match-detail-score"><span>'+esc(match.home)+'</span><strong>'+esc(match.finished?match.score||'—':'vs')+'</strong><span>'+esc(match.away)+'</span></div>'+
 '<p class="small">'+esc(competition)+' · '+esc(match.date)+(match.time?' · '+esc(match.time)+' h (España peninsular)':'')+' · '+state+'</p>'+
 '<p class="small">Estadio: '+esc(match.venue||'Sin información contrastada')+'</p>'+eventHtml+source+
-'<p class="small">No se muestran goleadores, tarjetas ni sustituciones sin datos contrastados.</p>';
+'<p class="small">'+(match.detailsChecked?'Acta consultada: '+esc(match.detailsChecked.slice(0,10))+'.':'Pendiente de incorporar el acta oficial o una fuente verificable.')+'</p>';
 detail.querySelector('#closeMatchDetail').onclick=()=>{detail.hidden=true;detail.innerHTML=''};
 detail.scrollIntoView({behavior:'smooth',block:'nearest'});
 }
