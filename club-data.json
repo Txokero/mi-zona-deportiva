@@ -8,12 +8,14 @@
         {
           "number": 1,
           "name": "Unai Simón",
-          "position": "Portero"
+          "position": "Portero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/unai-simon-mendibil_L.png"
         },
         {
           "number": 13,
           "name": "Padilla",
-          "position": "Portero"
+          "position": "Portero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/alex-padilla-perez.png"
         },
         {
           "number": 3,
@@ -33,17 +35,20 @@
         {
           "number": 12,
           "name": "Areso",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/jesus-areso-blanco.png"
         },
         {
           "number": 14,
           "name": "Laporte",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/aymeric-laporte.png"
         },
         {
           "number": 15,
           "name": "H. Rincón",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/hugo-rincon-lumbreras.png"
         },
         {
           "number": 17,
