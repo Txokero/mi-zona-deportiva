@@ -342,7 +342,99 @@
           "competition": "Amistoso"
         }
       ],
-      "upcoming": [],
+      "upcoming": [
+        {
+          "date": "2026-11-28",
+          "time": "16:15",
+          "home": "Málaga CF",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 14"
+        },
+        {
+          "date": "2026-12-02",
+          "time": null,
+          "home": "CD Numancia",
+          "away": "Athletic Club",
+          "competition": "Copa del Rey · Segunda ronda"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "16:15",
+          "home": "Athletic Club",
+          "away": "Real Madrid",
+          "competition": "LaLiga · Jornada 15"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "20:00",
+          "home": "Rayo Vallecano",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 8"
+        },
+        {
+          "date": "2026-12-13",
+          "time": null,
+          "home": "RC Deportivo",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 16"
+        },
+        {
+          "date": "2026-12-20",
+          "time": null,
+          "home": "Athletic Club",
+          "away": "Real Betis",
+          "competition": "LaLiga · Jornada 17"
+        },
+        {
+          "date": "2027-01-03",
+          "time": null,
+          "home": "Racing de Santander",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 18"
+        },
+        {
+          "date": "2027-01-10",
+          "time": null,
+          "home": "Athletic Club",
+          "away": "Villarreal CF",
+          "competition": "LaLiga · Jornada 19"
+        },
+        {
+          "date": "2027-01-17",
+          "time": null,
+          "home": "Getafe CF",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 20"
+        },
+        {
+          "date": "2027-01-24",
+          "time": null,
+          "home": "Athletic Club",
+          "away": "Levante UD",
+          "competition": "LaLiga · Jornada 21"
+        },
+        {
+          "date": "2027-01-31",
+          "time": null,
+          "home": "Sevilla FC",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 22"
+        },
+        {
+          "date": "2027-02-07",
+          "time": null,
+          "home": "Athletic Club",
+          "away": "CA Osasuna",
+          "competition": "LaLiga · Jornada 23"
+        },
+        {
+          "date": "2027-02-14",
+          "time": null,
+          "home": "Real Madrid",
+          "away": "Athletic Club",
+          "competition": "LaLiga · Jornada 24"
+        }
+      ],
       "standings": [
         {
           "position": 1,
@@ -586,7 +678,8 @@
         }
       ],
       "standingsSource": "https://www.laliga.com/laliga-easports/clasificacion",
-      "resultsSource": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/partidos/"
+      "resultsSource": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/partidos/",
+      "upcomingSource": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/partidos/"
     },
     "Recreativo de Huelva": {
       "source": "https://www.recreativohuelva.com/la-plantilla/",
@@ -897,7 +990,85 @@
           "competition": "Amistoso · Trofeo Colombino"
         }
       ],
-      "upcoming": [],
+      "upcoming": [
+        {
+          "date": "2026-11-25",
+          "time": "18:00",
+          "home": "Sevilla Atlético",
+          "away": "Recreativo de Huelva",
+          "competition": "Segunda Federación · Jornada 11"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "12:00",
+          "home": "Marbella FC",
+          "away": "Recreativo de Huelva",
+          "competition": "Segunda Federación · Jornada 13"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "17:00",
+          "home": "CD Estepona",
+          "away": "Recreativo de Huelva",
+          "competition": "Segunda Federación · Jornada 14"
+        },
+        {
+          "date": "2026-12-13",
+          "time": null,
+          "home": "Recreativo de Huelva",
+          "away": "CD Tenerife B",
+          "competition": "Segunda Federación · Jornada 15"
+        },
+        {
+          "date": "2026-12-20",
+          "time": null,
+          "home": "Recreativo de Huelva",
+          "away": "CD Don Benito",
+          "competition": "Segunda Federación · Jornada 16"
+        },
+        {
+          "date": "2027-01-10",
+          "time": null,
+          "home": "Ciudad de Lucena",
+          "away": "Recreativo de Huelva",
+          "competition": "Segunda Federación · Jornada 17"
+        },
+        {
+          "date": "2027-01-17",
+          "time": null,
+          "home": "Recreativo de Huelva",
+          "away": "Atlético Central",
+          "competition": "Segunda Federación · Jornada 18"
+        },
+        {
+          "date": "2027-01-24",
+          "time": null,
+          "home": "Las Palmas Atlético",
+          "away": "Recreativo de Huelva",
+          "competition": "Segunda Federación · Jornada 19"
+        },
+        {
+          "date": "2027-01-31",
+          "time": null,
+          "home": "Recreativo de Huelva",
+          "away": "Linares Deportivo",
+          "competition": "Segunda Federación · Jornada 20"
+        },
+        {
+          "date": "2027-02-06",
+          "time": null,
+          "home": "CD Badajoz",
+          "away": "Recreativo de Huelva",
+          "competition": "Segunda Federación · Jornada 21"
+        },
+        {
+          "date": "2027-02-14",
+          "time": null,
+          "home": "Recreativo de Huelva",
+          "away": "CD Estepona",
+          "competition": "Segunda Federación · Jornada 22"
+        }
+      ],
       "standings": [
         {
           "position": 1,
@@ -1117,9 +1288,11 @@
         }
       ],
       "standingsSource": "https://oncedeoro.es/segunda-rfef/grupo-4/clasificacion/",
-      "resultsSource": "https://nuevo.futbolme.com/resultados-directo/equipo/rc-recreativo-de-huelva/464/calendario/"
+      "resultsSource": "https://nuevo.futbolme.com/resultados-directo/equipo/rc-recreativo-de-huelva/464/calendario/",
+      "upcomingSource": "https://www.resultadosrfef.es/equipo/recreativo-huelva-1886/calendario"
     }
   },
   "standingsUpdated": "2026-11-22",
-  "resultsUpdated": "2026-11-23"
+  "resultsUpdated": "2026-11-23",
+  "upcomingUpdated": "2026-11-23"
 }
