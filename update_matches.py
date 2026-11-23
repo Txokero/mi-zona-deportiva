@@ -49,11 +49,11 @@ def update():
             home=next((x for x in sides if x.get("homeAway")=="home"),None)
             away=next((x for x in sides if x.get("homeAway")=="away"),None)
             if not home or not away:continue
-            seen.add(eid)
             date_text=event.get("date","")
             try:
                 timestamp=dt.datetime.fromisoformat(date_text.replace("Z","+00:00")).astimezone(ZoneInfo('Europe/Madrid'))
             except ValueError:continue
+            seen.add(eid)
             item={"date":timestamp.date().isoformat(),"home":TARGET if normalized(home["team"].get("displayName","")) in ALIASES else home["team"].get("displayName",""),"away":TARGET if normalized(away["team"].get("displayName","")) in ALIASES else away["team"].get("displayName",""),"competition":"LaLiga","source":"ESPN","eventId":str(eid)}
             status=event.get("status",{}).get("type",{})
             if status.get("completed") is True and home.get("score") is not None and away.get("score") is not None:
@@ -88,7 +88,7 @@ def update():
     removed=before-len(club["upcoming"])
     # Los encuentros de LaLiga en la ventana se actualizan si coinciden por equipos y fecha.
     for match_new in future:
-        existing=next((x for x in club.get("upcoming",[]) if match(x,match_new)),None)
+        existing=next((x for x in club.get("upcoming",[]) if same_event(x,match_new)),None)
         if existing:
             if existing.get("date")!=match_new["date"]:
                 existing["date"]=match_new["date"]
@@ -105,6 +105,11 @@ def update():
     club["results"].sort(key=lambda x:x.get("date",""),reverse=True)
     club["upcoming"].sort(key=lambda x:x.get("date",""))
     # No borrar encuentros futuros automáticamente: la fuente puede estar incompleta.
+    # Excluir del calendario partidos pasados de LaLiga ya incluidos en resultados.
+    known_results=club.get("results",[])
+    old_count=len(club["upcoming"])
+    club["upcoming"]=[m for m in club["upcoming"] if not (("LaLiga" in m.get("competition","") or m.get("source")=="ESPN") and any(same_event(m,r) for r in known_results))]
+    removed+=old_count-len(club["upcoming"])
     if added or revised or removed:
         data["automaticUpdate"]={"source":"ESPN LaLiga","checkedAt":dt.datetime.now(dt.timezone.utc).isoformat(),"scope":"Athletic Club: LaLiga","added":added,"revised":revised,"removedCompleted":removed}
         PATH.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
