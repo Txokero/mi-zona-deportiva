@@ -27,26 +27,44 @@ def fetch_summary(event_id):
         return json.load(response)
 
 def detail_from_summary(payload, event_id):
+    """Extrae goles y minutos exclusivamente de incidencias identificadas como gol."""
     details={"sourceUrl":f"https://www.espn.com/soccer/match/_/gameId/{event_id}"}
     header=payload.get("header") or {}
     comps=header.get("competitions") or []
     competition=comps[0] if comps else {}
-    venue=(competition.get("venue") or {}).get("fullName") or (payload.get("gameInfo") or {}).get("venue",{}).get("fullName")
+    venue=(competition.get("venue") or {}).get("fullName") or ((payload.get("gameInfo") or {}).get("venue") or {}).get("fullName")
     if venue:details["venue"]=venue
     events=[]
-    for play in payload.get("keyEvents") or payload.get("plays") or []:
+    goals=[]
+    plays=payload.get("keyEvents") or payload.get("plays") or []
+    for play in plays:
         if not isinstance(play,dict):continue
         clock=play.get("clock") or {}
         minute=clock.get("displayValue") or play.get("minute")
         if minute is None:continue
-        raw_type=play.get("type")
-        kind=(raw_type.get("text") or raw_type.get("displayName") or "") if isinstance(raw_type,dict) else str(raw_type or "")
+        raw_type=play.get("type") or {}
+        kind=(raw_type.get("text") or raw_type.get("displayName") or raw_type.get("name") or "") if isinstance(raw_type,dict) else str(raw_type)
         text=play.get("text") or play.get("description") or play.get("shortText") or ""
         if not kind and not text:continue
-        # Los campos del proveedor se conservan sin deducir nombres o minutos.
-        if text:
-            events.append({"minute":str(minute).replace("'",""),"type":str(kind or "Incidencia")[:70],"description":str(text)[:300]})
+        if text:events.append({"minute":str(minute).replace("'",""),"type":str(kind or "Incidencia")[:70],"description":str(text)[:300]})
+        kind_lower=kind.lower()
+        # Evitar deducir goles a partir de frases ambiguas (p. ej. gol anulado).
+        is_goal=bool(play.get("scoringPlay") is True or kind_lower in ("goal","gol","own goal","penalty goal"))
+        if not is_goal or play.get("cancelled") is True:continue
+        athlete=play.get("athlete") or play.get("player") or {}
+        if not isinstance(athlete,dict):athlete={}
+        scorer=athlete.get("displayName") or athlete.get("fullName") or ""
+        if not scorer:
+            participants=play.get("participants") or []
+            if participants and isinstance(participants[0],dict):
+                p=participants[0].get("athlete") or participants[0].get("player") or {}
+                scorer=p.get("displayName") or p.get("fullName") or ""
+        if not scorer:continue
+        team=play.get("team") or {}
+        if not isinstance(team,dict):team={}
+        goals.append({"minute":str(minute).replace("'",""),"scorer":str(scorer)[:100],"team":str(team.get("displayName") or "")[:100],"ownGoal":"own goal" in kind_lower})
     if events:details["events"]=events
+    if goals:details["goals"]=goals
     return details
 
 def enrich_match_details(club):
@@ -55,7 +73,7 @@ def enrich_match_details(club):
     for match in club.get("results",[]):
         eid=str(match.get("eventId") or "")
         if not eid.isdigit() or (match.get("source")!="ESPN" and "LaLiga" not in match.get("competition","")):continue
-        if match.get("detailEventId")==eid and match.get("detailsChecked"):continue
+        if match.get("detailEventId")==eid and match.get("goalsChecked"):continue
         try:
             payload=fetch_summary(eid)
             if not payload.get("header"):continue
@@ -65,6 +83,7 @@ def enrich_match_details(club):
                 match[key]=value
             match["detailEventId"]=eid
             match["detailsChecked"]=dt.datetime.now(dt.timezone.utc).isoformat()
+            match["goalsChecked"]=True
             updated+=1
         except Exception as exc:
             print("ESPN acta no disponible",eid,str(exc)[:100])
