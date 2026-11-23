@@ -74,6 +74,13 @@ def athletic():
 RECRE_FULL_NAMES={
 'Jero Lario':'Jerónimo Manuel Lario Martínez','F. Padilla':'Fernando Padilla Pasión','Roan':'Roan Riera Bañuls','Nacho Ruiz':'Ignacio Ruiz Lluch','Bonaque':'Manuel Bonaque Acevedo','José Carlos':'José Carlos Ramírez Suárez','Iván Benito':'Iván Benito Mancera','A. Carrasco':'Alejandro Jesús Carrasco Navarro','Montero':'Mikel Montero Antúnez','Charbel':'Charbel Anthuan Wehbe González','Néstor Senra':'Néstor Senra Pérez','A. Vela':'Alberto Vela Serrano','Segura':'Juan Antonio Segura García','Ale Marín':'Alejandro Marín Díaz','Izaguirre':'Mateo Izaguirre','Álex Bernal':'Alejandro Bernal Carreras','L. Dasilva':'Luis Dasilva Rodríguez','Aitor G.':'Aitor García Flores','Leandro':'Leandro Martínez Ortiz','Agus Alonso':'Agustín Rafael Alonso Cavallero','Paolo':'Paolo Romero Monge','Pol Prats':'Pol Prats Moragrega','Hugo L.':'Hugo López Vargas','Chavarría':'Matías Nicolás Chavarría','Cortés':'Samuel Cruz Cortés Cortés'}
 def recre():
+ # LaPreferente muestra una ficha individual por jugador y suele incluir retratos.
+ # Usar como fuente complementaria únicamente con identificación inequívoca.
+ try:
+  n=update_club('Recreativo de Huelva','https://www.lapreferente.com/E3090C22299/real-club-recreativo-de-huelva-sad/fotos.html')
+  print('Recreativo LaPreferente:',n)
+ except Exception as exc:
+  print('LaPreferente no disponible:',str(exc)[:120])
  url='https://www.recreativohuelva.com/la-plantilla/'
  soup=get(url)
  updated=0
