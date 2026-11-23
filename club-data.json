@@ -1,14 +1,294 @@
 {
-  "updated": null,
+  "updated": "2026-11-23",
+  "season": "2026/27",
   "clubs": {
     "Athletic Club": {
-      "squad": [],
+      "source": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/plantilla/",
+      "squad": [
+        {
+          "number": 1,
+          "name": "Unai Simón",
+          "position": "Portero"
+        },
+        {
+          "number": 13,
+          "name": "Padilla",
+          "position": "Portero"
+        },
+        {
+          "number": 3,
+          "name": "Vivian",
+          "position": "Defensa"
+        },
+        {
+          "number": 4,
+          "name": "Paredes",
+          "position": "Defensa"
+        },
+        {
+          "number": 5,
+          "name": "Yeray",
+          "position": "Defensa"
+        },
+        {
+          "number": 12,
+          "name": "Areso",
+          "position": "Defensa"
+        },
+        {
+          "number": 14,
+          "name": "Laporte",
+          "position": "Defensa"
+        },
+        {
+          "number": 15,
+          "name": "H. Rincón",
+          "position": "Defensa"
+        },
+        {
+          "number": 17,
+          "name": "Yuri",
+          "position": "Defensa"
+        },
+        {
+          "number": 31,
+          "name": "Johaneko",
+          "position": "Defensa"
+        },
+        {
+          "number": null,
+          "name": "Egiluz",
+          "position": "Defensa"
+        },
+        {
+          "number": 6,
+          "name": "Prados",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 8,
+          "name": "O. Sancet",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 16,
+          "name": "R. de Galarreta",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 18,
+          "name": "Jauregizar",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 20,
+          "name": "Rego",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 24,
+          "name": "Gerenabarrena",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 28,
+          "name": "Canales",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 44,
+          "name": "Selton",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 7,
+          "name": "Berenguer",
+          "position": "Delantero"
+        },
+        {
+          "number": 9,
+          "name": "Williams",
+          "position": "Delantero"
+        },
+        {
+          "number": 10,
+          "name": "Nico Williams",
+          "position": "Delantero"
+        },
+        {
+          "number": 11,
+          "name": "Guruzeta",
+          "position": "Delantero"
+        },
+        {
+          "number": 21,
+          "name": "Maroan",
+          "position": "Delantero"
+        },
+        {
+          "number": 22,
+          "name": "Nico Serrano",
+          "position": "Delantero"
+        },
+        {
+          "number": 23,
+          "name": "Navarro",
+          "position": "Delantero"
+        },
+        {
+          "number": 25,
+          "name": "Djaló",
+          "position": "Delantero"
+        },
+        {
+          "number": 33,
+          "name": "Imga",
+          "position": "Delantero"
+        },
+        {
+          "number": 34,
+          "name": "Vizcay",
+          "position": "Delantero"
+        },
+        {
+          "number": 35,
+          "name": "Conde",
+          "position": "Delantero"
+        }
+      ],
       "results": [],
       "upcoming": [],
       "standings": []
     },
     "Recreativo de Huelva": {
-      "squad": [],
+      "source": "https://www.recreativohuelva.com/la-plantilla/",
+      "squad": [
+        {
+          "number": 1,
+          "name": "Jero Lario",
+          "position": "Portero"
+        },
+        {
+          "number": 13,
+          "name": "F. Padilla",
+          "position": "Portero"
+        },
+        {
+          "number": 2,
+          "name": "Roan",
+          "position": "Defensa"
+        },
+        {
+          "number": 3,
+          "name": "Nacho Ruiz",
+          "position": "Defensa"
+        },
+        {
+          "number": 4,
+          "name": "Bonaque",
+          "position": "Defensa"
+        },
+        {
+          "number": 5,
+          "name": "José Carlos",
+          "position": "Defensa"
+        },
+        {
+          "number": 12,
+          "name": "Iván Benito",
+          "position": "Defensa"
+        },
+        {
+          "number": 14,
+          "name": "Montero",
+          "position": "Defensa"
+        },
+        {
+          "number": 20,
+          "name": "Charbel",
+          "position": "Defensa"
+        },
+        {
+          "number": 22,
+          "name": "Néstor Senra",
+          "position": "Defensa"
+        },
+        {
+          "number": 24,
+          "name": "A. Carrasco",
+          "position": "Defensa"
+        },
+        {
+          "number": 6,
+          "name": "A. Vela",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 15,
+          "name": "Segura",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 18,
+          "name": "Izaguirre",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 21,
+          "name": "Álex Bernal",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 25,
+          "name": "L. Dasilva",
+          "position": "Centrocampista"
+        },
+        {
+          "number": 7,
+          "name": "Aitor G.",
+          "position": "Delantero"
+        },
+        {
+          "number": 8,
+          "name": "Leandro",
+          "position": "Delantero"
+        },
+        {
+          "number": 9,
+          "name": "Agus Alonso",
+          "position": "Delantero"
+        },
+        {
+          "number": 10,
+          "name": "Paolo",
+          "position": "Delantero"
+        },
+        {
+          "number": 11,
+          "name": "Pol Prats",
+          "position": "Delantero"
+        },
+        {
+          "number": 16,
+          "name": "Ale Marín",
+          "position": "Delantero"
+        },
+        {
+          "number": 17,
+          "name": "Hugo L.",
+          "position": "Delantero"
+        },
+        {
+          "number": 19,
+          "name": "Chavarría",
+          "position": "Delantero"
+        },
+        {
+          "number": 23,
+          "name": "Cortés",
+          "position": "Delantero"
+        }
+      ],
       "results": [],
       "upcoming": [],
       "standings": []
