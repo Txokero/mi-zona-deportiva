@@ -170,17 +170,20 @@
         {
           "number": 33,
           "name": "Imga",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/christian-imga-mitogo.png"
         },
         {
           "number": 34,
           "name": "Vizcay",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/jesus-vizcay-hurtado.png"
         },
         {
           "number": 35,
           "name": "Conde",
-          "position": "Delantero"
+          "position": "Delantero",
+          "photo": "https://cdn.athletic-club.eus/imagenes/player_images/medium/aritz-conde-albiol-ath.png"
         }
       ],
       "results": [],
@@ -193,7 +196,8 @@
         {
           "number": 1,
           "name": "Jero Lario",
-          "position": "Portero"
+          "position": "Portero",
+          "photo": "https://s1.abcstatics.com/huelva24/www/multimedia/recreativo/2025/09/24/jerolariorecreativo-U32352774272Wfm-1200x630%40huelva24.jpg"
         },
         {
           "number": 13,
@@ -213,7 +217,8 @@
         {
           "number": 4,
           "name": "Bonaque",
-          "position": "Defensa"
+          "position": "Defensa",
+          "photo": "https://www.huelvahoy.com/media/huelvahoy/images/2025/09/03/2025090313530782774.jpg"
         },
         {
           "number": 5,
