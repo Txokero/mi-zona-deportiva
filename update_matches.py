@@ -22,7 +22,7 @@ def normalized(s):
 def update():
     data=json.loads(PATH.read_text(encoding="utf-8"))
     club=data["clubs"][TARGET]
-    today=dt.datetime.now(dt.timezone.utc).date()
+    today=dt.datetime.now(ZoneInfo("Europe/Madrid")).date()
     # Se consulta el pasado reciente y las próximas cuatro semanas.
     dates=[today+dt.timedelta(days=i) for i in range(-8,29)]
     seen=set()
@@ -46,10 +46,10 @@ def update():
             if len(sides)!=2:continue
             names=[x.get("team",{}).get("displayName","") for x in sides]
             if not any(normalized(n) in ALIASES for n in names):continue
-            seen.add(eid)
             home=next((x for x in sides if x.get("homeAway")=="home"),None)
             away=next((x for x in sides if x.get("homeAway")=="away"),None)
             if not home or not away:continue
+            seen.add(eid)
             date_text=event.get("date","")
             try:
                 timestamp=dt.datetime.fromisoformat(date_text.replace("Z","+00:00")).astimezone(ZoneInfo('Europe/Madrid'))
@@ -69,8 +69,10 @@ def update():
         return x.get("date")==y.get("date") and normalized(x.get("home"))==normalized(y.get("home")) and normalized(x.get("away"))==normalized(y.get("away"))
     added=0
     revised=0
+    def same_event(x,y):
+        return bool(x.get("eventId") and y.get("eventId") and x["eventId"]==y["eventId"]) or match(x,y)
     for match_new in past:
-        existing=next((x for x in club.get("results",[]) if match(x,match_new)),None)
+        existing=next((x for x in club.get("results",[]) if same_event(x,match_new)),None)
         if existing:
             # No alterar resultados manuales discrepantes: requieren comprobación.
             if existing.get("score")!=match_new["score"]:
@@ -82,16 +84,22 @@ def update():
     # No se borran partidos por una simple ausencia en el proveedor.
     completed_ids={x["eventId"] for x in past}
     before=len(club.get("upcoming",[]))
-    club["upcoming"]=[x for x in club.get("upcoming",[]) if not (x.get("eventId") in completed_ids or (any(match(x,p) for p in past) and ("LaLiga" in x.get("competition","") or x.get("source")=="ESPN"))]
+    club["upcoming"]=[x for x in club.get("upcoming",[]) if not (x.get("eventId") in completed_ids or (any(same_event(x,p) for p in past) and ("LaLiga" in x.get("competition","") or x.get("source")=="ESPN"))]
     removed=before-len(club["upcoming"])
     # Los encuentros de LaLiga en la ventana se actualizan si coinciden por equipos y fecha.
     for match_new in future:
         existing=next((x for x in club.get("upcoming",[]) if match(x,match_new)),None)
         if existing:
+            if existing.get("date")!=match_new["date"]:
+                existing["date"]=match_new["date"]
+                revised+=1
             if existing.get("time")!=match_new["time"]:
                 existing["time"]=match_new["time"]
                 revised+=1
-        elif not any(match(x,match_new) for x in club.get("results",[])):
+            if not existing.get("eventId"):
+                existing["eventId"]=match_new["eventId"]
+                revised+=1
+        elif not any(same_event(x,match_new) for x in club.get("results",[])):
             club.setdefault("upcoming",[]).append(match_new)
             added+=1
     club["results"].sort(key=lambda x:x.get("date",""),reverse=True)
