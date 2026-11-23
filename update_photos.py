@@ -22,7 +22,7 @@ def src(img,base):
  return ''
 def find_nearby_image(heading,base):
  # La fotografía puede estar en la misma tarjeta, en un hermano o en un ancestro.
- for ancestor in [heading,*list(heading.parents)[:5]]:
+ for ancestor in [heading,*list(heading.parents)[:7]]:
   images=ancestor.find_all('img') if hasattr(ancestor,'find_all') else []
   usable=[src(img,base) for img in images]
   usable=[url for url in usable if url and not any(x in url.lower() for x in ('logo','escudo','badge','flag','sponsor'))]
@@ -68,11 +68,33 @@ def athletic():
   candidates=found.get(key,set())
   if len(candidates)==1:
    photo=next(iter(candidates))
-   if p.get('photo')!=photo:p['photo']=photo;updated+=1
+   if not p.get('photo'):p['photo']=photo;updated+=1
  print('Athletic: imágenes con alt:',len(found),'coincidencias:',sum(len(found.get(norm(x),set()))==1 for x in ATHLETIC_FULL_NAMES.values()))
  return updated
+RECRE_FULL_NAMES={
+'Jero Lario':'Jerónimo Manuel Lario Martínez','F. Padilla':'Fernando Padilla Pasión','Roan':'Roan Riera Bañuls','Nacho Ruiz':'Ignacio Ruiz Lluch','Bonaque':'Manuel Bonaque Acevedo','José Carlos':'José Carlos Ramírez Suárez','Iván Benito':'Iván Benito Mancera','A. Carrasco':'Alejandro Jesús Carrasco Navarro','Montero':'Mikel Montero Antúnez','Charbel':'Charbel Anthuan Wehbe González','Néstor Senra':'Néstor Senra Pérez','A. Vela':'Alberto Vela Serrano','Segura':'Juan Antonio Segura García','Ale Marín':'Alejandro Marín Díaz','Izaguirre':'Mateo Izaguirre','Álex Bernal':'Alejandro Bernal Carreras','L. Dasilva':'Luis Dasilva Rodríguez','Aitor G.':'Aitor García Flores','Leandro':'Leandro Martínez Ortiz','Agus Alonso':'Agustín Rafael Alonso Cavallero','Paolo':'Paolo Romero Monge','Pol Prats':'Pol Prats Moragrega','Hugo L.':'Hugo López Vargas','Chavarría':'Matías Nicolás Chavarría','Cortés':'Samuel Cruz Cortés Cortés'}
 def recre():
- return update_club('Recreativo de Huelva','https://www.recreativohuelva.com/la-plantilla/')
+ url='https://www.recreativohuelva.com/la-plantilla/'
+ soup=get(url)
+ updated=0
+ for p in data['clubs']['Recreativo de Huelva']['squad']:
+  if p.get('photo'):continue
+  targets={norm(p['name']),norm(RECRE_FULL_NAMES.get(p['name'],''))}
+  candidates=[]
+  for h in soup.find_all(['h2','h3','h4','h5','strong','p']):
+   title=re.sub(r'^\\d+\\s*\\.?\\s*','',norm(h.get_text(' ',strip=True)))
+   if title not in targets:continue
+   photo=find_nearby_image(h,url)
+   if photo:candidates.append(photo)
+  for img in soup.find_all('img'):
+   alt=norm(img.get('alt',''))
+   if alt in targets:
+    photo=src(img,url)
+    if photo:candidates.append(photo)
+  if len(set(candidates))==1:
+   p['photo']=candidates[0];updated+=1
+ print('Recreativo: identificadas',updated,'fotografías nuevas con nombre coincidente')
+ return updated
 for label,fn in [('Athletic',athletic),('Recreativo',recre)]:
  try:print(label,'fotografías actualizadas:',fn())
  except Exception as exc:print(label,'sin cambios por error de fuente:',str(exc)[:160])
