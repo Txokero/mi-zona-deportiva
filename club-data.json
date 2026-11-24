@@ -844,7 +844,54 @@
           "home": "Recreativo de Huelva",
           "away": "CD Badajoz",
           "score": "7-0",
-          "competition": "Segunda Federación · Jornada 12"
+          "competition": "Segunda Federación · Jornada 12",
+          "goals": [
+            {
+              "minute": "2",
+              "scorer": "Aitor García",
+              "team": "Recreativo de Huelva",
+              "ownGoal": false
+            },
+            {
+              "minute": "12",
+              "scorer": "Aitor García",
+              "team": "Recreativo de Huelva",
+              "ownGoal": false
+            },
+            {
+              "minute": "27",
+              "scorer": "Samu Cortés",
+              "team": "Recreativo de Huelva",
+              "ownGoal": false
+            },
+            {
+              "minute": "45+3",
+              "scorer": "Aitor García",
+              "team": "Recreativo de Huelva",
+              "ownGoal": false
+            },
+            {
+              "minute": "58",
+              "scorer": "Agustín Alonso (penalti)",
+              "team": "Recreativo de Huelva",
+              "ownGoal": false
+            },
+            {
+              "minute": "61",
+              "scorer": "Lolo González",
+              "team": "CD Badajoz",
+              "ownGoal": true
+            },
+            {
+              "minute": "87",
+              "scorer": "Manuel Bonaque",
+              "team": "Recreativo de Huelva",
+              "ownGoal": false
+            }
+          ],
+          "venue": "Nuevo Colombino",
+          "sourceUrl": "https://www.fotmob.com/es/matches/cd-badajoz-vs-recreativo-huelva/27lvrj",
+          "detailsChecked": "2026-11-24"
         },
         {
           "date": "2026-11-14",
