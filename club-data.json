@@ -192,7 +192,17 @@
           "home": "Athletic Club",
           "away": "RCD Espanyol",
           "score": "0-1",
-          "competition": "LaLiga · Jornada 13"
+          "competition": "LaLiga · Jornada 13",
+          "goals": [
+            {
+              "minute": "66",
+              "scorer": "Roberto Fernández",
+              "team": "RCD Espanyol"
+            }
+          ],
+          "venue": "San Mamés",
+          "sourceUrl": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/liga/partidos/athletic-club-vs-rcd-espanyol/1_8584/estadisticas/",
+          "detailsChecked": "2026-11-24"
         },
         {
           "date": "2026-11-07",
