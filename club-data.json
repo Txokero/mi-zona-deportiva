@@ -216,7 +216,26 @@
           "home": "Athletic Club",
           "away": "Real Sociedad",
           "score": "2-1",
-          "competition": "LaLiga · Jornada 11"
+          "competition": "LaLiga · Jornada 11",
+          "goals": [
+            {
+              "minute": "14",
+              "scorer": "Iñaki Williams",
+              "team": "Athletic Club"
+            },
+            {
+              "minute": "30",
+              "scorer": "Luka Sučić",
+              "team": "Real Sociedad"
+            },
+            {
+              "minute": "47",
+              "scorer": "Álex Berenguer (penalti)",
+              "team": "Athletic Club"
+            }
+          ],
+          "sourceUrl": "https://www.athletic-club.eus/equipos/athletic-club/2026-27/liga/partidos/athletic-club-vs-real-sociedad/1_8582/directo/",
+          "detailsChecked": "2026-11-24"
         },
         {
           "date": "2026-10-29",
@@ -971,7 +990,26 @@
           "home": "Recreativo de Huelva",
           "away": "Conil CF",
           "score": "2-1",
-          "competition": "Copa Federación · Cuartos"
+          "competition": "Copa Federación · Cuartos",
+          "goals": [
+            {
+              "minute": "14",
+              "scorer": "Roan Riera",
+              "team": "Recreativo de Huelva"
+            },
+            {
+              "minute": "60",
+              "scorer": "Samu Cortés",
+              "team": "Recreativo de Huelva"
+            },
+            {
+              "minute": "73",
+              "scorer": "Germán",
+              "team": "Conil CF"
+            }
+          ],
+          "sourceUrl": "https://www.bdfutbol.com/es/p/p.php?id=427731",
+          "detailsChecked": "2026-11-24"
         },
         {
           "date": "2026-09-27",
@@ -999,7 +1037,26 @@
           "home": "Recreativo de Huelva",
           "away": "Puente Genil FC",
           "score": "2-1",
-          "competition": "Segunda Federación · Jornada 2"
+          "competition": "Segunda Federación · Jornada 2",
+          "goals": [
+            {
+              "minute": "11",
+              "scorer": "Aitor García",
+              "team": "Recreativo de Huelva"
+            },
+            {
+              "minute": "70",
+              "scorer": "Antonio Pajuelo Olmedo",
+              "team": "Puente Genil FC"
+            },
+            {
+              "minute": "89",
+              "scorer": "Ale Marín",
+              "team": "Recreativo de Huelva"
+            }
+          ],
+          "sourceUrl": "https://www.sofascore.com/es/football/match/salerm-puente-genil-recreativo-de-huelva/BQFbsXAfc",
+          "detailsChecked": "2026-11-24"
         },
         {
           "date": "2026-09-09",
